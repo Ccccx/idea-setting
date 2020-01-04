@@ -1,0 +1,15 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="Images.SetBackgroundImage">
+    <keyboard-shortcut first-keystroke="ctrl alt f1" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="shift alt windows" />
+  </action>
+  <action id="setBackgroundImage">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
+</keymap>

@@ -1,0 +1,15 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Java/Annotations/Add Annotation" />
+    <ignoreAction name="Java/I18N/Convert to Basic Latin" />
+    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
+    <ignoreAction name="Java/Declaration/Implement abstract class or interface" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="Grails/Make property nullable" />
+    <ignoreAction name="Java/Declaration/Make method default" />
+  </component>
+</application>

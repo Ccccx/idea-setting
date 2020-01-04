@@ -1,0 +1,85 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="平台" />
+      <item value="FINISH" />
+      <item value="get on" />
+      <item value="上车" />
+      <item value="Arrival point" />
+      <item value="到达上车地点" />
+      <item value="rrival point" />
+      <item value="Location of work arrival" />
+      <item value="到达地点" />
+      <item value="Order Rob Message" />
+      <item value="have succeeded" />
+      <item value="已成功" />
+      <item value="successed" />
+      <item value="cancle" />
+      <item value="cancel" />
+      <item value="an absolute URL or resolvable hostname (the protocol is optional)." />
+      <item value="Resolving eureka endpoints via configuration" />
+      <item value="Cannot execute request on any known server" />
+      <item value="Feign Client Specification" />
+      <item value="contain" />
+      <item value="A name must be specified for all clients, whether or not a url is provided. * Can be specified as property key" />
+      <item value="The service id with optional protocol prefix" />
+      <item value="radius ionic" />
+      <item value="半径" />
+      <item value="扩展" />
+      <item value="Properties" />
+      <item value="重试" />
+      <item value="RETIY" />
+      <item value="radius" />
+      <item value=" radius" />
+      <item value="期望" />
+      <item value="Postgre" />
+      <item value="PostgreKeyGenerator" />
+      <item value="Unsupported Operation Exception" />
+      <item value="singleton List" />
+      <item value="third-party" />
+      <item value="第三方" />
+      <item value="bind Phone" />
+      <item value="exclude Nulls" />
+      <item value="the encoded password from storage to compare with" />
+      <item value="the raw password to encode and match" />
+      <item value="Illegal Access Exception" />
+      <item value="Blocking Load Balancer Client" />
+      <item value="INFO StatusLogger Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory." />
+      <item value="aware" />
+      <item value="established" />
+      <item value="ribbon" />
+      <item value="Template class that simplifies the execution of operations with retry semantics." />
+      <item value="Retry Template" />
+      <item value="symbol" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1240" />
+        <entry key="ENGLISH" value="1358" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="17" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="MALTESE" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SPANISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6ad5b78ae4e20181" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

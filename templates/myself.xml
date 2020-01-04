@@ -1,0 +1,9 @@
+<templateSet group="myself">
+  <template name="*" value=" *&#10; * @author $USER$&#10; * @Date $YEAR$-$MONTH$-$DAY$ $TIME$&#10; * @Version 1.0&#10; * @Description TODO&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MONTH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

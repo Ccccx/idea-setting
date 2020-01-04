@@ -1,0 +1,14 @@
+<templateSet group="output">
+  <template name="out" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="outClass" value="System.out.println(&quot;类：$CLASS_NAME$  执行方法：$CLASS_METHOD$&quot; + $END$);" description="打印类名" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

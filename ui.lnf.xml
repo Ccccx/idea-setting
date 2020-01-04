@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="729" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>
