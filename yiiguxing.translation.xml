@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
+      <item value="前缀" />
       <item value="Dict" />
       <item value="字典" />
       <item value="Dirt" />
@@ -49,13 +51,11 @@
       <item value="Illegal Access Exception" />
       <item value="Blocking Load Balancer Client" />
       <item value="INFO StatusLogger Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory." />
-      <item value="aware" />
-      <item value="established" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1242" />
-        <entry key="ENGLISH" value="1362" />
+        <entry key="ENGLISH" value="1364" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="1" />
