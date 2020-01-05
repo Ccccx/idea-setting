@@ -4,26 +4,13 @@
     <property name="created">2017-02-24T16:53:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2020-01-04T14:00:53</property>
+    <property name="modified">2020-01-05T10:31:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Verdana" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Verdana" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Verdana" />
+  <option name="CONSOLE_FONT_NAME" value="Verdana" />
   <colors>
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
