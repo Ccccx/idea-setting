@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max Period" />
+      <item value="period" />
+      <item value="max Attempts" />
       <item value="Combination" />
       <item value="组合" />
       <item value="组装" />
@@ -48,14 +51,11 @@
       <item value=" radius" />
       <item value="期望" />
       <item value="Postgre" />
-      <item value="PostgreKeyGenerator" />
-      <item value="Unsupported Operation Exception" />
-      <item value="singleton List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1247" />
-        <entry key="ENGLISH" value="1370" />
+        <entry key="CHINESE" value="1251" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="1" />
