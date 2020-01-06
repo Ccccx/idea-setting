@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="up to" />
+      <item value="截止到" />
       <item value="Return an immutable set of all the sources that will be added to an * ApplicationContext when {@link #run(String...)} is called." />
       <item value="Sources" />
       <item value="Custom" />
@@ -49,13 +51,11 @@
       <item value="third-party" />
       <item value="第三方" />
       <item value="bind Phone" />
-      <item value="exclude Nulls" />
-      <item value="the encoded password from storage to compare with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1245" />
-        <entry key="ENGLISH" value="1368" />
+        <entry key="CHINESE" value="1246" />
+        <entry key="ENGLISH" value="1369" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="1" />
