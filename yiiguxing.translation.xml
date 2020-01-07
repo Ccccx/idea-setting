@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hmac Credentials" />
       <item value="salt" />
       <item value="Formatting Conversion Service" />
       <item value="Contract" />
@@ -50,12 +51,11 @@
       <item value="Location of work arrival" />
       <item value="到达地点" />
       <item value="have succeeded" />
-      <item value="已成功" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1265" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1266" />
+        <entry key="ENGLISH" value="1392" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="1" />
