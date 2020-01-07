@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check order status then get" />
       <item value="Must *not* be returning null for an @Configurable class instance even when autowiring is NO" />
       <item value="Wireless Soap" />
       <item value="Configurable" />
@@ -50,7 +51,6 @@
       <item value="an absolute URL or resolvable hostname (the protocol is optional)." />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="Cannot execute request on any known server" />
-      <item value="Feign Client Specification" />
     </histories>
     <option name="languageScores">
       <map>
