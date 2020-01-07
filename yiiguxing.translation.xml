@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sneaky Throws" />
       <item value="check order status then get" />
       <item value="Must *not* be returning null for an @Configurable class instance even when autowiring is NO" />
       <item value="Wireless Soap" />
@@ -50,12 +51,11 @@
       <item value="cancel" />
       <item value="an absolute URL or resolvable hostname (the protocol is optional)." />
       <item value="Resolving eureka endpoints via configuration" />
-      <item value="Cannot execute request on any known server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1259" />
-        <entry key="ENGLISH" value="1385" />
+        <entry key="CHINESE" value="1260" />
+        <entry key="ENGLISH" value="1386" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="17" />
         <entry key="FILIPINO" value="1" />
