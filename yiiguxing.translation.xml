@@ -1,13 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Check if this bean factory contains a bean definition with the given name. * &lt;p&gt;Does not consider any hierarchy this factory may participate in, * and ignores any singleton beans that have been registered by * other means than bean definitions. * @param beanName the name of the bean to look for * @return if this bean factory contains a bean definition with the given name * @see #containsBean" />
+      <item value="Return a provider for the specified bean, allowing for lazy on-demand retrieval * of instances, including availability and uniqueness options." />
+      <item value="arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one)" />
+      <item value="* Used to dereference a {@link FactoryBean} instance and distinguish it from * beans &lt;i&gt;created&lt;/i&gt; by the FactoryBean. For example, if the bean named * {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} * will return the factory, not the instance returned by the factory." />
+      <item value="FACTORY BEAN PREFIX" />
+      <item value="Which type of instance will be returned * depends on the bean factory configuration" />
+      <item value="or a single shared instance (a superior * alternative to the Singleton design pattern, in which the instance is a * singleton in the scope of the factory)" />
+      <item value="the factory will return either an independent instance of a contained object * (the Prototype design pattern)," />
+      <item value="independent" />
+      <item value="either" />
+      <item value="This interface is implemented by objects that hold a number of bean definitions" />
       <item value="further interfaces such as {@link ListableBeanFactory} and * {@link org.springframework.beans.factory.config.ConfigurableBeanFactory} * are available for specific purposes." />
       <item value="This is the basic client view of a bean container;" />
       <item value="The root interface for accessing a Spring bean container." />
       <item value="* This is the basic client view of a bean container;" />
       <item value="further scopes are available depending on the concrete application * context" />
       <item value="the API is the same" />
-      <item value="Which type of instance will be returned * depends on the bean factory configuration" />
       <item value="n which the instance is a * singleton in the scope of the factory" />
       <item value="Which" />
       <item value="a superior * alternative to the Singleton design pattern" />
@@ -17,17 +27,14 @@
       <item value="a single shared instance" />
       <item value="he Prototype design pattern" />
       <item value="of" />
-      <item value="independent" />
       <item value="contained" />
       <item value="the factory will return either an independent instance of a contained object" />
       <item value="* the factory will return either an independent instance of a contained object" />
-      <item value="either" />
       <item value="Depending on the bean definition," />
       <item value="each uniquely identified by a String name" />
       <item value="identified" />
       <item value="uniquely" />
       <item value="This interface is implemented by objects that hold a number of bean definitions," />
-      <item value="This interface is implemented by objects that hold a number of bean definitions" />
       <item value="are available for specific purposes." />
       <item value="purposes" />
       <item value="further" />
@@ -44,18 +51,11 @@
       <item value="Retrieves the body of the request as binary data using a * {@link ServletInputStream}. Either this method or {@link #getReader} may * be called to read the body, not both." />
       <item value="Http Message Not Readable Exception" />
       <item value="Authentication Principal" />
-      <item value="Feign Argument Not Valid Exception" />
-      <item value="actual" />
-      <item value="Hmac Credentials" />
-      <item value="salt" />
-      <item value="Formatting Conversion Service" />
-      <item value="Contract" />
-      <item value="Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1312" />
-        <entry key="ENGLISH" value="1439" />
+        <entry key="CHINESE" value="1324" />
+        <entry key="ENGLISH" value="1451" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
