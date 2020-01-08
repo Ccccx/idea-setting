@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="further interfaces such as {@link ListableBeanFactory} and * {@link org.springframework.beans.factory.config.ConfigurableBeanFactory} * are available for specific purposes." />
+      <item value="This is the basic client view of a bean container;" />
+      <item value="The root interface for accessing a Spring bean container." />
+      <item value="* This is the basic client view of a bean container;" />
+      <item value="further scopes are available depending on the concrete application * context" />
+      <item value="the API is the same" />
+      <item value="Which type of instance will be returned * depends on the bean factory configuration" />
       <item value="n which the instance is a * singleton in the scope of the factory" />
       <item value="Which" />
       <item value="a superior * alternative to the Singleton design pattern" />
@@ -24,9 +31,7 @@
       <item value="are available for specific purposes." />
       <item value="purposes" />
       <item value="further" />
-      <item value="This is the basic client view of a bean container;" />
       <item value="* The root interface for accessing a Spring bean container." />
-      <item value="The root interface for accessing a Spring bean container." />
       <item value="Qualifier" />
       <item value="* {@link AutowireCandidateResolver} implementation that matches bean definition qualifiers * against {@link Qualifier qualifier annotations} on the field or parameter to be autowired. * Also supports suggested expression values through a {@link Value value} annotation." />
       <item value="declaration redundancy" />
@@ -46,16 +51,11 @@
       <item value="Formatting Conversion Service" />
       <item value="Contract" />
       <item value="Encoder" />
-      <item value="Decoder" />
-      <item value="Sneaky Throws" />
-      <item value="check order status then get" />
-      <item value="Must *not* be returning null for an @Configurable class instance even when autowiring is NO" />
-      <item value="Wireless Soap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1304" />
-        <entry key="ENGLISH" value="1431" />
+        <entry key="CHINESE" value="1312" />
+        <entry key="ENGLISH" value="1439" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
