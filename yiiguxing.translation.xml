@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;after&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;In case of a FactoryBean, this callback will be invoked for both the FactoryBean * instance and the objects created by the FactoryBean (as of Spring 2.0). The * post-processor can decide whether to apply to either the FactoryBean or created * objects or both through corresponding {@code bean instanceof FactoryBean} checks. * &lt;p&gt;This callback will also be invoked after a short-circuiting triggered by a * {@link InstantiationAwareBeanPostProcessor#postProcessBeforeInstantiation} method, * in contrast to all other {@code BeanPostProcessor} callbacks. * &lt;p&gt;The default implementation returns the given {@code bean} as-is." />
+      <item value="* Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;before&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;The default implementation returns the given {@code bean} as-is." />
+      <item value="Instantiation Aware Bean Post Processor" />
+      <item value="* &lt;p&gt;Typically, post-processors that populate beans via marker interfaces * or the like will implement {@link #postProcessBeforeInitialization}, * while post-processors that wrap beans with proxies will normally * implement {@link #postProcessAfterInitialization}." />
+      <item value="* Factory hook that allows for custom modification of new bean instances &amp;mdash; * for example, checking for marker interfaces or wrapping beans with proxies." />
+      <item value="* Fully create a new bean instance of the given class with the specified * autowire strategy. All constants defined in this interface are supported here. * &lt;p&gt;Performs full initialization of the bean, including all applicable * {@link BeanPostProcessor BeanPostProcessors}. This is effectively a superset * of what {@link #autowire} provides, adding {@link #initializeBean} behavior." />
+      <item value="deserialized" />
+      <item value="Bean Post Processors" />
+      <item value="Fully create a new bean instance of the given class. * &lt;p&gt;Performs full initialization of the bean, including all applicable" />
+      <item value="* Initialize the given raw bean, applying factory callbacks * such as {@code setBeanName} and {@code setBeanFactory}, * also applying all bean post processors (including ones which * might wrap the given raw bean)." />
+      <item value="etc" />
+      <item value="Constant that indicates no externally defined autowiring. Note that * BeanFactoryAware etc and annotation-driven injection will still be applied." />
       <item value="* Check if this bean factory contains a bean definition with the given name. * &lt;p&gt;Does not consider any hierarchy this factory may participate in, * and ignores any singleton beans that have been registered by * other means than bean definitions. * @param beanName the name of the bean to look for * @return if this bean factory contains a bean definition with the given name * @see #containsBean" />
       <item value="Return a provider for the specified bean, allowing for lazy on-demand retrieval * of instances, including availability and uniqueness options." />
       <item value="arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one)" />
@@ -39,23 +51,11 @@
       <item value="purposes" />
       <item value="further" />
       <item value="* The root interface for accessing a Spring bean container." />
-      <item value="Qualifier" />
-      <item value="* {@link AutowireCandidateResolver} implementation that matches bean definition qualifiers * against {@link Qualifier qualifier annotations} on the field or parameter to be autowired. * Also supports suggested expression values through a {@link Value value} annotation." />
-      <item value="declaration redundancy" />
-      <item value="declaration " />
-      <item value="SPELLING" />
-      <item value="Instant Order Context" />
-      <item value="Instantiation Strategy" />
-      <item value="位置" />
-      <item value="Default Listable Bean Factory" />
-      <item value="Retrieves the body of the request as binary data using a * {@link ServletInputStream}. Either this method or {@link #getReader} may * be called to read the body, not both." />
-      <item value="Http Message Not Readable Exception" />
-      <item value="Authentication Principal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1324" />
-        <entry key="ENGLISH" value="1451" />
+        <entry key="CHINESE" value="1337" />
+        <entry key="ENGLISH" value="1464" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
