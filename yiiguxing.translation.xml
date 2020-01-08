@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This interface is implemented by objects that hold a number of bean definitions" />
+      <item value="are available for specific purposes." />
+      <item value="purposes" />
+      <item value="further" />
+      <item value="This is the basic client view of a bean container;" />
+      <item value="* The root interface for accessing a Spring bean container." />
+      <item value="The root interface for accessing a Spring bean container." />
+      <item value="Qualifier" />
+      <item value="* {@link AutowireCandidateResolver} implementation that matches bean definition qualifiers * against {@link Qualifier qualifier annotations} on the field or parameter to be autowired. * Also supports suggested expression values through a {@link Value value} annotation." />
       <item value="declaration redundancy" />
       <item value="declaration " />
       <item value="SPELLING" />
@@ -42,22 +51,13 @@
       <item value="组合" />
       <item value="组装" />
       <item value="up to" />
-      <item value="截止到" />
-      <item value="Return an immutable set of all the sources that will be added to an * ApplicationContext when {@link #run(String...)} is called." />
-      <item value="Sources" />
-      <item value="Custom" />
-      <item value="payload" />
-      <item value="后缀" />
-      <item value="前缀" />
-      <item value="Dict" />
-      <item value="字典" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1401" />
+        <entry key="CHINESE" value="1282" />
+        <entry key="ENGLISH" value="1409" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="18" />
+        <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="1" />
