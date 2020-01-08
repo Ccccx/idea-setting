@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default Listable Bean Factory" />
       <item value="Retrieves the body of the request as binary data using a * {@link ServletInputStream}. Either this method or {@link #getReader} may * be called to read the body, not both." />
       <item value="Http Message Not Readable Exception" />
       <item value="Authentication Principal" />
@@ -50,12 +51,11 @@
       <item value="FINISH" />
       <item value="get on" />
       <item value="上车" />
-      <item value="Arrival point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1395" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1396" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="FILIPINO" value="1" />
