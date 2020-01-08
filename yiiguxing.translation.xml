@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declaration redundancy" />
+      <item value="declaration " />
+      <item value="SPELLING" />
+      <item value="Instant Order Context" />
       <item value="Instantiation Strategy" />
       <item value="位置" />
       <item value="Default Listable Bean Factory" />
@@ -47,15 +51,11 @@
       <item value="前缀" />
       <item value="Dict" />
       <item value="字典" />
-      <item value="Dirt" />
-      <item value="司机" />
-      <item value="平台" />
-      <item value="FINISH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1272" />
-        <entry key="ENGLISH" value="1400" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="18" />
         <entry key="FILIPINO" value="1" />
