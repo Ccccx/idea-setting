@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="surefire" />
+      <item value="conficts" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-enforcer-plugin:3.0.0-M3:enforce (enforce-banned-dependencies) on project call-driver: No rules are configured. Use the skip flag if you want to disable execution." />
       <item value="banned" />
       <item value="executions" />
@@ -49,13 +51,11 @@
       <item value="a superior * alternative to the Singleton design pattern" />
       <item value="alternative" />
       <item value="superior" />
-      <item value="Prototype" />
-      <item value="a single shared instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
-        <entry key="ENGLISH" value="1477" />
+        <entry key="CHINESE" value="1351" />
+        <entry key="ENGLISH" value="1478" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
