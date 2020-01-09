@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Classes for general actuator auto-configuration concerns." />
+      <item value="Spring Boot Actuator has a flexible audit framework that will publish events to an `AuditEventRepository`. Once Spring Security is in play it automatically publishes authentication events by default. This can be very useful for reporting, and also to implement a lock-out policy based on authentication failures." />
+      <item value="Spring Boot Actuator provides dimensional metrics by integrating with https://micrometer.io[Micrometer]." />
+      <item value="Metrics" />
+      <item value="* **Endpoints** Actuator endpoints allow you to monitor and interact with your application. Spring Boot includes a number of built-in endpoints and you can also add your own. For example the `health` endpoint provides basic application health information. Run up a basic application and look at `/actuator/health`." />
+      <item value="Features" />
+      <item value="The simplest way to enable the features is to add a dependency to the `spring-boot-starter-actuator` '`Starter`'. To add the actuator to a Maven-based project, add the following '`Starter`' dependency:" />
+      <item value="Spring Boot Actuator includes a number of additional features to help you monitor and manage your application when it's pushed to production. You can choose to manage and monitor your application using HTTP or JMX endpoints. Auditing, health and metrics gathering can be automatically applied to your application." />
       <item value="Composite Health Indicator Configuration" />
       <item value="donate" />
       <item value="* Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;after&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;In case of a FactoryBean, this callback will be invoked for both the FactoryBean * instance and the objects created by the FactoryBean (as of Spring 2.0). The * post-processor can decide whether to apply to either the FactoryBean or created * objects or both through corresponding {@code bean instanceof FactoryBean} checks. * &lt;p&gt;This callback will also be invoked after a short-circuiting triggered by a * {@link InstantiationAwareBeanPostProcessor#postProcessBeforeInstantiation} method, * in contrast to all other {@code BeanPostProcessor} callbacks. * &lt;p&gt;The default implementation returns the given {@code bean} as-is." />
@@ -43,19 +51,11 @@
       <item value="of" />
       <item value="contained" />
       <item value="the factory will return either an independent instance of a contained object" />
-      <item value="* the factory will return either an independent instance of a contained object" />
-      <item value="Depending on the bean definition," />
-      <item value="each uniquely identified by a String name" />
-      <item value="identified" />
-      <item value="uniquely" />
-      <item value="This interface is implemented by objects that hold a number of bean definitions," />
-      <item value="are available for specific purposes." />
-      <item value="purposes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1338" />
-        <entry key="ENGLISH" value="1465" />
+        <entry key="CHINESE" value="1346" />
+        <entry key="ENGLISH" value="1473" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
