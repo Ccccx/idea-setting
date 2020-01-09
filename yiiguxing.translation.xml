@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configuration" />
+      <item value="requires Unpack" />
       <item value="executions" />
       <item value="surefire" />
       <item value="conficts" />
@@ -49,13 +51,11 @@
       <item value="n which the instance is a * singleton in the scope of the factory" />
       <item value="Which" />
       <item value="a superior * alternative to the Singleton design pattern" />
-      <item value="alternative" />
-      <item value="superior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1352" />
-        <entry key="ENGLISH" value="1479" />
+        <entry key="CHINESE" value="1354" />
+        <entry key="ENGLISH" value="1481" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
