@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="helmet" />
       <item value="扫描" />
       <item value="performance" />
       <item value="dodgy code" />
@@ -50,12 +51,11 @@
       <item value="Fully create a new bean instance of the given class. * &lt;p&gt;Performs full initialization of the bean, including all applicable" />
       <item value="* Initialize the given raw bean, applying factory callbacks * such as {@code setBeanName} and {@code setBeanFactory}, * also applying all bean post processors (including ones which * might wrap the given raw bean)." />
       <item value="etc" />
-      <item value="Constant that indicates no externally defined autowiring. Note that * BeanFactoryAware etc and annotation-driven injection will still be applied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1362" />
-        <entry key="ENGLISH" value="1491" />
+        <entry key="CHINESE" value="1363" />
+        <entry key="ENGLISH" value="1492" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
