@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扫描" />
+      <item value="performance" />
+      <item value="dodgy code" />
+      <item value="may expose internal representation by storing an externally mutable object into" />
+      <item value="Priority" />
+      <item value="vulnerability" />
+      <item value="malicious" />
+      <item value="malicious code vulnerability" />
       <item value="manifest" />
       <item value="ELIFECYCLE" />
       <item value="ELIFE CYCLE" />
@@ -43,19 +51,11 @@
       <item value="* Initialize the given raw bean, applying factory callbacks * such as {@code setBeanName} and {@code setBeanFactory}, * also applying all bean post processors (including ones which * might wrap the given raw bean)." />
       <item value="etc" />
       <item value="Constant that indicates no externally defined autowiring. Note that * BeanFactoryAware etc and annotation-driven injection will still be applied." />
-      <item value="* Check if this bean factory contains a bean definition with the given name. * &lt;p&gt;Does not consider any hierarchy this factory may participate in, * and ignores any singleton beans that have been registered by * other means than bean definitions. * @param beanName the name of the bean to look for * @return if this bean factory contains a bean definition with the given name * @see #containsBean" />
-      <item value="Return a provider for the specified bean, allowing for lazy on-demand retrieval * of instances, including availability and uniqueness options." />
-      <item value="arguments to use when creating a bean instance using explicit arguments * (only applied when creating a new instance as opposed to retrieving an existing one)" />
-      <item value="* Used to dereference a {@link FactoryBean} instance and distinguish it from * beans &lt;i&gt;created&lt;/i&gt; by the FactoryBean. For example, if the bean named * {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} * will return the factory, not the instance returned by the factory." />
-      <item value="FACTORY BEAN PREFIX" />
-      <item value="Which type of instance will be returned * depends on the bean factory configuration" />
-      <item value="or a single shared instance (a superior * alternative to the Singleton design pattern, in which the instance is a * singleton in the scope of the factory)" />
-      <item value="the factory will return either an independent instance of a contained object * (the Prototype design pattern)," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1362" />
-        <entry key="ENGLISH" value="1490" />
+        <entry key="ENGLISH" value="1491" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
@@ -68,10 +68,10 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
@@ -79,6 +79,7 @@
       <youdao-translate>
         <option name="appId" value="6ad5b78ae4e20181" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
