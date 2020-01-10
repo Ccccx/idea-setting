@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ELIFECYCLE" />
+      <item value="ELIFE CYCLE" />
       <item value="http Equiv" />
       <item value="Icon Chevron Right" />
       <item value="CONTINUE" />
@@ -49,8 +51,6 @@
       <item value="or a single shared instance (a superior * alternative to the Singleton design pattern, in which the instance is a * singleton in the scope of the factory)" />
       <item value="the factory will return either an independent instance of a contained object * (the Prototype design pattern)," />
       <item value="independent" />
-      <item value="either" />
-      <item value="This interface is implemented by objects that hold a number of bean definitions" />
     </histories>
     <option name="languageScores">
       <map>
