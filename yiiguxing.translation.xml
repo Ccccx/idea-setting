@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoker" />
+      <item value="the interface or abstract class representing the factory" />
       <item value="obtain Fresh Bean Factory" />
       <item value="Initialize any placeholder property sources in the context environment." />
       <item value="resolve Required Placeholders" />
@@ -49,13 +51,11 @@
       <item value="Instantiation Aware Bean Post Processor" />
       <item value="* &lt;p&gt;Typically, post-processors that populate beans via marker interfaces * or the like will implement {@link #postProcessBeforeInitialization}, * while post-processors that wrap beans with proxies will normally * implement {@link #postProcessAfterInitialization}." />
       <item value="* Factory hook that allows for custom modification of new bean instances &amp;mdash; * for example, checking for marker interfaces or wrapping beans with proxies." />
-      <item value="* Fully create a new bean instance of the given class with the specified * autowire strategy. All constants defined in this interface are supported here. * &lt;p&gt;Performs full initialization of the bean, including all applicable * {@link BeanPostProcessor BeanPostProcessors}. This is effectively a superset * of what {@link #autowire} provides, adding {@link #initializeBean} behavior." />
-      <item value="deserialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1367" />
-        <entry key="ENGLISH" value="1496" />
+        <entry key="CHINESE" value="1369" />
+        <entry key="ENGLISH" value="1498" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
