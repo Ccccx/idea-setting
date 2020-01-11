@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain Fresh Bean Factory" />
+      <item value="Initialize any placeholder property sources in the context environment." />
+      <item value="resolve Required Placeholders" />
+      <item value="Set the config locations for this application context. * &lt;p&gt;If not set, the implementation may use a default as appropriate." />
       <item value="helmet" />
       <item value="扫描" />
       <item value="performance" />
@@ -47,15 +51,11 @@
       <item value="* Factory hook that allows for custom modification of new bean instances &amp;mdash; * for example, checking for marker interfaces or wrapping beans with proxies." />
       <item value="* Fully create a new bean instance of the given class with the specified * autowire strategy. All constants defined in this interface are supported here. * &lt;p&gt;Performs full initialization of the bean, including all applicable * {@link BeanPostProcessor BeanPostProcessors}. This is effectively a superset * of what {@link #autowire} provides, adding {@link #initializeBean} behavior." />
       <item value="deserialized" />
-      <item value="Bean Post Processors" />
-      <item value="Fully create a new bean instance of the given class. * &lt;p&gt;Performs full initialization of the bean, including all applicable" />
-      <item value="* Initialize the given raw bean, applying factory callbacks * such as {@code setBeanName} and {@code setBeanFactory}, * also applying all bean post processors (including ones which * might wrap the given raw bean)." />
-      <item value="etc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1363" />
-        <entry key="ENGLISH" value="1492" />
+        <entry key="CHINESE" value="1367" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
@@ -68,18 +68,12 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6ad5b78ae4e20181" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
