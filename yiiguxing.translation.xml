@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new Singleton" />
+      <item value="We're assumably within a circular reference." />
+      <item value="Fail if we're already creating this bean instance:" />
       <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
       <item value="determine Highest Priority Candidate" />
       <item value="* Scope identifier for the standard prototype scope: {@value}. * &lt;p&gt;Custom scopes can be added via {@code registerScope}." />
@@ -48,14 +51,11 @@
       <item value="* **Endpoints** Actuator endpoints allow you to monitor and interact with your application. Spring Boot includes a number of built-in endpoints and you can also add your own. For example the `health` endpoint provides basic application health information. Run up a basic application and look at `/actuator/health`." />
       <item value="Features" />
       <item value="The simplest way to enable the features is to add a dependency to the `spring-boot-starter-actuator` '`Starter`'. To add the actuator to a Maven-based project, add the following '`Starter`' dependency:" />
-      <item value="Spring Boot Actuator includes a number of additional features to help you monitor and manage your application when it's pushed to production. You can choose to manage and monitor your application using HTTP or JMX endpoints. Auditing, health and metrics gathering can be automatically applied to your application." />
-      <item value="Composite Health Indicator Configuration" />
-      <item value="donate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1503" />
+        <entry key="CHINESE" value="1377" />
+        <entry key="ENGLISH" value="1506" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
