@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="beans Of Type Including Ancestors" />
       <item value="* Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans." />
       <item value="initializing" />
@@ -50,12 +51,11 @@
       <item value="Exclude specific auto-configuration classes such that they will never be applied." />
       <item value="Classes for general actuator auto-configuration concerns." />
       <item value="Spring Boot Actuator has a flexible audit framework that will publish events to an `AuditEventRepository`. Once Spring Security is in play it automatically publishes authentication events by default. This can be very useful for reporting, and also to implement a lock-out policy based on authentication failures." />
-      <item value="Spring Boot Actuator provides dimensional metrics by integrating with https://micrometer.io[Micrometer]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1380" />
-        <entry key="ENGLISH" value="1509" />
+        <entry key="CHINESE" value="1381" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
