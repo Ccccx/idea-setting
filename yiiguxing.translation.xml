@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inventory" />
       <item value="new Singleton" />
       <item value="We're assumably within a circular reference." />
       <item value="Fail if we're already creating this bean instance:" />
@@ -50,7 +51,6 @@
       <item value="Metrics" />
       <item value="* **Endpoints** Actuator endpoints allow you to monitor and interact with your application. Spring Boot includes a number of built-in endpoints and you can also add your own. For example the `health` endpoint provides basic application health information. Run up a basic application and look at `/actuator/health`." />
       <item value="Features" />
-      <item value="The simplest way to enable the features is to add a dependency to the `spring-boot-starter-actuator` '`Starter`'. To add the actuator to a Maven-based project, add the following '`Starter`' dependency:" />
     </histories>
     <option name="languageScores">
       <map>
