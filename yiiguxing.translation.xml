@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Entity Resolver" />
       <item value="序列" />
       <item value="count" />
       <item value="sum" />
@@ -50,12 +51,11 @@
       <item value="CONTINUE" />
       <item value="If the file is a directory then the directory must be empty. In some * implementations a directory has entries for special files or links that * are created when the directory is created. In such implementations a * directory is considered empty when only the special entries exist. * This method can be used with the {@link #walkFileTree walkFileTree} * method to delete a directory and all entries in the directory, or an * entire &lt;i&gt;file-tree&lt;/i&gt; where required." />
       <item value="p&gt; An implementation may require to examine the file to determine if the * file is a directory. Consequently this method may not be atomic with respect * to other file system operations. If the file is a symbolic link then the * symbolic link itself, not the final target of the link, is deleted." />
-      <item value="Directory Not Empty Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1521" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1522" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
