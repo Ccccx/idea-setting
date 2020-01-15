@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="squence" />
+      <item value="distributed-id" />
       <item value="nacos" />
       <item value="set Entity Resolver" />
       <item value="序列" />
@@ -49,8 +51,6 @@
       <item value="ELIFE CYCLE" />
       <item value="http Equiv" />
       <item value="Icon Chevron Right" />
-      <item value="CONTINUE" />
-      <item value="If the file is a directory then the directory must be empty. In some * implementations a directory has entries for special files or links that * are created when the directory is created. In such implementations a * directory is considered empty when only the special entries exist. * This method can be used with the {@link #walkFileTree walkFileTree} * method to delete a directory and all entries in the directory, or an * entire &lt;i&gt;file-tree&lt;/i&gt; where required." />
     </histories>
     <option name="languageScores">
       <map>
