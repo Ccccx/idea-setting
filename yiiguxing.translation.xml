@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the least significant 64 bits of this UUID's 128 bit value." />
+      <item value="Constructs a new {@code UUID} using the specified data. {@code * mostSigBits} is used for the most significant 64 bits of the {@code * UUID} and {@code leastSigBits} becomes the least significant 64 bits of * the {@code UUID}." />
+      <item value="The most significant bits of the {@code UUID}" />
+      <item value="UUID" />
+      <item value="A simple {@link IdGenerator} that starts at 1 and increments by 1 with each call." />
       <item value="sequence" />
       <item value="squence" />
       <item value="distributed-id" />
@@ -46,16 +51,11 @@
       <item value="Priority" />
       <item value="vulnerability" />
       <item value="malicious" />
-      <item value="malicious code vulnerability" />
-      <item value="manifest" />
-      <item value="ELIFECYCLE" />
-      <item value="ELIFE CYCLE" />
-      <item value="http Equiv" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1522" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1527" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
