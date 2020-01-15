@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sentinel" />
       <item value="is available from the following locations" />
       <item value="hile parsing a block mapping" />
       <item value="rush" />
@@ -50,7 +51,6 @@
       <item value="扫描" />
       <item value="performance" />
       <item value="dodgy code" />
-      <item value="may expose internal representation by storing an externally mutable object into" />
     </histories>
     <option name="languageScores">
       <map>
