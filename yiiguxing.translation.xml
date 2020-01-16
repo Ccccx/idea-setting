@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="taxi-hailing" />
+      <item value="约车" />
+      <item value="派单" />
       <item value="fatal" />
       <item value="missing-topics-fatal" />
       <item value="sentinel" />
@@ -48,14 +51,11 @@
       <item value="obtain Fresh Bean Factory" />
       <item value="Initialize any placeholder property sources in the context environment." />
       <item value="resolve Required Placeholders" />
-      <item value="Set the config locations for this application context. * &lt;p&gt;If not set, the implementation may use a default as appropriate." />
-      <item value="helmet" />
-      <item value="扫描" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1398" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
