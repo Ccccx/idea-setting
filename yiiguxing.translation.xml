@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REPLICA PREFERRED" />
+      <item value="Setting to read preferred from replica and fall back to master if no replica is not available." />
       <item value="生成" />
       <item value="Full authentication is required to access this resource" />
       <item value="预约订单" />
@@ -49,13 +51,11 @@
       <item value="We're assumably within a circular reference." />
       <item value="Fail if we're already creating this bean instance:" />
       <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
-      <item value="determine Highest Priority Candidate" />
-      <item value="* Scope identifier for the standard prototype scope: {@value}. * &lt;p&gt;Custom scopes can be added via {@code registerScope}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1541" />
+        <entry key="CHINESE" value="1404" />
+        <entry key="ENGLISH" value="1543" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
