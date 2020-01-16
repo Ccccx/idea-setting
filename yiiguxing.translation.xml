@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="Full authentication is required to access this resource" />
       <item value="预约订单" />
       <item value="BOOK ORDER" />
@@ -30,7 +31,6 @@
       <item value="序列" />
       <item value="count" />
       <item value="sum" />
-      <item value="生成" />
       <item value="Gennerator" />
       <item value="ID Gennerator" />
       <item value="suffix" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1540" />
+        <entry key="ENGLISH" value="1541" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
