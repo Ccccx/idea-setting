@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SLAVE PREFERRED" />
+      <item value="Setting to read preferred from replicas and fall back to master if no replica is not available." />
+      <item value="Setting to read preferred from replica and fall back to master if no replica is not available." />
+      <item value="Retrieve members selected by distance with the center of {@code longitude} and {@code latitude}." />
+      <item value="sync" />
+      <item value="// TODO: any other connection processing?" />
+      <item value="do In Redis" />
+      <item value="Required" />
       <item value="* Central delegate that manages resources and transaction synchronizations per thread. * To be used by resource management code but not by typical application code." />
       <item value="register Synchronization" />
       <item value="potentially Register Transaction Synchronisation" />
@@ -8,7 +16,6 @@
       <item value="expose Connection" />
       <item value="lettuce" />
       <item value="REPLICA PREFERRED" />
-      <item value="Setting to read preferred from replica and fall back to master if no replica is not available." />
       <item value="生成" />
       <item value="Full authentication is required to access this resource" />
       <item value="预约订单" />
@@ -44,18 +51,11 @@
       <item value="suffix" />
       <item value="尾缀" />
       <item value="前缀" />
-      <item value="ID Pattern" />
-      <item value="图案" />
-      <item value="格式" />
-      <item value="Patener" />
-      <item value="exclude" />
-      <item value="beans Of Type Including Ancestors" />
-      <item value="* Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1410" />
-        <entry key="ENGLISH" value="1549" />
+        <entry key="CHINESE" value="1418" />
+        <entry key="ENGLISH" value="1557" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
