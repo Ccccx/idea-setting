@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stateful Connection" />
+      <item value="standalone Config" />
       <item value="replication " />
       <item value="SLAVE PREFERRED" />
       <item value="Setting to read preferred from replicas and fall back to master if no replica is not available." />
@@ -49,13 +51,11 @@
       <item value="sum" />
       <item value="Gennerator" />
       <item value="ID Gennerator" />
-      <item value="suffix" />
-      <item value="尾缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1557" />
+        <entry key="CHINESE" value="1420" />
+        <entry key="ENGLISH" value="1559" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
