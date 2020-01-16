@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约订单" />
+      <item value="BOOK ORDER" />
+      <item value="instant order" />
+      <item value="allocation" />
+      <item value="分配" />
+      <item value="即时" />
       <item value="taxi-hailing" />
       <item value="约车" />
       <item value="派单" />
@@ -45,17 +51,11 @@
       <item value="determine Highest Priority Candidate" />
       <item value="* Scope identifier for the standard prototype scope: {@value}. * &lt;p&gt;Custom scopes can be added via {@code registerScope}." />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port." />
-      <item value="Communications" />
-      <item value="Invoker" />
-      <item value="the interface or abstract class representing the factory" />
-      <item value="obtain Fresh Bean Factory" />
-      <item value="Initialize any placeholder property sources in the context environment." />
-      <item value="resolve Required Placeholders" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1398" />
-        <entry key="ENGLISH" value="1532" />
+        <entry key="CHINESE" value="1401" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
