@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Detected the following recursive expression cycle in 'maven.build.timestamp': [maven.build.timestamp]" />
+      <item value="transitive dependencies (if any) will not be available" />
       <item value="Some problems were encountered while building the effective settings" />
       <item value="Positive" />
       <item value="You use Maven 3.6.0, there could be issues importing multimodule project. It is recommended to upgrade or downgrade Maven version" />
@@ -49,13 +51,11 @@
       <item value="Constructs a new {@code UUID} using the specified data. {@code * mostSigBits} is used for the most significant 64 bits of the {@code * UUID} and {@code leastSigBits} becomes the least significant 64 bits of * the {@code UUID}." />
       <item value="The most significant bits of the {@code UUID}" />
       <item value="UUID" />
-      <item value="A simple {@link IdGenerator} that starts at 1 and increments by 1 with each call." />
-      <item value="sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1426" />
-        <entry key="ENGLISH" value="1565" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1567" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
