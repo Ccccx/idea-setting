@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
+      <item value="notify" />
+      <item value="通知" />
       <item value="Security framework of XStream not initialized, XStream is probably vulnerable." />
       <item value="overriding is disabled." />
       <item value="Cannot register bean definition" />
@@ -48,14 +51,11 @@
       <item value="lettuce" />
       <item value="REPLICA PREFERRED" />
       <item value="生成" />
-      <item value="Full authentication is required to access this resource" />
-      <item value="预约订单" />
-      <item value="BOOK ORDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1433" />
-        <entry key="ENGLISH" value="1584" />
+        <entry key="CHINESE" value="1434" />
+        <entry key="ENGLISH" value="1586" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
