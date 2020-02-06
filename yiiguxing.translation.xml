@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="detect" />
       <item value="转换" />
+      <item value="detect" />
       <item value="notify" />
       <item value="通知" />
       <item value="Security framework of XStream not initialized, XStream is probably vulnerable." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1434" />
-        <entry key="ENGLISH" value="1587" />
+        <entry key="ENGLISH" value="1588" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
