@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asserts that a condition is true. If it isn't it throws an" />
       <item value="Bean already defined with the same name" />
       <item value="retrieve User" />
       <item value="level" />
@@ -50,12 +51,11 @@
       <item value="// TODO: any other connection processing?" />
       <item value="do In Redis" />
       <item value="Required" />
-      <item value="* Central delegate that manages resources and transaction synchronizations per thread. * To be used by resource management code but not by typical application code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
-        <entry key="ENGLISH" value="1593" />
+        <entry key="CHINESE" value="1440" />
+        <entry key="ENGLISH" value="1594" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
