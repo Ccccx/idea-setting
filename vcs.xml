@@ -422,9 +422,13 @@
           <option name="url" value="https://github.com/Ccccx/maven-enforcer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@codeup.teambition.com:5da44329a612fe0001b7e8b6/zhengz_disncov.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IDEA" />
+    <option name="cloneParentDir" value="E:\IDEA\a-tm" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
