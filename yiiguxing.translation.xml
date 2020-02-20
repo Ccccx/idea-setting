@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Numeric" />
       <item value="expect Status" />
       <item value="Reflective Feign" />
       <item value="Full authentication is required to access this resource" />
@@ -50,12 +51,11 @@
       <item value="transitive dependencies (if any) will not be available" />
       <item value="Some problems were encountered while building the effective settings" />
       <item value="Positive" />
-      <item value="You use Maven 3.6.0, there could be issues importing multimodule project. It is recommended to upgrade or downgrade Maven version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1448" />
-        <entry key="ENGLISH" value="1607" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
