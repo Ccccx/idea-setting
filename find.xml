@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'call-driver'" />
-    <option name="defaultScopeName" value="Module 'call-driver'" />
+    <option name="customScope" value="Project 'taxi-platform'" />
+    <option name="defaultScopeName" value="Project 'taxi-platform'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'call-driver'" />
+    <option name="SEARCH_SCOPE" value="Project 'taxi-platform'" />
   </component>
 </application>
