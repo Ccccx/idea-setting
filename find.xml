@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'taxi-platform'" />
-    <option name="defaultScopeName" value="Project 'taxi-platform'" />
+    <option name="customScope" value="Directory '...\call-parent\call-psg [call-psg]'" />
+    <option name="defaultScopeName" value="Directory '...\call-parent\call-psg [call-psg]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'taxi-platform'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\call-parent\call-psg [call-psg]'" />
   </component>
 </application>
