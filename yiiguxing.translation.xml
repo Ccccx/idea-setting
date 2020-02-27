@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
+      <item value="Communications" />
       <item value="weak" />
       <item value="dodgy code" />
       <item value="Priority" />
@@ -49,13 +51,11 @@
       <item value="PENDING" />
       <item value="encode" />
       <item value="Delegate" />
-      <item value="pretty Print" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1452" />
-        <entry key="ENGLISH" value="1611" />
+        <entry key="CHINESE" value="1454" />
+        <entry key="ENGLISH" value="1613" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
@@ -68,23 +68,12 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6ad5b78ae4e20181" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
