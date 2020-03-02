@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
       <item value="改变" />
       <item value="resolve" />
       <item value="解决" />
@@ -30,7 +31,6 @@
       <item value="indentation" />
       <item value="resize" />
       <item value=" location" />
-      <item value="原始" />
       <item value="check Person Is Existed" />
       <item value="纬度" />
       <item value="维度" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1460" />
-        <entry key="ENGLISH" value="1622" />
+        <entry key="ENGLISH" value="1623" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
