@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enhance" />
+      <item value="增强" />
+      <item value="results" />
+      <item value="成绩提升" />
+      <item value="promote" />
+      <item value="提升" />
+      <item value="强化" />
       <item value="permissions Data" />
       <item value="权限" />
       <item value="可见的" />
@@ -14,7 +21,6 @@
       <item value="操作" />
       <item value="Option" />
       <item value="form" />
-      <item value="enhance" />
       <item value="Permission Data Aspect" />
       <item value="Communications link failure" />
       <item value="Communications" />
@@ -45,17 +51,11 @@
       <item value="idle" />
       <item value="incorrect" />
       <item value="Asserts that a condition is true. If it isn't it throws an" />
-      <item value="Bean already defined with the same name" />
-      <item value="retrieve User" />
-      <item value="level" />
-      <item value="Validate" />
-      <item value="验证" />
-      <item value="Allows explicitly ordering the property in the model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1461" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="CHINESE" value="1463" />
+        <entry key="ENGLISH" value="1630" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
