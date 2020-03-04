@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="records" />
+      <item value="physic" />
       <item value="COMMA" />
       <item value="judged Is Useless Field" />
       <item value="verify" />
@@ -49,13 +51,11 @@
       <item value="纬度" />
       <item value="维度" />
       <item value="经度" />
-      <item value="companion" />
-      <item value="Multi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1466" />
-        <entry key="ENGLISH" value="1633" />
+        <entry key="CHINESE" value="1468" />
+        <entry key="ENGLISH" value="1635" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
