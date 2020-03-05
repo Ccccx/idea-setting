@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="camel To Underline" />
+      <item value="camel" />
+      <item value="Condition" />
+      <item value="条件" />
+      <item value="Validate" />
+      <item value="验证" />
       <item value="convert Show Type" />
       <item value="has Fill Rule Fields" />
       <item value="最低" />
@@ -8,9 +14,7 @@
       <item value="current Reduce" />
       <item value="remain" />
       <item value="剩余" />
-      <item value="Validate" />
       <item value="Valid" />
-      <item value="验证" />
       <item value="Numeric" />
       <item value="Schema Parse" />
       <item value="Schema Parse Utils" />
@@ -47,15 +51,11 @@
       <item value="Communications" />
       <item value="weak" />
       <item value="dodgy code" />
-      <item value="Priority" />
-      <item value="major" />
-      <item value="pull" />
-      <item value="error parsing attribute name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1478" />
-        <entry key="ENGLISH" value="1648" />
+        <entry key="CHINESE" value="1483" />
+        <entry key="ENGLISH" value="1653" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
