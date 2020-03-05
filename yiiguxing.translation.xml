@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert Show Type" />
       <item value="has Fill Rule Fields" />
       <item value="最低" />
       <item value="poll" />
@@ -50,12 +51,11 @@
       <item value="major" />
       <item value="pull" />
       <item value="error parsing attribute name" />
-      <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1477" />
-        <entry key="ENGLISH" value="1647" />
+        <entry key="CHINESE" value="1478" />
+        <entry key="ENGLISH" value="1648" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
