@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialect" />
       <item value="干净的" />
       <item value="赶紧的" />
       <item value="同步" />
@@ -50,12 +51,11 @@
       <item value="Table Meta Data Manager" />
       <item value="操作" />
       <item value="Option" />
-      <item value="form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1485" />
-        <entry key="ENGLISH" value="1657" />
+        <entry key="CHINESE" value="1486" />
+        <entry key="ENGLISH" value="1658" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
