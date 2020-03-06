@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="store" />
       <item value="Data Base Utils" />
       <item value="dialect" />
       <item value="干净的" />
@@ -50,7 +51,6 @@
       <item value="解决" />
       <item value="特殊类型转换" />
       <item value="Table Meta Data Manager" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
