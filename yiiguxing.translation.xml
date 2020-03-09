@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data Base" />
       <item value="store" />
       <item value="Data Base Utils" />
       <item value="dialect" />
@@ -50,12 +51,11 @@
       <item value="resolve" />
       <item value="解决" />
       <item value="特殊类型转换" />
-      <item value="Table Meta Data Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1487" />
-        <entry key="ENGLISH" value="1659" />
+        <entry key="CHINESE" value="1488" />
+        <entry key="ENGLISH" value="1660" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
