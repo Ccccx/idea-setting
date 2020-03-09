@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clounm" />
+      <item value="Column" />
       <item value="Data Base" />
       <item value="store" />
       <item value="Data Base Utils" />
@@ -49,13 +51,11 @@
       <item value="原始" />
       <item value="改变" />
       <item value="resolve" />
-      <item value="解决" />
-      <item value="特殊类型转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1660" />
+        <entry key="CHINESE" value="1490" />
+        <entry key="ENGLISH" value="1662" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
