@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relation" />
+      <item value="关系" />
+      <item value="未同步" />
       <item value="已改变" />
       <item value="Clounm" />
       <item value="Column" />
@@ -48,14 +51,11 @@
       <item value="强化" />
       <item value="permissions Data" />
       <item value="可见的" />
-      <item value="必要的" />
-      <item value="原始" />
-      <item value="改变" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1490" />
-        <entry key="ENGLISH" value="1663" />
+        <entry key="CHINESE" value="1491" />
+        <entry key="ENGLISH" value="1665" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
