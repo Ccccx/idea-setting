@@ -6,4 +6,10 @@
     <variable name="DAY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="thser" value="try {&#10;         return $END$;&#10;} catch (CheckedException e) {&#10;    throw new ServiceException(e.getCode(), e.getMessage());&#10;} catch (Exception e) {&#10;    Log.warn(&quot;$METHOD_NAME$数据异常！&quot;, e);&#10;    throw new ServiceException(CheckedException.VALIDATE_ERROR, &quot;$METHOD_NAME$数据异常！&quot;);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

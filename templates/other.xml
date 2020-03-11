@@ -39,6 +39,9 @@
   </template>
   <template name="se" value="StringUtils.isEmpty($VAR$))" description="StringUtils.isEmpty($VAR$))" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
   <template name="ps" value="private String " description="" toReformat="false" toShortenFQNames="true">
     <context>
@@ -63,6 +66,18 @@
   <template name="date" value="$date$ $time$" description="date" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time(&quot;HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="jsl" value="log.info(&quot;$METHOD_NAME$ : {}&quot;, JSONObject.toJSONString($VAR$));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="time" value="System.currentTimeMillis();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

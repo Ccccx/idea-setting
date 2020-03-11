@@ -1,0 +1,7 @@
+<templateSet group="mysel">
+  <template name="st" value="System.out.println(System.currentTimeMillis());" description="输出当前毫秒" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
