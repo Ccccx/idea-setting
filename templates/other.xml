@@ -77,7 +77,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="time" value="System.currentTimeMillis();" toReformat="false" toShortenFQNames="true">
+  <template name="time" value="System.currentTimeMillis();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
