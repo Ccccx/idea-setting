@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提取" />
+      <item value="生成" />
       <item value="custom Render" />
       <item value="customRender" />
       <item value="scoped slots" />
@@ -49,13 +51,11 @@
       <item value="可视化数据" />
       <item value="visualization" />
       <item value="可视化" />
-      <item value="权限" />
-      <item value="records" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1499" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="ENGLISH" value="1675" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
