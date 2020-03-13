@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
+      <item value="PFX" />
+      <item value="忽略" />
       <item value="Statement" />
       <item value="is Crazy" />
       <item value="column" />
@@ -48,15 +51,12 @@
       <item value="remain" />
       <item value="剩余" />
       <item value="Valid" />
-      <item value="Numeric" />
-      <item value="Schema Parse" />
-      <item value="Schema Parse Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1501" />
-        <entry key="ENGLISH" value="1678" />
-        <entry key="GERMAN" value="1" />
+        <entry key="CHINESE" value="1502" />
+        <entry key="ENGLISH" value="1680" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
