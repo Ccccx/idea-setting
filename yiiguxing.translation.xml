@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Category" />
       <item value="Precision" />
       <item value="驼峰" />
       <item value="Statement" />
@@ -50,12 +51,11 @@
       <item value="convert Show Type" />
       <item value="has Fill Rule Fields" />
       <item value="最低" />
-      <item value="poll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1505" />
-        <entry key="ENGLISH" value="1684" />
+        <entry key="CHINESE" value="1507" />
+        <entry key="ENGLISH" value="1686" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
