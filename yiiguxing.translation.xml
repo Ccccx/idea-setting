@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modify the specified user's password. This should change the user's password in the * persistent user repository (database, LDAP etc)." />
+      <item value="H 2 Dialect" />
+      <item value="dialect" />
       <item value="extract" />
       <item value="we must use deprecated encoder to support their encoding" />
       <item value="authorities" />
@@ -48,14 +51,11 @@
       <item value="Clounm" />
       <item value="Column" />
       <item value="Data Base" />
-      <item value="store" />
-      <item value="Data Base Utils" />
-      <item value="dialect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1516" />
-        <entry key="ENGLISH" value="1695" />
+        <entry key="CHINESE" value="1519" />
+        <entry key="ENGLISH" value="1698" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
