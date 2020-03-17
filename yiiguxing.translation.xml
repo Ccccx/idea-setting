@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Ensure we return the original credentials the user supplied, // so subsequent attempts are successful even with encoded passwords. // Also ensure we return the original getDetails(), so that future // authentication events after cache expiry contain the details" />
       <item value="Modify the specified user's password. This should change the user's password in the * persistent user repository (database, LDAP etc)." />
       <item value="H 2 Dialect" />
       <item value="dialect" />
@@ -50,12 +51,11 @@
       <item value="已改变" />
       <item value="Clounm" />
       <item value="Column" />
-      <item value="Data Base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1519" />
-        <entry key="ENGLISH" value="1698" />
+        <entry key="CHINESE" value="1520" />
+        <entry key="ENGLISH" value="1699" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
