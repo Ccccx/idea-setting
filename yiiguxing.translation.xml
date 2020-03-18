@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time-consuming" />
+      <item value="耗时" />
       <item value="Embedded" />
       <item value="jdbc Compliant" />
       <item value="Initially" />
@@ -49,13 +51,11 @@
       <item value="Validate" />
       <item value="验证" />
       <item value="contain" />
-      <item value="resolve" />
-      <item value="comment Equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1525" />
-        <entry key="ENGLISH" value="1704" />
+        <entry key="CHINESE" value="1526" />
+        <entry key="ENGLISH" value="1705" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
