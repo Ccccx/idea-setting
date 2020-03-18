@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot mutate schema as schema has existing tables schemaName" />
+      <item value="Cannot mutate schema as schema has existing tables schemaName=TIANQING" />
+      <item value="Manipulation " />
       <item value="time-consuming" />
       <item value="耗时" />
       <item value="Embedded" />
@@ -48,14 +51,11 @@
       <item value="comparative" />
       <item value="comparative value" />
       <item value="比对" />
-      <item value="Validate" />
-      <item value="验证" />
-      <item value="contain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1526" />
-        <entry key="ENGLISH" value="1705" />
+        <entry key="CHINESE" value="1528" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
