@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If Absent" />
+      <item value="compute If Present" />
       <item value="Effective Java" />
       <item value="Cannot mutate schema as schema has existing tables schemaName" />
       <item value="Cannot mutate schema as schema has existing tables schemaName=TIANQING" />
@@ -49,13 +51,11 @@
       <item value="int Bits To Float" />
       <item value=".int Bits" />
       <item value="truncate" />
-      <item value="comparative" />
-      <item value="comparative value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1528" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1530" />
+        <entry key="ENGLISH" value="1709" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
