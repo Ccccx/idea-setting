@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Effective Java" />
       <item value="Cannot mutate schema as schema has existing tables schemaName" />
       <item value="Cannot mutate schema as schema has existing tables schemaName=TIANQING" />
       <item value="Manipulation " />
@@ -50,7 +51,6 @@
       <item value="truncate" />
       <item value="comparative" />
       <item value="comparative value" />
-      <item value="比对" />
     </histories>
     <option name="languageScores">
       <map>
