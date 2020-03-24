@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ORIENTATION" />
+      <item value="VELOCITY" />
       <item value="trojan" />
       <item value="ARCHITECTURE" />
       <item value="If Absent" />
@@ -49,8 +51,6 @@
       <item value="custom Render" />
       <item value="customRender" />
       <item value="scoped slots" />
-      <item value="book mark" />
-      <item value="int Bits To Float" />
     </histories>
     <option name="languageScores">
       <map>
