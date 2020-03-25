@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Code shared by String and StringBuffer to do searches. The * source is the character array being searched, and the target * is the string being searched for." />
       <item value="troubleshooting" />
       <item value="ORIENTATION" />
       <item value="VELOCITY" />
@@ -50,12 +51,11 @@
       <item value="提取" />
       <item value="生成" />
       <item value="custom Render" />
-      <item value="customRender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1709" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1710" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
