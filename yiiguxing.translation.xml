@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmodifiable Map" />
+      <item value="lazy Parsing" />
       <item value="Web Mvc Auto Configuration Adapter" />
       <item value="Unconditional" />
       <item value="omitted for conflict with 3" />
@@ -49,13 +51,11 @@
       <item value="authentication" />
       <item value="deny All" />
       <item value="deny" />
-      <item value="Approval" />
-      <item value="Grant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1537" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="CHINESE" value="1539" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
