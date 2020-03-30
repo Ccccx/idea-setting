@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitted for conflict with 3" />
+      <item value="0mitted for conflict with 3" />
+      <item value="0mitted for conflict with " />
       <item value="multi" />
       <item value="MULTI" />
       <item value="有效的" />
@@ -48,9 +51,6 @@
       <item value="Grant" />
       <item value="Crypt" />
       <item value="B Crypt Password Encoder" />
-      <item value="dynamically Mapping Uid Column" />
-      <item value="Implicit" />
-      <item value="Category" />
     </histories>
     <option name="languageScores">
       <map>
