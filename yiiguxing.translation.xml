@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overall" />
+      <item value="overall performance " />
+      <item value="overall performance category" />
+      <item value="总体情况" />
       <item value="ASC" />
       <item value="statistics" />
       <item value="统计" />
@@ -47,15 +51,11 @@
       <item value="Precision" />
       <item value="驼峰" />
       <item value="Statement" />
-      <item value="Transform" />
-      <item value="转换" />
-      <item value="前缀" />
-      <item value="PFX" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1534" />
-        <entry key="ENGLISH" value="1712" />
+        <entry key="CHINESE" value="1535" />
+        <entry key="ENGLISH" value="1713" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
