@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Mvc Auto Configuration Adapter" />
+      <item value="Unconditional" />
       <item value="omitted for conflict with 3" />
       <item value="0mitted for conflict with 3" />
       <item value="0mitted for conflict with " />
@@ -49,13 +51,11 @@
       <item value="deny" />
       <item value="Approval" />
       <item value="Grant" />
-      <item value="Crypt" />
-      <item value="B Crypt Password Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1535" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="CHINESE" value="1537" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
