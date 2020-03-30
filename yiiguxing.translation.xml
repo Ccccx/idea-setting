@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
+      <item value="analyze" />
       <item value="Active Record" />
       <item value="village" />
       <item value="* Code shared by String and StringBuffer to do searches. The * source is the character array being searched, and the target * is the string being searched for." />
@@ -48,14 +51,11 @@
       <item value="前缀" />
       <item value="PFX" />
       <item value="忽略" />
-      <item value="is Crazy" />
-      <item value="column" />
-      <item value="提取" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1532" />
-        <entry key="ENGLISH" value="1711" />
+        <entry key="CHINESE" value="1533" />
+        <entry key="ENGLISH" value="1712" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
