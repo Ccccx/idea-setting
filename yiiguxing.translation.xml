@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不建议直接 new 该实例，使用 Wrappers.lambdaQuery(entity)" />
+      <item value="Corresponds to the 'notes' field of the operation." />
+      <item value="Corresponds to the `summary` field of the operation." />
       <item value="embedded" />
       <item value="initializr" />
       <item value="spring initializr" />
@@ -48,14 +51,11 @@
       <item value="An API for changing a {@link UserDetails} password." />
       <item value="// Ensure we return the original credentials the user supplied, // so subsequent attempts are successful even with encoded passwords. // Also ensure we return the original getDetails(), so that future // authentication events after cache expiry contain the details" />
       <item value="Modify the specified user's password. This should change the user's password in the * persistent user repository (database, LDAP etc)." />
-      <item value="H 2 Dialect" />
-      <item value="dialect" />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1540" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1543" />
+        <entry key="ENGLISH" value="1723" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
