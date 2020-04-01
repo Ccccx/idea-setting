@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Capacity" />
       <item value="* Names of the caches in which method invocation results are stored. * &lt;p&gt;Names may be used to determine the target cache (or caches), matching * the qualifier value or bean name of a specific bean definition." />
       <item value="maximum Size" />
       <item value="Specify the collection of Cache instances to use for this CacheManager." />
@@ -50,12 +51,11 @@
       <item value="ASC" />
       <item value="statistics" />
       <item value="统计" />
-      <item value="analyze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1563" />
-        <entry key="ENGLISH" value="1746" />
+        <entry key="CHINESE" value="1564" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
         <entry key="FILIPINO" value="1" />
