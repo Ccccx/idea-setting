@@ -434,9 +434,17 @@
           <option name="url" value="svn://192.168.13.113/project_sw/Tian_Qing_system" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tuguangquan/mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tuguangquan/mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IDEA\a-tm\project_sw" />
+    <option name="cloneParentDir" value="E:\IDEA" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
