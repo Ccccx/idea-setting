@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="turn" />
       <item value="Line planning" />
       <item value="线路规划" />
       <item value="AADSTS50020: User account 'cx5210@vip.qq.com' from identity provider 'live.com' does not exist in tenant 'Microsoft' and cannot access the application '405e80fc-f8e6-40e6-b6b9-e5bcc7e6813e'(RedirectionUxProd) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account." />
@@ -50,7 +51,6 @@
       <item value="Returns an {@code Optional} describing the specified value, if non-null, * otherwise returns an empty {@code Optional}. *" />
       <item value="Mutually exclusive with the {@link #key} attribute." />
       <item value="panorama" />
-      <item value="association" />
     </histories>
     <option name="languageScores">
       <map>
