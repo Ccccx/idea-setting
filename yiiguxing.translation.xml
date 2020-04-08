@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AADSTS50020: User account 'cx5210@vip.qq.com' from identity provider 'live.com' does not exist in tenant 'Microsoft' and cannot access the application '405e80fc-f8e6-40e6-b6b9-e5bcc7e6813e'(RedirectionUxProd) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account." />
       <item value="corrent" />
       <item value="set Expiry Policy Factory" />
       <item value="this" />
@@ -50,7 +51,6 @@
       <item value="association" />
       <item value="* Names of the default caches to consider for caching operations defined * in the annotated class. * &lt;p&gt;If none is set at the operation level, these are used instead of the default. * &lt;p&gt;May be used to determine the target cache (or caches), matching the * qualifier value or the bean names of a specific bean definition." />
       <item value="Attempted to call method size() on null context object" />
-      <item value="initial Capacity" />
     </histories>
     <option name="languageScores">
       <map>
