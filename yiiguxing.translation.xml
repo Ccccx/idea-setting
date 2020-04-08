@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Bridge" />
+      <item value="incomplete Result Maps" />
+      <item value="parse Pending Result Maps" />
       <item value="// It's important that the type is added before the parser is run // otherwise the binding may automatically be attempted by the // mapper parser. If the type is already known, it won't try." />
       <item value="If the file part of the URL is itself a URL, then that URL probably points to the JAR" />
       <item value="// First, try to find the URL of a JAR file containing the requested resource. If a JAR // file is found, then we'll list child resources by reading the JAR." />
@@ -48,14 +51,11 @@
       <item value="lng" />
       <item value=" condition" />
       <item value="条件" />
-      <item value="recod" />
-      <item value="Check if we have a cached item matching the conditions" />
-      <item value="specific" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1796" />
+        <entry key="CHINESE" value="1611" />
+        <entry key="ENGLISH" value="1799" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
