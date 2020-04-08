@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="USER IMPLEMENTATIONS" />
+      <item value="Strict Map" />
       <item value="turn" />
       <item value="Line planning" />
       <item value="线路规划" />
@@ -49,13 +51,11 @@
       <item value="* Return the value if present, otherwise return {@code other}." />
       <item value="of Nullable" />
       <item value="Returns an {@code Optional} describing the specified value, if non-null, * otherwise returns an empty {@code Optional}. *" />
-      <item value="Mutually exclusive with the {@link #key} attribute." />
-      <item value="panorama" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1602" />
-        <entry key="ENGLISH" value="1790" />
+        <entry key="CHINESE" value="1604" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
