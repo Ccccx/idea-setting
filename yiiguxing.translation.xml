@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// It's important that the type is added before the parser is run // otherwise the binding may automatically be attempted by the // mapper parser. If the type is already known, it won't try." />
+      <item value="If the file part of the URL is itself a URL, then that URL probably points to the JAR" />
+      <item value="// First, try to find the URL of a JAR file containing the requested resource. If a JAR // file is found, then we'll list child resources by reading the JAR." />
+      <item value="find Jar For Resource" />
       <item value="USER IMPLEMENTATIONS" />
       <item value="Strict Map" />
       <item value="turn" />
@@ -47,15 +51,11 @@
       <item value="recod" />
       <item value="Check if we have a cached item matching the conditions" />
       <item value="specific" />
-      <item value="unless" />
-      <item value="* Return the value if present, otherwise return {@code other}." />
-      <item value="of Nullable" />
-      <item value="Returns an {@code Optional} describing the specified value, if non-null, * otherwise returns an empty {@code Optional}. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1604" />
-        <entry key="ENGLISH" value="1792" />
+        <entry key="CHINESE" value="1608" />
+        <entry key="ENGLISH" value="1796" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
