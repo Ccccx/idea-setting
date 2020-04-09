@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conditional On Single Candidate" />
+      <item value="Injection Metadata" />
+      <item value="// Register BeanPostProcessorChecker that logs an info message when // a bean is created during BeanPostProcessor instantiation, i.e. when // a bean is not eligible for getting processed by all BeanPostProcessors." />
+      <item value="when" />
       <item value="// is critical for usage in an OSGi environment (SPR-5932)..." />
       <item value="// Registering callbacks statically (as opposed to thread-local)" />
       <item value="set Naming Policy" />
@@ -33,7 +37,6 @@
       <item value="initial Capacity" />
       <item value="Aware" />
       <item value="Embedded Database Connection" />
-      <item value="Conditional On Single Candidate" />
       <item value="Nested Configuration Property" />
       <item value="etc" />
       <item value="Class Path Scanning Candidate Component Provider" />
@@ -48,14 +51,11 @@
       <item value="discriminator" />
       <item value="Ambiguity" />
       <item value="get Declaring Class" />
-      <item value="is Bridge" />
-      <item value="incomplete Result Maps" />
-      <item value="parse Pending Result Maps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1659" />
-        <entry key="ENGLISH" value="1847" />
+        <entry key="CHINESE" value="1663" />
+        <entry key="ENGLISH" value="1851" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
