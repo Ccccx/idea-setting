@@ -18,9 +18,9 @@
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping ext="factory" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping pattern="application.yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
