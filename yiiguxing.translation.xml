@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="full" />
       <item value="lite" />
       <item value="introspect" />
       <item value="check Configuration Class Candidate" />
@@ -50,12 +51,11 @@
       <item value="If the file part of the URL is itself a URL, then that URL probably points to the JAR" />
       <item value="// First, try to find the URL of a JAR file containing the requested resource. If a JAR // file is found, then we'll list child resources by reading the JAR." />
       <item value="find Jar For Resource" />
-      <item value="USER IMPLEMENTATIONS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1654" />
-        <entry key="ENGLISH" value="1842" />
+        <entry key="CHINESE" value="1655" />
+        <entry key="ENGLISH" value="1843" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
