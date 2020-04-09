@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="config Candidates" />
+      <item value="is Assignable From" />
+      <item value="check Configuration Class Candidate" />
       <item value="Common Annotation Bean Post Processor" />
       <item value="an" />
       <item value="get Dependency Comparator" />
@@ -48,14 +51,11 @@
       <item value="AADSTS50020: User account 'cx5210@vip.qq.com' from identity provider 'live.com' does not exist in tenant 'Microsoft' and cannot access the application '405e80fc-f8e6-40e6-b6b9-e5bcc7e6813e'(RedirectionUxProd) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account." />
       <item value="corrent" />
       <item value="set Expiry Policy Factory" />
-      <item value="this" />
-      <item value="loading" />
-      <item value="supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1644" />
-        <entry key="ENGLISH" value="1833" />
+        <entry key="CHINESE" value="1647" />
+        <entry key="ENGLISH" value="1836" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
