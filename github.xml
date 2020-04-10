@@ -3,8 +3,9 @@
     <account id="762ad872-f029-4d16-ba4c-fc4aa7d28809" name="cx5210@vip.qq.com">
       <server host="github.com" />
     </account>
-    <account id="56018f9a-d358-4ae4-ba9d-aa0c1b929db3" name="Ccccx">
-      <server useHttp="false" host="github.com" />
-    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CONNECTION_TIMEOUT" value="60000" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>

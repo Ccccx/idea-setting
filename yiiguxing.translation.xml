@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please make sure you have the correct access rights and the repository exists." />
       <item value="The Cloud Native Trail Map (png, pdf) is CNCF's recommended path through the cloud native landscape. The cloud native landscape (png, pdf), serverless landscape (png, pdf), and member landscape (png, pdf) are dynamically generated below. Please open a pull request to correct any issues. Greyed logos are not open source. Last Updated: 2020-04-10 03:51:49Z" />
       <item value="Seata" />
       <item value="should Select Blog With Posts Using Sub Select" />
@@ -50,7 +51,6 @@
       <item value="CALLABLE" />
       <item value="PREPARED" />
       <item value="STATEMENT" />
-      <item value="fetch Size" />
     </histories>
     <option name="languageScores">
       <map>
