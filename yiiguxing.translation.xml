@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seata" />
       <item value="should Select Blog With Posts Using Sub Select" />
       <item value="Please correct the file content" />
       <item value="incompatible" />
@@ -50,7 +51,6 @@
       <item value="STATEMENT" />
       <item value="fetch Size" />
       <item value="required Database Id" />
-      <item value="constructor" />
     </histories>
     <option name="languageScores">
       <map>
