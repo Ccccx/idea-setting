@@ -5,7 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="CodeGeneratorDemo" type="PLAIN_TEXT" />
-      <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="log4j,properties" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00003" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="initializr" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping ext="factory" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
