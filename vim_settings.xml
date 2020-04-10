@@ -7,8 +7,18 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="E:/IDEA/a-tm/project_sw/Tian_Qing_system/trunk/bigscreen/Interface/big-screen/src/main/java/com/tiamaes/cloud/bigscreen/line/controller/LinePlanningController.java" timestamp="1586481344527">
+        <mark key="[" line="43" column="9" />
+      </file>
+      <file name="E:/IDEA/a-tm/project_sw/Tian_Qing_system/trunk/bigscreen/Interface/big-screen/src/main/java/com/tiamaes/cloud/bigscreen/overall/controller/OverallController.java" timestamp="1586481683845">
+        <mark key="[" line="27" column="13" />
+      </file>
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
   </component>
   <component name="VimSearchSettings">
     <search>
@@ -17,7 +27,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
