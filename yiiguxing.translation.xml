@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attach" />
+      <item value="configure Profiles" />
+      <item value="Mutable Property Sources" />
+      <item value="Application Conversion Service" />
       <item value="EARLY EXIT" />
       <item value="pre Initialize Leaky Classes" />
       <item value="Leak Safe Thread" />
@@ -47,15 +51,11 @@
       <item value="introspect" />
       <item value="check Configuration Class Candidate" />
       <item value="proxy Bean Methods" />
-      <item value="Priority Ordered" />
-      <item value="Conventions" />
-      <item value="Now, invoke the postProcessBeanFactory callback of all processors handled so far." />
-      <item value="already Parsed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1878" />
+        <entry key="CHINESE" value="1690" />
+        <entry key="ENGLISH" value="1882" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
