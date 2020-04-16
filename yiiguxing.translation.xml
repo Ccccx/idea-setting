@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configure Tld Skip Patterns" />
+      <item value="Fix Context Listener" />
+      <item value="set Display Name" />
+      <item value="prepare Context" />
+      <item value="background Processor Delay" />
+      <item value="Engine" />
+      <item value="set Auto Deploy" />
       <item value="Compression" />
       <item value="// Don't bind to the socket prematurely if ApplicationContext is slow to start" />
       <item value="set Throw On Failure" />
@@ -44,18 +51,11 @@
       <item value="Configure the bean factory with context callbacks." />
       <item value="Tell the internal bean factory to use the context's class loader etc." />
       <item value="prepare Bean Factory" />
-      <item value="obtain Fresh Bean Factory" />
-      <item value="update Manual Singleton Names" />
-      <item value="Add boot specific singleton beans" />
-      <item value="apply Initializers" />
-      <item value="post Process Application Context" />
-      <item value="set Conversion Service" />
-      <item value="Candidate Components Index Loader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1753" />
-        <entry key="ENGLISH" value="1944" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1951" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
