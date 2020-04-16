@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare Bean Factory" />
+      <item value="obtain Fresh Bean Factory" />
       <item value="update Manual Singleton Names" />
       <item value="Add boot specific singleton beans" />
       <item value="apply Initializers" />
@@ -49,13 +51,11 @@
       <item value="The Cloud Native Trail Map (png, pdf) is CNCF's recommended path through the cloud native landscape. The cloud native landscape (png, pdf), serverless landscape (png, pdf), and member landscape (png, pdf) are dynamically generated below. Please open a pull request to correct any issues. Greyed logos are not open source. Last Updated: 2020-04-10 03:51:49Z" />
       <item value="Seata" />
       <item value="should Select Blog With Posts Using Sub Select" />
-      <item value="Please correct the file content" />
-      <item value="incompatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1704" />
-        <entry key="ENGLISH" value="1896" />
+        <entry key="CHINESE" value="1706" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
