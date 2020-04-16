@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Reset common introspection caches in Spring's core, since we // might not ever need metadata for singleton beans anymore..." />
+      <item value="Participate in LiveBeansView MBean, if active." />
+      <item value="Propagate refresh to lifecycle processor first." />
+      <item value="Initialize lifecycle processor for this context." />
+      <item value="Clear context-level resource caches (such as ASM metadata from scanning)." />
+      <item value="Last step: publish corresponding event." />
+      <item value="pre Instantiate Singletons" />
+      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="freeze Configuration" />
+      <item value="// Register a default embedded value resolver if no bean post-processor // (such as a PropertyPlaceholderConfigurer bean) registered any before: // at this point, primarily for resolution in annotation attribute values." />
+      <item value="Initialize conversion service for this context." />
+      <item value="finish Bean Factory Initialization" />
+      <item value="early Application Events" />
+      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let post-processors apply to them!" />
+      <item value="Register statically specified listeners first." />
+      <item value="default Retriever" />
+      <item value="// Explicitly remove target for a proxy, if registered already, // in order to avoid double invocations of the same listener." />
+      <item value="init Property Sources" />
+      <item value="// Unlike Jetty, all Tomcat threads are daemon threads. We create a // blocking non-daemon to stop immediate shutdown" />
+      <item value="check Constraints For Uncovered Methods" />
+      <item value="Start the server to trigger initialization listeners" />
+      <item value="// Remove service connectors so that protocol binding doesn't // happen when the service is started." />
+      <item value="instance Id" />
+      <item value="Disable Reference Clearing Context Customizer" />
+      <item value="mime Mappings" />
+      <item value="Tomcat Embedded Context" />
       <item value="configure Tld Skip Patterns" />
       <item value="Fix Context Listener" />
       <item value="set Display Name" />
@@ -25,37 +51,11 @@
       <item value="stale" />
       <item value="is Bean Eligible For Metadata Caching" />
       <item value="already Created" />
-      <item value="configuration Frozen" />
-      <item value="// Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let the bean factory post-processors apply to them!" />
-      <item value="// Separate between BeanFactoryPostProcessors that implement PriorityOrdered, // Ordered, and the rest." />
-      <item value="skip - already processed in first phase above" />
-      <item value="priority Ordered Post Processors" />
-      <item value="regular Post Processors" />
-      <item value="// Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let the bean factory post-processors apply to them! // Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest." />
-      <item value="invokeBeanFactoryPostProcessors(registryProcessors, beanFactory);" />
-      <item value="// Now, invoke the postProcessBeanFactory callback of all processors handled so far." />
-      <item value="reiterate" />
-      <item value="current Registry Processors" />
-      <item value="Invoke BeanDefinitionRegistryPostProcessors first, if any." />
-      <item value="First, invoke the BeanDefinitionRegistryPostProcessors that implement PriorityOrdered." />
-      <item value="invoke Bean Factory Post Processors" />
-      <item value="if this lock should use a fair ordering policy" />
-      <item value="Invoke factory processors registered as beans in the context." />
-      <item value="beans" />
-      <item value="Detect a LoadTimeWeaver and prepare for weaving, if found." />
-      <item value="// Register early post-processor for detecting inner beans as ApplicationListeners." />
-      <item value="Register early post-processor for detecting inner beans as ApplicationListeners." />
-      <item value="Application Listener Detector" />
-      <item value="// BeanFactory interface not registered as resolvable type in a plain factory. // MessageSource registered (and found for autowiring) as a bean." />
-      <item value="Embedded Value Resolver" />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="Tell the internal bean factory to use the context's class loader etc." />
-      <item value="prepare Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
-        <entry key="ENGLISH" value="1951" />
+        <entry key="CHINESE" value="1792" />
+        <entry key="ENGLISH" value="1983" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
