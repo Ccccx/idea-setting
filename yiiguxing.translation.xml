@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Manual Singleton Names" />
+      <item value="Add boot specific singleton beans" />
       <item value="apply Initializers" />
       <item value="post Process Application Context" />
       <item value="set Conversion Service" />
@@ -49,13 +51,11 @@
       <item value="should Select Blog With Posts Using Sub Select" />
       <item value="Please correct the file content" />
       <item value="incompatible" />
-      <item value="Conditional On Single Candidate" />
-      <item value="Injection Metadata" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1702" />
-        <entry key="ENGLISH" value="1894" />
+        <entry key="CHINESE" value="1704" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
