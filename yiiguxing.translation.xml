@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disconnected, 4731 bytes received, 1007 bytes sent, lasted for 1 seconds" />
       <item value="set Initializers" />
       <item value="// Reset common introspection caches in Spring's core, since we // might not ever need metadata for singleton beans anymore..." />
       <item value="Participate in LiveBeansView MBean, if active." />
@@ -50,7 +51,6 @@
       <item value="Delegating Message Source" />
       <item value="// Clear cached merged bean definitions since the post-processors might have // modified the original metadata, e.g. replacing placeholders in values..." />
       <item value="stale" />
-      <item value="is Bean Eligible For Metadata Caching" />
     </histories>
     <option name="languageScores">
       <map>
