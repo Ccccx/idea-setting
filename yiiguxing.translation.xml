@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialization" />
+      <item value="get Initial Urls" />
+      <item value="HIGHEST PRECEDENCE" />
       <item value="disconnected, 4731 bytes received, 1007 bytes sent, lasted for 1 seconds" />
       <item value="set Initializers" />
       <item value="// Reset common introspection caches in Spring's core, since we // might not ever need metadata for singleton beans anymore..." />
@@ -48,14 +51,11 @@
       <item value="// Initialize event multicaster for this context." />
       <item value="Use empty MessageSource to be able to accept getMessage calls." />
       <item value="get Internal Parent Message Source" />
-      <item value="Delegating Message Source" />
-      <item value="// Clear cached merged bean definitions since the post-processors might have // modified the original metadata, e.g. replacing placeholders in values..." />
-      <item value="stale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1793" />
-        <entry key="ENGLISH" value="1984" />
+        <entry key="CHINESE" value="1796" />
+        <entry key="ENGLISH" value="1987" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
