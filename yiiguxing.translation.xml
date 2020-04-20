@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new Work Stealing Pool" />
       <item value="normal line analysis" />
       <item value="some Algorithm" />
       <item value="Algorithm" />
@@ -50,12 +51,11 @@
       <item value="Engine" />
       <item value="set Auto Deploy" />
       <item value="Compression" />
-      <item value="// Don't bind to the socket prematurely if ApplicationContext is slow to start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1996" />
+        <entry key="CHINESE" value="1806" />
+        <entry key="ENGLISH" value="1997" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
