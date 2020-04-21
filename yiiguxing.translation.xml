@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flatten" />
       <item value="Mapped Statement" />
       <item value="series" />
       <item value="EXTEND THE STARTING STATION" />
@@ -50,7 +51,6 @@
       <item value="configure Tld Skip Patterns" />
       <item value="Fix Context Listener" />
       <item value="set Display Name" />
-      <item value="prepare Context" />
     </histories>
     <option name="languageScores">
       <map>
