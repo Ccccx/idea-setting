@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monero" />
+      <item value="if this script helped you make some $$ mining monero, throw a little my way" />
+      <item value="pwning to pwn     " />
+      <item value="if this script helped you make some $$ mining monero, throw a little my way?" />
       <item value="Shadows name 'msg' from outer scope " />
       <item value="unindent does not match any outer indentation level" />
       <item value="executor" />
@@ -47,10 +51,6 @@
       <item value="finish Bean Factory Initialization" />
       <item value="early Application Events" />
       <item value="Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let post-processors apply to them!" />
-      <item value="Register statically specified listeners first." />
-      <item value="default Retriever" />
-      <item value="// Explicitly remove target for a proxy, if registered already, // in order to avoid double invocations of the same listener." />
-      <item value="init Property Sources" />
     </histories>
     <option name="languageScores">
       <map>
