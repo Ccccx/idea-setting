@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer" />
+      <item value="原始" />
       <item value="Monero" />
       <item value="if this script helped you make some $$ mining monero, throw a little my way" />
       <item value="pwning to pwn     " />
@@ -49,13 +51,11 @@
       <item value="// Register a default embedded value resolver if no bean post-processor // (such as a PropertyPlaceholderConfigurer bean) registered any before: // at this point, primarily for resolution in annotation attribute values." />
       <item value="Initialize conversion service for this context." />
       <item value="finish Bean Factory Initialization" />
-      <item value="early Application Events" />
-      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let post-processors apply to them!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1815" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="ENGLISH" value="2009" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
