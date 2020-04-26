@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="取消" />
+      <item value="撤销" />
+      <item value="cancle" />
       <item value="transform Point Lng" />
       <item value="transform" />
       <item value="transfer" />
@@ -47,15 +51,11 @@
       <item value="Initialize lifecycle processor for this context." />
       <item value="Clear context-level resource caches (such as ASM metadata from scanning)." />
       <item value="Last step: publish corresponding event." />
-      <item value="pre Instantiate Singletons" />
-      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="freeze Configuration" />
-      <item value="// Register a default embedded value resolver if no bean post-processor // (such as a PropertyPlaceholderConfigurer bean) registered any before: // at this point, primarily for resolution in annotation attribute values." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1817" />
-        <entry key="ENGLISH" value="2011" />
+        <entry key="ENGLISH" value="2012" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
