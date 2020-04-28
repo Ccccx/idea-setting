@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="final String str1 = Arrays.stream(&quot;中原路桐柏路&quot;.split(&quot;&quot;)).sorted().collect(Collectors.joining()); System.out.println(str1 + &quot; : &quot; + str1.hashCode()); final String str2 = Arrays.stream(&quot;桐柏路中原路&quot;.split(&quot;&quot;)).sorted().collect(Collectors.joining()); System.out.println(str2 + &quot; : &quot; + str2.hashCode());" />
       <item value="HALF UP" />
       <item value="MIN DIGITS" />
       <item value="Math Context" />
@@ -50,7 +51,6 @@
       <item value="initialization" />
       <item value="get Initial Urls" />
       <item value="HIGHEST PRECEDENCE" />
-      <item value="disconnected, 4731 bytes received, 1007 bytes sent, lasted for 1 seconds" />
     </histories>
     <option name="languageScores">
       <map>
