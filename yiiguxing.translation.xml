@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Terminal" />
+      <item value="Intermediate" />
       <item value="pl" />
       <item value="Measurement" />
       <item value="scraper" />
@@ -49,8 +51,6 @@
       <item value="construct" />
       <item value="经度" />
       <item value=" no space left on device " />
-      <item value="dist To Depot" />
-      <item value="distToDepot" />
     </histories>
     <option name="languageScores">
       <map>
