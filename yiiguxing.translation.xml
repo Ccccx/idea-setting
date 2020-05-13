@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Logger Trace" />
       <item value="delimiters" />
       <item value="Terminal" />
       <item value="Intermediate" />
@@ -50,12 +51,11 @@
       <item value="user specified IP address is supported only when connecting to networks with user configured subnets" />
       <item value="could not be established. Broker may not be available." />
       <item value="construct" />
-      <item value="经度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1837" />
-        <entry key="ENGLISH" value="2035" />
+        <entry key="CHINESE" value="1838" />
+        <entry key="ENGLISH" value="2036" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
