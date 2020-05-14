@@ -470,9 +470,13 @@
           <option name="url" value="http://192.168.250.101/m1/m1-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ccccx/spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IDEA\a-tm\gitlab" />
+    <option name="cloneParentDir" value="E:\IDEA" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
