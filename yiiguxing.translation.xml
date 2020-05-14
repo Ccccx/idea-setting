@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
       <item value="devlop" />
       <item value="is it possible or sensible to share a ResourceLoader?" />
       <item value="Stub Property Source" />
@@ -50,7 +51,6 @@
       <item value="pwning to pwn     " />
       <item value="if this script helped you make some $$ mining monero, throw a little my way?" />
       <item value="Shadows name 'msg' from outer scope " />
-      <item value="unindent does not match any outer indentation level" />
     </histories>
     <option name="languageScores">
       <map>
