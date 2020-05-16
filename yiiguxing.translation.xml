@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verbose" />
       <item value="since" />
       <item value="Declare repository providing the artifact" />
       <item value="Possible solution:" />
@@ -50,7 +51,6 @@
       <item value="取消" />
       <item value="撤销" />
       <item value="cancle" />
-      <item value="transform Point Lng" />
     </histories>
     <option name="languageScores">
       <map>
