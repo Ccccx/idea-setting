@@ -17,6 +17,7 @@
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="factory" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
