@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[invalid_user_info_response] An error occurred while attempting to retrieve the UserInfo Resource: I/O error on GET request for &quot;https://api.github.com/user&quot;: Connection reset; nested exception is java.net.SocketException: Connection reset" />
       <item value="r Approval" />
       <item value="denied" />
       <item value="extract" />
@@ -50,7 +51,6 @@
       <item value="// It's important that the type is added before the parser is run // otherwise the binding may automatically be attempted by the // mapper parser. If the type is already known, it won't try." />
       <item value="Prepared Statement" />
       <item value="PREPARED" />
-      <item value="skip this statement if there is a previous one with a not null databaseId" />
     </histories>
     <option name="languageScores">
       <map>
