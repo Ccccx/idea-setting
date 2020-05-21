@@ -6,6 +6,7 @@
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="CodeGeneratorDemo" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="log4j,properties" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00003" type="PLAIN_TEXT" />
       <mapping pattern=".keystore-oauth2-demo" type="PLAIN_TEXT" />
