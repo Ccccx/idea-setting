@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prints the message and the stack trace of the exception on" />
       <item value="feature" />
       <item value="登录会话已过期，请重试" />
       <item value="登录会话失效，请重试" />
@@ -50,12 +51,11 @@
       <item value="verbose" />
       <item value="since" />
       <item value="Declare repository providing the artifact" />
-      <item value="Possible solution:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1883" />
-        <entry key="ENGLISH" value="2089" />
+        <entry key="CHINESE" value="1884" />
+        <entry key="ENGLISH" value="2090" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
