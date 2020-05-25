@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply Session Fixation" />
       <item value="single" />
       <item value="continue Chain Before Successful Authentication" />
       <item value="requires Authentication" />
@@ -50,12 +51,11 @@
       <item value="restore" />
       <item value="devlop" />
       <item value="is it possible or sensible to share a ResourceLoader?" />
-      <item value="Stub Property Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1882" />
-        <entry key="ENGLISH" value="2081" />
+        <entry key="CHINESE" value="1883" />
+        <entry key="ENGLISH" value="2082" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
