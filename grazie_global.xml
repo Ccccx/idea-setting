@@ -1,12 +1,19 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledGrammarStrategies">
+    <option name="enabledLanguages">
       <set>
-        <option value="Pythonid:Python" />
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:JAVA" />
+        <option value="English (US)" />
+        <option value="Chinese" />
       </set>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="CHINESE" />
+          </set>
+        </option>
+      </State>
     </option>
     <option name="checkingContext">
       <CheckingContext>
