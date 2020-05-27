@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Device Metadata" />
       <item value="复杂的" />
       <item value="复杂" />
       <item value="determine" />
@@ -50,12 +51,11 @@
       <item value="new" />
       <item value="Security Context Repository" />
       <item value="trusted" />
-      <item value="wt Authentication Provider.signature.not.trusted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1889" />
-        <entry key="ENGLISH" value="2097" />
+        <entry key="CHINESE" value="1890" />
+        <entry key="ENGLISH" value="2098" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
