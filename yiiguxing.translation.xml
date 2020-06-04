@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legal" />
+      <item value="endpoints" />
+      <item value="feature" />
       <item value="Allows explicitly ordering the property in the model." />
       <item value="bean Names For Type Including Ancestors" />
       <item value="Shortest Path" />
@@ -48,9 +51,6 @@
       <item value="覆盖区域" />
       <item value="Gate" />
       <item value="add Mapped Statement" />
-      <item value="Mar" />
-      <item value="Prints the message and the stack trace of the exception on" />
-      <item value="feature" />
     </histories>
     <option name="languageScores">
       <map>
