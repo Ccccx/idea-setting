@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extract Sp Field" />
       <item value="get Bean Names For Type" />
       <item value="Generics" />
       <item value="Resolvable Type" />
@@ -50,12 +51,11 @@
       <item value="复杂的" />
       <item value="复杂" />
       <item value="determine" />
-      <item value="条件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1913" />
-        <entry key="ENGLISH" value="2129" />
+        <entry key="CHINESE" value="1914" />
+        <entry key="ENGLISH" value="2130" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
