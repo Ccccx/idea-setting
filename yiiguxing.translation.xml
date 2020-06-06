@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assume" />
       <item value="Prepared" />
       <item value="Statement" />
       <item value="extract Sp Field" />
@@ -50,7 +51,6 @@
       <item value="syntax error, expect {, actual [, pos 0" />
       <item value="Bind Param" />
       <item value="Device Metadata" />
-      <item value="复杂的" />
     </histories>
     <option name="languageScores">
       <map>
