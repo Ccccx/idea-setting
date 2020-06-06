@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test Incomplete Bean Definition" />
+      <item value="indicates Autowiring" />
+      <item value="test Resolve Wiring Info With An Instance Of A Non Annotated Class" />
+      <item value="resolve Wiring Info" />
+      <item value="Wiring" />
+      <item value="first Directly Declared" />
       <item value="introspect" />
       <item value="Recursively" />
       <item value="Aspect" />
@@ -17,7 +23,6 @@
       <item value="proxied Interfaces" />
       <item value="to" />
       <item value="determine Target Type" />
-      <item value="test Incomplete Bean Definition" />
       <item value="primitive Type Name Map" />
       <item value="primitive Wrapper Type Map" />
       <item value="assume" />
@@ -46,16 +51,11 @@
       <item value="clonms" />
       <item value="clounms" />
       <item value="字段" />
-      <item value="当前会话被强制登录" />
-      <item value="当前登录会话无效" />
-      <item value="无效" />
-      <item value="Maximum refused" />
-      <item value="Maximum " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1937" />
-        <entry key="ENGLISH" value="2152" />
+        <entry key="CHINESE" value="1943" />
+        <entry key="ENGLISH" value="2158" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
