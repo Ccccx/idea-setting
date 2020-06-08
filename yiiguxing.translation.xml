@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable Token Handler" />
       <item value="Transformer" />
       <item value="XML Include Transformer" />
       <item value="Statement" />
@@ -50,12 +51,11 @@
       <item value="feature" />
       <item value="Allows explicitly ordering the property in the model." />
       <item value="bean Names For Type Including Ancestors" />
-      <item value="Shortest Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1955" />
-        <entry key="ENGLISH" value="2170" />
+        <entry key="CHINESE" value="1956" />
+        <entry key="ENGLISH" value="2171" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
