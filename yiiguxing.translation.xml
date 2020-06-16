@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Trying one more time." />
+      <item value="tarball" />
       <item value="Scoped Proxy Mode" />
       <item value="process Common Definition Annotations" />
       <item value="introspect" />
@@ -49,8 +51,6 @@
       <item value="is Async Dispatch" />
       <item value="requires Authentication" />
       <item value="Do invoke this filter..." />
-      <item value="authenticate" />
-      <item value="Virtual Filter Chain" />
     </histories>
     <option name="languageScores">
       <map>
