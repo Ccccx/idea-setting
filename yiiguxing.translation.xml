@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="智慧调度" />
       <item value="Bi" />
       <item value="Predicate" />
       <item value="Binary Operator" />
@@ -50,12 +51,11 @@
       <item value="Class Path Scanning Candidate Component Provider" />
       <item value="Swagger" />
       <item value="Swagger Namespace" />
-      <item value="contact" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2027" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="ENGLISH" value="2241" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
