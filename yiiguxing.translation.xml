@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="dy" />
       <item value="determine" />
       <item value="etermine" />
@@ -50,7 +51,6 @@
       <item value="set Conversion Service" />
       <item value="internal Post Processors" />
       <item value="Application Listener Detector" />
-      <item value="Nested Test Bean" />
     </histories>
     <option name="languageScores">
       <map>
