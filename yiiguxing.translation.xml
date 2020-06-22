@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fragment" />
+      <item value="fragments" />
+      <item value="FRAGMENT" />
       <item value="life Cycle Time" />
       <item value="eval Code Value For SQL" />
       <item value="content" />
@@ -48,9 +51,6 @@
       <item value="in Creation Check Exclusions" />
       <item value="singletons Currently In Destruction" />
       <item value="is Prototype Currently In Creation" />
-      <item value="pre Instantiate Singletons" />
-      <item value="set Temp Class Loader" />
-      <item value="has Embedded Value Resolver" />
     </histories>
     <option name="languageScores">
       <map>
