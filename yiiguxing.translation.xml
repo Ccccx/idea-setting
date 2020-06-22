@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="life Cycle Time" />
       <item value="eval Code Value For SQL" />
       <item value="content" />
       <item value="profile" />
@@ -50,12 +51,11 @@
       <item value="pre Instantiate Singletons" />
       <item value="set Temp Class Loader" />
       <item value="has Embedded Value Resolver" />
-      <item value="set Conversion Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2032" />
-        <entry key="ENGLISH" value="2248" />
+        <entry key="CHINESE" value="2033" />
+        <entry key="ENGLISH" value="2249" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="19" />
