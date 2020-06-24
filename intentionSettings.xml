@@ -11,5 +11,6 @@
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="Grails/Make property nullable" />
     <ignoreAction name="Java/Declaration/Make method default" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
