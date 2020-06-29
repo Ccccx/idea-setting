@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FILTER APPLIED" />
       <item value="token Key Access" />
       <item value="conflicts" />
       <item value="gson" />
@@ -50,12 +51,11 @@
       <item value="Guava's functional primitives can be replaced by Java API " />
       <item value="tide" />
       <item value="潮汐" />
-      <item value="Introspector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2107" />
-        <entry key="ENGLISH" value="2321" />
+        <entry key="CHINESE" value="2108" />
+        <entry key="ENGLISH" value="2322" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
