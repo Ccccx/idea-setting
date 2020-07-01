@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
+      <item value="bank" />
       <item value="Invocation failed Server returned invalid Response." />
       <item value="partitioning By" />
       <item value="mixture" />
@@ -49,8 +51,6 @@
       <item value="Expose Invocation Interceptor" />
       <item value="test Target Can Get Invocation With Private Class" />
       <item value="We don't need an IntroductionAdvisor for this kind of introduction:" />
-      <item value="Introduction Info" />
-      <item value="Restore old proxy." />
     </histories>
     <option name="languageScores">
       <map>
