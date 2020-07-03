@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Match Outcome" />
       <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="instantiate Using Factory Method" />
       <item value="obtain" />
@@ -50,12 +51,11 @@
       <item value="always Applying When Non Null" />
       <item value="Instantiation Model Aware Pointcut Advisor Impl" />
       <item value="so that it will only instantiate once." />
-      <item value="We need to wrap the MetadataAwareAspectInstanceFactory with a decorator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2132" />
-        <entry key="ENGLISH" value="2348" />
+        <entry key="CHINESE" value="2133" />
+        <entry key="ENGLISH" value="2349" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
