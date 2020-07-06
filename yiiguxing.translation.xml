@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="应急点" />
+      <item value="影响车辆" />
       <item value="Implicitly Appeared Singleton Exception" />
       <item value="explicit Args" />
       <item value="pre Instantiate Singletons" />
@@ -49,13 +51,11 @@
       <item value="cas Tab At" />
       <item value="Unsafe mechanics" />
       <item value="放弃" />
-      <item value="yield" />
-      <item value="lost initialization race; just spin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2164" />
-        <entry key="ENGLISH" value="2380" />
+        <entry key="ENGLISH" value="2382" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
