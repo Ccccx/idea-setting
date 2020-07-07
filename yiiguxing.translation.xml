@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
       <item value="within" />
       <item value="execution" />
       <item value="render" />
@@ -50,7 +51,6 @@
       <item value="No task info kept" />
       <item value="The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again." />
       <item value="Object Stream Field" />
-      <item value="get Object Volatile" />
     </histories>
     <option name="languageScores">
       <map>
