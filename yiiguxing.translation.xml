@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="General Availability" />
       <item value="Field MonthOfYear 1 differs from MonthOfYear 7 derived from 2020-01-07" />
       <item value="线路运营" />
       <item value="interval" />
@@ -50,7 +51,6 @@
       <item value="obtain" />
       <item value="obtain Fresh Bean Factory" />
       <item value="keep Task List" />
-      <item value="No task info kept" />
     </histories>
     <option name="languageScores">
       <map>
