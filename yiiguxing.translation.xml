@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsatisfied Non Simple Properties" />
+      <item value="exposed Object" />
       <item value="Roaming" />
       <item value="公司" />
       <item value="分公司" />
@@ -49,13 +51,11 @@
       <item value="Instantiation Aware Bean Post Processor" />
       <item value="populate Bean" />
       <item value="through" />
-      <item value="go through" />
-      <item value="经过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2169" />
-        <entry key="ENGLISH" value="2394" />
+        <entry key="CHINESE" value="2170" />
+        <entry key="ENGLISH" value="2395" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
