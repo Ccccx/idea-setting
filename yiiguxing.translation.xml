@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
+      <item value="major" />
+      <item value="blocker" />
+      <item value="critical" />
       <item value="declaring Class" />
       <item value="2.7.0 This is introduced to preserve backwards compat with groups" />
       <item value="unsatisfied Non Simple Properties" />
@@ -47,10 +51,6 @@
       <item value="deduce" />
       <item value="educe" />
       <item value="Evaluator" />
-      <item value="Condition Evaluator" />
-      <item value="register Annotation Config Processors" />
-      <item value="Injection Metadata" />
-      <item value="Instantiation Aware Bean Post Processor" />
     </histories>
     <option name="languageScores">
       <map>
