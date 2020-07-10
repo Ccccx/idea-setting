@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Daily" />
       <item value="silent" />
       <item value="inspection" />
       <item value="major" />
@@ -50,7 +51,6 @@
       <item value="set Instance Supplier" />
       <item value="unwrap" />
       <item value="deduce" />
-      <item value="educe" />
     </histories>
     <option name="languageScores">
       <map>
