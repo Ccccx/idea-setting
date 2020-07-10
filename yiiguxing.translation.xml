@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Capacity" />
       <item value="实体" />
       <item value="entry" />
       <item value="Mobile" />
@@ -50,12 +51,11 @@
       <item value="config Candidates" />
       <item value="Bean definition has already been processed as a configuration class" />
       <item value="post Process Bean Definition Registry" />
-      <item value="Priority Ordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2174" />
-        <entry key="ENGLISH" value="2401" />
+        <entry key="CHINESE" value="2175" />
+        <entry key="ENGLISH" value="2402" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
