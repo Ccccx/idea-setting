@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contexts" />
       <item value="* Responsible for adding in a marker bean to activate" />
       <item value="完成" />
       <item value="Finsh" />
@@ -50,12 +51,11 @@
       <item value="render" />
       <item value="应急点" />
       <item value="影响车辆" />
-      <item value="Implicitly Appeared Singleton Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2185" />
-        <entry key="ENGLISH" value="2413" />
+        <entry key="CHINESE" value="2186" />
+        <entry key="ENGLISH" value="2414" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
