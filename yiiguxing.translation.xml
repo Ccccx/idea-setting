@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Response is committed - including the error page is the // best we can do" />
       <item value="e might still need view name translation for a plain error model..." />
       <item value="getWriter() has already been called for this response" />
       <item value="// convert shell format into usable one" />
@@ -50,12 +51,11 @@
       <item value="Descriptive Resource" />
       <item value="interoperate" />
       <item value="not" />
-      <item value="Embedded Value Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2239" />
-        <entry key="ENGLISH" value="2467" />
+        <entry key="CHINESE" value="2240" />
+        <entry key="ENGLISH" value="2468" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
