@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="angle" />
+      <item value="DEFAULT MEASURES" />
       <item value="set Thread Priority" />
       <item value="shape" />
       <item value="LAT" />
@@ -49,13 +51,11 @@
       <item value="If we couldn't use the target type, try regular prediction." />
       <item value="predict Bean Type" />
       <item value="resolve Multiple Beans" />
-      <item value="resolve Shortcut" />
-      <item value="Constructor Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2269" />
-        <entry key="ENGLISH" value="2497" />
+        <entry key="CHINESE" value="2271" />
+        <entry key="ENGLISH" value="2499" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
