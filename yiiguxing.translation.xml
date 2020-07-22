@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Geometry" />
       <item value="Latitude" />
       <item value="经纬度" />
       <item value="维度" />
@@ -50,12 +51,11 @@
       <item value="populate Bean" />
       <item value="exposed Object" />
       <item value="register Externally Managed Init Method" />
-      <item value="is Externally Managed Init Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2263" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="CHINESE" value="2264" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
