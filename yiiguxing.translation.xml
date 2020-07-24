@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error wildcard type pattern not allowed, must use type name" />
+      <item value="cancelling" />
+      <item value="attempt" />
+      <item value="must use type name" />
+      <item value="BeanPostProcessor before instantiation of bean failed;" />
       <item value="deserialize" />
       <item value="反序列化" />
       <item value="反序列" />
@@ -46,16 +51,11 @@
       <item value="Encrypt Utils" />
       <item value="the" />
       <item value="donate" />
-      <item value="Instantiation Aware Bean Post Processor Adapter" />
-      <item value="determine Candidate Constructors" />
-      <item value="Check that lookup methods exist and determine their overloaded status." />
-      <item value="meant" />
-      <item value="already Created" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2272" />
-        <entry key="ENGLISH" value="2500" />
+        <entry key="CHINESE" value="2278" />
+        <entry key="ENGLISH" value="2506" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
