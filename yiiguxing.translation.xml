@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标准" />
+      <item value="多功能" />
+      <item value="standard project" />
+      <item value="标准项目" />
       <item value="form" />
       <item value="实时" />
       <item value="error wildcard type pattern not allowed, must use type name" />
@@ -47,15 +51,11 @@
       <item value="// Response is committed - including the error page is the // best we can do" />
       <item value="e might still need view name translation for a plain error model..." />
       <item value="getWriter() has already been called for this response" />
-      <item value="// convert shell format into usable one" />
-      <item value="dispatches" />
-      <item value="* Wraps a {@link Runnable} to swallow any {@link StopPooledThreadException} * instead of letting it go and potentially trigger a break in a debugger." />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2280" />
-        <entry key="ENGLISH" value="2509" />
+        <entry key="CHINESE" value="2281" />
+        <entry key="ENGLISH" value="2512" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
