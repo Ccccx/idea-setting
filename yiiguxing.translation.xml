@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="form" />
       <item value="实时" />
       <item value="error wildcard type pattern not allowed, must use type name" />
       <item value="is Infrastructure Class" />
@@ -50,12 +51,11 @@
       <item value="dispatches" />
       <item value="* Wraps a {@link Runnable} to swallow any {@link StopPooledThreadException} * instead of letting it go and potentially trigger a break in a debugger." />
       <item value="fill" />
-      <item value="check Related" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2279" />
-        <entry key="ENGLISH" value="2508" />
+        <entry key="CHINESE" value="2280" />
+        <entry key="ENGLISH" value="2509" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
