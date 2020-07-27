@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Taking " />
+      <item value="behind" />
+      <item value="far" />
+      <item value="above" />
+      <item value="below" />
+      <item value="bl" />
       <item value="accumulate And Get" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
       <item value="for Each Ordered" />
@@ -45,12 +51,6 @@
       <item value="A list to collect features as we create them." />
       <item value="Sets the name of the built type." />
       <item value="* The Shapefile format has a couple limitations: * - &quot;the_geom&quot; is always first, and used for the geometry attribute name * - &quot;the_geom&quot; must be of type Point, MultiPoint, MuiltiLineString, MultiPolygon * - Attribute names are limited in length * - Not all data types are supported (example Timestamp represented as Date) * * Each data store has different limitations so check the resulting SimpleFeatureType." />
-      <item value="managed Scheduled Executor Service Class" />
-      <item value="Polygon" />
-      <item value="Get an output file name and create the new shapefile" />
-      <item value="&lt;- the geometry attribute: Point type" />
-      <item value="Error decoding srs: 4326" />
-      <item value="* GeoTools Quickstart demo application. Prompts the user for a shapefile and displays its * contents on the screen in a map frame" />
     </histories>
     <option name="languageScores">
       <map>
