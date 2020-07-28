@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="- Unable to publish SessionDestroyedEvent for session" />
+      <item value="is Invalidate Client Session" />
+      <item value="This is a no-op, as we don't administer sessions ourselves." />
       <item value="get Expirations Key" />
       <item value="* The default namespace for each key and channel in Redis used by Spring Session." />
       <item value="find By Index Name And Index Value" />
@@ -48,14 +51,11 @@
       <item value="deserialize" />
       <item value="反序列化" />
       <item value="反序列" />
-      <item value="angle" />
-      <item value="DEFAULT MEASURES" />
-      <item value="set Thread Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2307" />
-        <entry key="ENGLISH" value="2538" />
+        <entry key="CHINESE" value="2310" />
+        <entry key="ENGLISH" value="2541" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
