@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="force" />
+      <item value="强制" />
       <item value="A new session was created. To help you troubleshoot where the session was created we provided a StackTrace (this is not an error). You can prevent this from appearing by disabling DEBUG logging for org.springframework.session.web.http.SessionRepositoryFilter.SESSION_LOGGER" />
       <item value="INVALID SESSION ID ATTR" />
       <item value="The following candidates were found but could not be injected:" />
@@ -49,13 +51,11 @@
       <item value="is Infrastructure Class" />
       <item value="Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error wildcard type pattern not allowed, must use type name" />
       <item value="cancelling" />
-      <item value="attempt" />
-      <item value="must use type name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2315" />
-        <entry key="ENGLISH" value="2546" />
+        <entry key="CHINESE" value="2316" />
+        <entry key="ENGLISH" value="2547" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
