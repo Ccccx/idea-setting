@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thu Jul 30 14:12:19 CST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification. Thu Jul 30 14:12:19 CST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
+      <item value="Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections." />
+      <item value="onnection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections." />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="force" />
       <item value="强制" />
@@ -48,14 +51,11 @@
       <item value="标准项目" />
       <item value="form" />
       <item value="实时" />
-      <item value="error wildcard type pattern not allowed, must use type name" />
-      <item value="is Infrastructure Class" />
-      <item value="Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error wildcard type pattern not allowed, must use type name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2317" />
-        <entry key="ENGLISH" value="2548" />
+        <entry key="CHINESE" value="2320" />
+        <entry key="ENGLISH" value="2551" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
