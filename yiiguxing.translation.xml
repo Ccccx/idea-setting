@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
+      <item value="统计站点数" />
       <item value="Multi Polygon" />
       <item value="Region" />
       <item value="distance" />
@@ -48,14 +51,11 @@
       <item value="MANUAL" />
       <item value="putIfAbsent | oh my god, map's put method return the old value!!!" />
       <item value="replace thread (new or exists invalid)" />
-      <item value="upgrade From" />
-      <item value="log File Create Date" />
-      <item value="init Admin Biz List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2340" />
-        <entry key="ENGLISH" value="2571" />
+        <entry key="CHINESE" value="2341" />
+        <entry key="ENGLISH" value="2572" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
