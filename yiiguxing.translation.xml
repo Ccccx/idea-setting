@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="........................................................................................................ . uReport, is a Chinese style report engine licensed under the Apache License 2.0, . . which is opensource, easy to use,high-performance, with browser-based-designer." />
       <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project jeeplus: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -&gt; [Help 1]" />
       <item value="Too broad exception clause " />
       <item value="new Work Stealing Pool" />
@@ -50,12 +51,11 @@
       <item value="find By Index Name And Index Value" />
       <item value="provided" />
       <item value="Spring Session Backed Session Registry" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2351" />
-        <entry key="ENGLISH" value="2582" />
+        <entry key="CHINESE" value="2352" />
+        <entry key="ENGLISH" value="2583" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
