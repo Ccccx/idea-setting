@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query Cursor" />
+      <item value="get Transaction" />
       <item value="Transaction rolled back because it has been marked as rollback-only" />
       <item value="plain Password" />
       <item value="........................................................................................................ . uReport, is a Chinese style report engine licensed under the Apache License 2.0, . . which is opensource, easy to use,high-performance, with browser-based-designer." />
@@ -49,13 +51,11 @@
       <item value="is Invalidate Client Session" />
       <item value="This is a no-op, as we don't administer sessions ourselves." />
       <item value="get Expirations Key" />
-      <item value="* The default namespace for each key and channel in Redis used by Spring Session." />
-      <item value="find By Index Name And Index Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2353" />
-        <entry key="ENGLISH" value="2584" />
+        <entry key="CHINESE" value="2354" />
+        <entry key="ENGLISH" value="2585" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
