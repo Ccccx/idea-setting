@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collaborator" />
       <item value="query Cursor" />
       <item value="get Transaction" />
       <item value="Transaction rolled back because it has been marked as rollback-only" />
@@ -50,7 +51,6 @@
       <item value="- Unable to publish SessionDestroyedEvent for session" />
       <item value="is Invalidate Client Session" />
       <item value="This is a no-op, as we don't administer sessions ourselves." />
-      <item value="get Expirations Key" />
     </histories>
     <option name="languageScores">
       <map>
