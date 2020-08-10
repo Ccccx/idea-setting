@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reorder Sources" />
       <item value="callback Url" />
       <item value="平台" />
       <item value="unmodifiable Map" />
@@ -50,12 +51,11 @@
       <item value="force" />
       <item value="强制" />
       <item value="A new session was created. To help you troubleshoot where the session was created we provided a StackTrace (this is not an error). You can prevent this from appearing by disabling DEBUG logging for org.springframework.session.web.http.SessionRepositoryFilter.SESSION_LOGGER" />
-      <item value="INVALID SESSION ID ATTR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2358" />
-        <entry key="ENGLISH" value="2589" />
+        <entry key="CHINESE" value="2359" />
+        <entry key="ENGLISH" value="2590" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
