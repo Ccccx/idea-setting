@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rejected Blacklisted Urls" />
+      <item value="reject Forbidden Http Method" />
+      <item value="concat" />
+      <item value="Also try the profile-specific section (if any) of the normal file" />
       <item value="get Filename Extension" />
       <item value="reverse" />
       <item value="Filtered Property Source" />
@@ -47,15 +51,11 @@
       <item value="Binary geometry function st_within given two geometries of different srids: 900913 and 4294967295, which should have been identical." />
       <item value="setup Parameters" />
       <item value="create SQL Dialect" />
-      <item value="ENHANCED SPATIAL SUPPORT" />
-      <item value="STORAGE ENGINE" />
-      <item value="CALLBACK FACTORY" />
-      <item value="CALLBACK REGISTRY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2368" />
-        <entry key="ENGLISH" value="2599" />
+        <entry key="CHINESE" value="2372" />
+        <entry key="ENGLISH" value="2603" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
