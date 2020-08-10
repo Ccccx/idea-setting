@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aware" />
+      <item value="Origin Aware System Environment Property Source" />
+      <item value="reverse" />
+      <item value="retrieve" />
       <item value="reorder Sources" />
       <item value="callback Url" />
       <item value="平台" />
@@ -47,15 +51,11 @@
       <item value="Thu Jul 30 14:12:19 CST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification. Thu Jul 30 14:12:19 CST 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
       <item value="Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections." />
       <item value="onnection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections." />
-      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="force" />
-      <item value="强制" />
-      <item value="A new session was created. To help you troubleshoot where the session was created we provided a StackTrace (this is not an error). You can prevent this from appearing by disabling DEBUG logging for org.springframework.session.web.http.SessionRepositoryFilter.SESSION_LOGGER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2359" />
-        <entry key="ENGLISH" value="2590" />
+        <entry key="CHINESE" value="2363" />
+        <entry key="ENGLISH" value="2594" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
