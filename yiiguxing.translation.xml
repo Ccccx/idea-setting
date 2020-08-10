@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Property Accessors To Try" />
+      <item value="is Auto Grow Null References" />
+      <item value="related Context" />
+      <item value="get Evaluation Context" />
+      <item value="get Active Context Object" />
+      <item value="find Config Attribute" />
+      <item value="next Child Is" />
+      <item value="ACCESS ABSTAIN" />
+      <item value="Decision" />
+      <item value="decide" />
+      <item value="// filter already applied to this request and user wants us to observe // once-per-request handling, so don't re-do security checking" />
+      <item value="GRANTED" />
+      <item value="ACCESS GRANTED" />
+      <item value="get Permission Evaluator" />
+      <item value="deny" />
+      <item value="__spring security filter Security Interceptor filter Applied" />
       <item value="Voter" />
       <item value="Previously" />
       <item value="granted" />
@@ -35,27 +51,11 @@
       <item value="Local Container Entity Manager Factory Bean" />
       <item value="engine" />
       <item value="Database lock acquisition failure: attempt to connect while db opening /closing" />
-      <item value="European Petroleum Survey Group" />
-      <item value="create Backing Store" />
-      <item value="Detected both log4j-over-slf4j.jar AND slf4j-log4j12.jar on the class path," />
-      <item value="Detected" />
-      <item value="Exception In Initializer Error" />
-      <item value="statistics" />
-      <item value="统计" />
-      <item value="统计站点数" />
-      <item value="Multi Polygon" />
-      <item value="Region" />
-      <item value="distance" />
-      <item value="Measure" />
-      <item value="fire Error Event" />
-      <item value="Geometry" />
-      <item value="Polygon" />
-      <item value="no aggregate attribute." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2375" />
-        <entry key="ENGLISH" value="2606" />
+        <entry key="CHINESE" value="2392" />
+        <entry key="ENGLISH" value="2623" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
