@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="associte" />
       <item value="recent" />
       <item value="require Csrf Protection Matcher" />
       <item value="ECODE" />
@@ -50,7 +51,6 @@
       <item value="get Transaction" />
       <item value="Transaction rolled back because it has been marked as rollback-only" />
       <item value="plain Password" />
-      <item value="........................................................................................................ . uReport, is a Chinese style report engine licensed under the Apache License 2.0, . . which is opensource, easy to use,high-performance, with browser-based-designer." />
     </histories>
     <option name="languageScores">
       <map>
