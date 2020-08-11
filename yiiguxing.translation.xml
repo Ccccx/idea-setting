@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recent" />
       <item value="require Csrf Protection Matcher" />
       <item value="ECODE" />
       <item value="ecode" />
@@ -50,7 +51,6 @@
       <item value="Transaction rolled back because it has been marked as rollback-only" />
       <item value="plain Password" />
       <item value="........................................................................................................ . uReport, is a Chinese style report engine licensed under the Apache License 2.0, . . which is opensource, easy to use,high-performance, with browser-based-designer." />
-      <item value="[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project jeeplus: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -&gt; [Help 1]" />
     </histories>
     <option name="languageScores">
       <map>
