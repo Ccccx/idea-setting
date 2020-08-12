@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Store the HTTP request itself. Used by // AbstractAuthenticationProcessingFilter // for redirection after successful authentication (SEC-29)" />
+      <item value="commence" />
+      <item value="// Don't initialize filter bean on init()" />
+      <item value="// Fetch Spring root application context and initialize the delegate early, // if possible. If the root application context will be started after this // filter proxy, we'll have to resort to lazy initialization." />
+      <item value="Generic Filter Bean" />
+      <item value="security" />
       <item value="disable Local Configure Authentication Bldr" />
       <item value="authentication Manager Initialized" />
       <item value="/ Initialize other special beans in specific context subclasses." />
@@ -45,17 +51,11 @@
       <item value="next Child Is" />
       <item value="ACCESS ABSTAIN" />
       <item value="Decision" />
-      <item value="decide" />
-      <item value="// filter already applied to this request and user wants us to observe // once-per-request handling, so don't re-do security checking" />
-      <item value="GRANTED" />
-      <item value="ACCESS GRANTED" />
-      <item value="get Permission Evaluator" />
-      <item value="deny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2411" />
-        <entry key="ENGLISH" value="2643" />
+        <entry key="CHINESE" value="2417" />
+        <entry key="ENGLISH" value="2649" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
