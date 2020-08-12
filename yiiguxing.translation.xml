@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/ Initialize other special beans in specific context subclasses." />
       <item value="get Valid Document Root" />
       <item value="No Descriptor Registry" />
       <item value="DISPATCHER SERVLET NAME" />
@@ -50,12 +51,11 @@
       <item value="deny" />
       <item value="__spring security filter Security Interceptor filter Applied" />
       <item value="Voter" />
-      <item value="Previously" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2408" />
-        <entry key="ENGLISH" value="2640" />
+        <entry key="CHINESE" value="2409" />
+        <entry key="ENGLISH" value="2641" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
