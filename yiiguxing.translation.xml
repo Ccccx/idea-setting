@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
       <item value="utility room" />
       <item value="杂物间" />
       <item value="茶水间" />
@@ -50,12 +51,11 @@
       <item value="concat" />
       <item value="Also try the profile-specific section (if any) of the normal file" />
       <item value="get Filename Extension" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2401" />
-        <entry key="ENGLISH" value="2633" />
+        <entry key="CHINESE" value="2402" />
+        <entry key="ENGLISH" value="2634" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
