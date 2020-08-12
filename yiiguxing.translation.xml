@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISPATCHER SERVLET NAME" />
+      <item value="Mark the underlying source as seen in case it wraps an existing bean" />
+      <item value="Servlet Context Initializer Beans" />
       <item value="invocable Method" />
       <item value="retrieve" />
       <item value="utility room" />
@@ -48,14 +51,11 @@
       <item value="Previously" />
       <item value="granted" />
       <item value="rejected Blacklisted Urls" />
-      <item value="reject Forbidden Http Method" />
-      <item value="concat" />
-      <item value="Also try the profile-specific section (if any) of the normal file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2403" />
-        <entry key="ENGLISH" value="2635" />
+        <entry key="CHINESE" value="2406" />
+        <entry key="ENGLISH" value="2638" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
