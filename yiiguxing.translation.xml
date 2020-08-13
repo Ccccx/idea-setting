@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field Aware Constructor Parameter" />
+      <item value="A single data class constructor -&gt; resolve constructor arguments from request parameters." />
+      <item value="Global methods first" />
       <item value="create Async Web Request" />
       <item value="do Dispatch" />
       <item value="usage rate" />
@@ -48,14 +51,11 @@
       <item value="recent" />
       <item value="require Csrf Protection Matcher" />
       <item value="ECODE" />
-      <item value="ecode" />
-      <item value="Voters" />
-      <item value="Security Expression Root" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2424" />
-        <entry key="ENGLISH" value="2655" />
+        <entry key="CHINESE" value="2427" />
+        <entry key="ENGLISH" value="2658" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
