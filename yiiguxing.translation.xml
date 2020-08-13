@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="charge" />
+      <item value="充电" />
       <item value="decrypt By Public Key" />
       <item value="ALLATOR Ix DEMO" />
       <item value="erase Credentials After Authentication" />
@@ -49,13 +51,11 @@
       <item value="is Auto Grow Null References" />
       <item value="related Context" />
       <item value="get Evaluation Context" />
-      <item value="get Active Context Object" />
-      <item value="find Config Attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2420" />
-        <entry key="ENGLISH" value="2651" />
+        <entry key="CHINESE" value="2421" />
+        <entry key="ENGLISH" value="2652" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
