@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="usage rate" />
+      <item value="使用率" />
       <item value="detail" />
       <item value="charge" />
       <item value="充电" />
@@ -49,13 +51,11 @@
       <item value="Security Expression Root" />
       <item value="capitalize" />
       <item value="get Property Accessors To Try" />
-      <item value="is Auto Grow Null References" />
-      <item value="related Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2421" />
-        <entry key="ENGLISH" value="2652" />
+        <entry key="CHINESE" value="2422" />
+        <entry key="ENGLISH" value="2653" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
