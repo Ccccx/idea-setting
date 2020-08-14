@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
       <item value="* Enhance a {@link Bean @Bean} method to check the supplied BeanFactory for the * existence of this bean object. * @throws Throwable as a catch-all for any exception that may be thrown when invoking the * super implementation of the proxied method i.e., the actual {@code @Bean} method" />
       <item value="is Currently Invoked Factory Method" />
       <item value="resolve Bean Reference" />
@@ -49,13 +51,11 @@
       <item value="管理室面积" />
       <item value="office space" />
       <item value="办公面积" />
-      <item value="面积" />
-      <item value="location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2432" />
-        <entry key="ENGLISH" value="2665" />
+        <entry key="CHINESE" value="2433" />
+        <entry key="ENGLISH" value="2666" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
