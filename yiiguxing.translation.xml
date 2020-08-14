@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="packet" />
+      <item value="mark Reader Index" />
+      <item value="destroy Buf" />
+      <item value="free" />
       <item value="statistics" />
       <item value="统计" />
       <item value="* Enhance a {@link Bean @Bean} method to check the supplied BeanFactory for the * existence of this bean object. * @throws Throwable as a catch-all for any exception that may be thrown when invoking the * super implementation of the proxied method i.e., the actual {@code @Bean} method" />
@@ -47,15 +51,11 @@
       <item value="rest room" />
       <item value="休息室" />
       <item value="Dispatch" />
-      <item value="调度室面积" />
-      <item value="管理室面积" />
-      <item value="office space" />
-      <item value="办公面积" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2433" />
-        <entry key="ENGLISH" value="2666" />
+        <entry key="CHINESE" value="2436" />
+        <entry key="ENGLISH" value="2669" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
