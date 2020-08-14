@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql Segments" />
       <item value="is Synthetic" />
       <item value="Field Aware Constructor Parameter" />
       <item value="A single data class constructor -&gt; resolve constructor arguments from request parameters." />
@@ -50,12 +51,11 @@
       <item value="advice" />
       <item value="associte" />
       <item value="recent" />
-      <item value="require Csrf Protection Matcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2428" />
-        <entry key="ENGLISH" value="2659" />
+        <entry key="CHINESE" value="2429" />
+        <entry key="ENGLISH" value="2660" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
