@@ -9,7 +9,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Verdana" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
