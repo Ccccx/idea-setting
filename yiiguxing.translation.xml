@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="communal" />
+      <item value="common" />
       <item value="packet" />
       <item value="mark Reader Index" />
       <item value="destroy Buf" />
@@ -49,8 +51,6 @@
       <item value="Bathroom" />
       <item value="卫生间" />
       <item value="rest room" />
-      <item value="休息室" />
-      <item value="Dispatch" />
     </histories>
     <option name="languageScores">
       <map>
