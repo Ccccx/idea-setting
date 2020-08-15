@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deny Hash Codes" />
+      <item value="DEFAULT PARSER FEATURE" />
       <item value="decrypt By Public Key" />
       <item value="MouseGestures" />
       <item value="MouseGestures-1.2" />
@@ -49,13 +51,11 @@
       <item value="Mark the underlying source as seen in case it wraps an existing bean" />
       <item value="Servlet Context Initializer Beans" />
       <item value="invocable Method" />
-      <item value="retrieve" />
-      <item value="utility room" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2439" />
-        <entry key="ENGLISH" value="2671" />
+        <entry key="CHINESE" value="2441" />
+        <entry key="ENGLISH" value="2673" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
