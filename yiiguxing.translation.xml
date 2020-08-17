@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Unique Declared Methods" />
       <item value="deny Hash Codes" />
       <item value="DEFAULT PARSER FEATURE" />
       <item value="decrypt By Public Key" />
@@ -50,12 +51,11 @@
       <item value="DISPATCHER SERVLET NAME" />
       <item value="Mark the underlying source as seen in case it wraps an existing bean" />
       <item value="Servlet Context Initializer Beans" />
-      <item value="invocable Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2441" />
-        <entry key="ENGLISH" value="2673" />
+        <entry key="CHINESE" value="2442" />
+        <entry key="ENGLISH" value="2674" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
