@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test">
+      <action id="EditorTab" />
+      <action id="EditorTab" />
+      <typing text-keycode="79:0;85:0;84:0">out</typing>
+      <action id="EditorEnter" />
+    </macro>
+  </component>
+</application>

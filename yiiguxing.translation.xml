@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="macors" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="已存在" />
       <item value="load-point" />
@@ -50,7 +51,6 @@
       <item value="sql Segments" />
       <item value="is Synthetic" />
       <item value="Field Aware Constructor Parameter" />
-      <item value="A single data class constructor -&gt; resolve constructor arguments from request parameters." />
     </histories>
     <option name="languageScores">
       <map>
