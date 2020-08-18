@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="已存在" />
       <item value="load-point" />
       <item value="load-point marker" />
@@ -50,12 +51,11 @@
       <item value="is Synthetic" />
       <item value="Field Aware Constructor Parameter" />
       <item value="A single data class constructor -&gt; resolve constructor arguments from request parameters." />
-      <item value="Global methods first" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2461" />
-        <entry key="ENGLISH" value="2694" />
+        <entry key="CHINESE" value="2463" />
+        <entry key="ENGLISH" value="2696" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
