@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Manual Singleton Names" />
+      <item value="set Instance Supplier" />
+      <item value="I Storage Service" />
       <item value="Detected" />
       <item value="Eagerly load the ContextClosedEvent class to avoid weird classloader issues // on application shutdown in WebLogic 8.1. (Reported by Dustin Woods.)" />
       <item value="macors" />
@@ -48,14 +51,11 @@
       <item value="* Enhance a {@link Bean @Bean} method to check the supplied BeanFactory for the * existence of this bean object. * @throws Throwable as a catch-all for any exception that may be thrown when invoking the * super implementation of the proxied method i.e., the actual {@code @Bean} method" />
       <item value="is Currently Invoked Factory Method" />
       <item value="resolve Bean Reference" />
-      <item value="电压" />
-      <item value="线路方向" />
-      <item value="sql Segments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2465" />
-        <entry key="ENGLISH" value="2698" />
+        <entry key="CHINESE" value="2468" />
+        <entry key="ENGLISH" value="2701" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
