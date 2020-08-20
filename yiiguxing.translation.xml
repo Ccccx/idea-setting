@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="removal Notification Queue" />
+      <item value="enqueue Notification" />
+      <item value="expand" />
+      <item value="// An entry may be in the recency queue despite it being removed from // the map . This can occur when the entry was concurrently read while a // writer is removing it from the segment or after a clear has removed // all of the segment's entries." />
+      <item value="drain Recency Queue" />
+      <item value="expire Entries" />
+      <item value="pre Write Cleanup" />
+      <item value="Measures time in a testable way." />
+      <item value="segments" />
+      <item value="recreate Cache Builder" />
       <item value="Immutable Map" />
       <item value="Resilience" />
       <item value="acquire Lock" />
@@ -41,21 +51,11 @@
       <item value="update Manual Singleton Names" />
       <item value="set Instance Supplier" />
       <item value="I Storage Service" />
-      <item value="Detected" />
-      <item value="Eagerly load the ContextClosedEvent class to avoid weird classloader issues // on application shutdown in WebLogic 8.1. (Reported by Dustin Woods.)" />
-      <item value="macors" />
-      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="已存在" />
-      <item value="load-point" />
-      <item value="load-point marker" />
-      <item value="起止点" />
-      <item value="d" />
-      <item value="process Candidate Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2502" />
-        <entry key="ENGLISH" value="2734" />
+        <entry key="CHINESE" value="2512" />
+        <entry key="ENGLISH" value="2744" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
