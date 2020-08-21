@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transful" />
+      <item value="transform" />
+      <item value="转换" />
+      <item value="可达的" />
+      <item value="Trans" />
+      <item value="可达" />
       <item value="removal Notification Queue" />
       <item value="enqueue Notification" />
       <item value="expand" />
@@ -45,17 +51,11 @@
       <item value="Process superclass, if any" />
       <item value="Process default methods on interfaces" />
       <item value="// Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM." />
-      <item value="config Candidates" />
-      <item value="LITE" />
-      <item value="CONFIGURATION CLASS LITE" />
-      <item value="update Manual Singleton Names" />
-      <item value="set Instance Supplier" />
-      <item value="I Storage Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2512" />
-        <entry key="ENGLISH" value="2744" />
+        <entry key="CHINESE" value="2514" />
+        <entry key="ENGLISH" value="2747" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
