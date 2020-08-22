@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order" />
       <item value="transful" />
       <item value="transform" />
       <item value="转换" />
@@ -50,7 +51,6 @@
       <item value="Tracked Condition Evaluator" />
       <item value="Process superclass, if any" />
       <item value="Process default methods on interfaces" />
-      <item value="// Try reading the class file via ASM for deterministic declaration order... // Unfortunately, the JVM's standard reflection returns methods in arbitrary // order, even between different runs of the same application on the same JVM." />
     </histories>
     <option name="languageScores">
       <map>
