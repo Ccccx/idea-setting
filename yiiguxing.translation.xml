@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caffeine Cache" />
+      <item value="Shuttle" />
+      <item value="number" />
       <item value="order" />
       <item value="transful" />
       <item value="transform" />
@@ -48,14 +51,11 @@
       <item value="get Introspected Method" />
       <item value="extract Source" />
       <item value="/ Has this effectively been overridden before (e.g. via XML)?" />
-      <item value="Tracked Condition Evaluator" />
-      <item value="Process superclass, if any" />
-      <item value="Process default methods on interfaces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2514" />
-        <entry key="ENGLISH" value="2747" />
+        <entry key="CHINESE" value="2517" />
+        <entry key="ENGLISH" value="2750" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
