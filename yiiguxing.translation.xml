@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="热力图" />
       <item value=" psi is outdated " />
       <item value="no Transfer" />
       <item value="untransfer" />
@@ -50,12 +51,11 @@
       <item value="// Configuration class (full or lite) or a configuration-derived @Bean method // -&gt; resolve bean class at this point..." />
       <item value="since it is not stored in an AbstractBeanDefinition subclass" />
       <item value="* Prepare the Configuration classes for servicing bean requests at runtime * by replacing them with CGLIB-enhanced subclasses." />
-      <item value="reiterate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2519" />
-        <entry key="ENGLISH" value="2751" />
+        <entry key="ENGLISH" value="2752" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
