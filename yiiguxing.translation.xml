@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no Transfer" />
+      <item value="untransfer" />
       <item value="Caffeine Cache" />
       <item value="Shuttle" />
       <item value="number" />
@@ -49,13 +51,11 @@
       <item value="* Prepare the Configuration classes for servicing bean requests at runtime * by replacing them with CGLIB-enhanced subclasses." />
       <item value="reiterate" />
       <item value="get Introspected Method" />
-      <item value="extract Source" />
-      <item value="/ Has this effectively been overridden before (e.g. via XML)?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2517" />
-        <entry key="ENGLISH" value="2750" />
+        <entry key="CHINESE" value="2519" />
+        <entry key="ENGLISH" value="2751" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
@@ -72,6 +72,7 @@
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
