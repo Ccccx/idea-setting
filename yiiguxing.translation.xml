@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ultimate" />
+      <item value=" because: psi is outdated " />
       <item value="全局" />
       <item value="goabl" />
       <item value="热力图" />
@@ -49,13 +51,11 @@
       <item value="get Unique Declared Methods" />
       <item value="// The factory is calling the bean method in order to instantiate and register the bean // (i.e. via a getBean() call) -&gt; invoke the super implementation of the method to actually // create the bean instance." />
       <item value="set Naming Policy" />
-      <item value="preserve Target Class" />
-      <item value="// Configuration class (full or lite) or a configuration-derived @Bean method // -&gt; resolve bean class at this point..." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2519" />
-        <entry key="ENGLISH" value="2754" />
+        <entry key="ENGLISH" value="2755" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
