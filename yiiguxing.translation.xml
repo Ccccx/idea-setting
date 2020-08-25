@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'parent.relativePath' of POM com.tiamaes.cloud:m1-online-form:0.0.1-SNAPSHOT (E:\IDEA\a-tm\gitlab\m1-parent\m1-online-form\pom.xml) points at com.tiamaes.cloud.m1:m1-parent instead of com.tiamaes.cloud:tiamaes-cloud-project-parent, please verify your project structure" />
       <item value="ultimate" />
       <item value=" because: psi is outdated " />
       <item value="全局" />
@@ -50,7 +51,6 @@
       <item value="// The callbacks to use. Note that these callbacks must be stateless." />
       <item value="get Unique Declared Methods" />
       <item value="// The factory is calling the bean method in order to instantiate and register the bean // (i.e. via a getBean() call) -&gt; invoke the super implementation of the method to actually // create the bean instance." />
-      <item value="set Naming Policy" />
     </histories>
     <option name="languageScores">
       <map>
