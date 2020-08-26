@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Primitive Class" />
       <item value="grant" />
       <item value="动态" />
       <item value="'parent.relativePath' of POM com.tiamaes.cloud:m1-online-form:0.0.1-SNAPSHOT (E:\IDEA\a-tm\gitlab\m1-parent\m1-online-form\pom.xml) points at com.tiamaes.cloud.m1:m1-parent instead of com.tiamaes.cloud:tiamaes-cloud-project-parent, please verify your project structure" />
@@ -50,12 +51,11 @@
       <item value="visit Field Insn" />
       <item value="GETSTATIC" />
       <item value="Class Loader" />
-      <item value="// The callbacks to use. Note that these callbacks must be stateless." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2519" />
-        <entry key="ENGLISH" value="2757" />
+        <entry key="CHINESE" value="2520" />
+        <entry key="ENGLISH" value="2758" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
