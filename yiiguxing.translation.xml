@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluent" />
       <item value="get Primitive Class" />
       <item value="grant" />
       <item value="动态" />
@@ -50,12 +51,11 @@
       <item value="A position in the bytecode of a method. Labels are used for jump, goto, and switch instructions, and for try catch blocks. A label designates the instruction that is just after. Note however that there can be other elements between a label and the instruction it designates (such as other labels, stack map frames, line numbers, etc.)." />
       <item value="visit Field Insn" />
       <item value="GETSTATIC" />
-      <item value="Class Loader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2520" />
-        <entry key="ENGLISH" value="2758" />
+        <entry key="CHINESE" value="2521" />
+        <entry key="ENGLISH" value="2759" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
