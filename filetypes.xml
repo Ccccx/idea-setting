@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.classpath;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="gradle" type="Groovy" />
-      <mapping ext="gant" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="CodeGeneratorDemo" type="PLAIN_TEXT" />
       <mapping pattern="Dockfile" type="PLAIN_TEXT" />
@@ -28,8 +28,6 @@
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping pattern="application.yml" approved="true" type="YAML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
