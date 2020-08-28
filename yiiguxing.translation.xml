@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Absolute Path" />
       <item value="plan" />
       <item value="reversed" />
       <item value="/ Register as ServletContext attribute, for ContextCleanupListener to detect it." />
@@ -50,12 +51,11 @@
       <item value="time To Give Up" />
       <item value="perform Update" />
       <item value="* Interface used to interact with the entity manager factory * for the persistence unit. * * &lt;p&gt;When the application has finished using the entity manager * factory, and/or at application shutdown, the application should * close the entity manager factory. Once an * &lt;code&gt;EntityManagerFactory&lt;/code&gt; has been closed, all its entity managers * are considered to be in the closed state." />
-      <item value="* Post processor to ensure that {@link EntityManagerFactory} beans depend on the * liquibase bean." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2529" />
-        <entry key="ENGLISH" value="2767" />
+        <entry key="CHINESE" value="2531" />
+        <entry key="ENGLISH" value="2769" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
