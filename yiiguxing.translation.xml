@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOOP SESSION CONTEXT" />
+      <item value="NOOP" />
       <item value="* Open a property file that is embedded as a Java resource and parse it." />
       <item value="Path Matching Resource Pattern Resolver" />
       <item value="* Search for both liquibase.properties (or whatever the name of the current * defaultsFile is) and the &quot;local&quot; variant liquibase.local.properties. The contents of the local * variant overwrite parameters with the same name in the regular properties file." />
@@ -49,13 +51,11 @@
       <item value="pre Write Cleanup" />
       <item value="Measures time in a testable way." />
       <item value="segments" />
-      <item value="recreate Cache Builder" />
-      <item value="Immutable Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2536" />
-        <entry key="ENGLISH" value="2774" />
+        <entry key="CHINESE" value="2539" />
+        <entry key="ENGLISH" value="2776" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
