@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Absolute File" />
       <item value="NOOP SESSION CONTEXT" />
       <item value="NOOP" />
       <item value="* Open a property file that is embedded as a Java resource and parse it." />
@@ -50,7 +51,6 @@
       <item value="expire Entries" />
       <item value="pre Write Cleanup" />
       <item value="Measures time in a testable way." />
-      <item value="segments" />
     </histories>
     <option name="languageScores">
       <map>
