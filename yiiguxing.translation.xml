@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Suppress default constructor for noninstantiability" />
       <item value="default Catalog Name" />
       <item value="full Sql" />
       <item value="条件" />
@@ -50,7 +51,6 @@
       <item value="'parent.relativePath' of POM com.tiamaes.cloud:m1-online-form:0.0.1-SNAPSHOT (E:\IDEA\a-tm\gitlab\m1-parent\m1-online-form\pom.xml) points at com.tiamaes.cloud.m1:m1-parent instead of com.tiamaes.cloud:tiamaes-cloud-project-parent, please verify your project structure" />
       <item value="ultimate" />
       <item value=" because: psi is outdated " />
-      <item value="全局" />
     </histories>
     <option name="languageScores">
       <map>
