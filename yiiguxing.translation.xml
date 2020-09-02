@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通过" />
       <item value="do Migration" />
       <item value="Set (hopefully) sensible defaults for command line parameters" />
       <item value="reconfigure Logging" />
@@ -50,12 +51,11 @@
       <item value="no Transfer" />
       <item value="untransfer" />
       <item value="Caffeine Cache" />
-      <item value="Shuttle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2546" />
-        <entry key="ENGLISH" value="2789" />
+        <entry key="ENGLISH" value="2790" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
