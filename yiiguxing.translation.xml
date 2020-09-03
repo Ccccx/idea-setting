@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath." />
       <item value="* Returns a brief description of this potion. The exact details * of the representation are unspecified and subject to change," />
       <item value=" Suppress default constructor for noninstantiability" />
       <item value="default Catalog Name" />
@@ -50,12 +51,11 @@
       <item value="grant" />
       <item value="动态" />
       <item value="'parent.relativePath' of POM com.tiamaes.cloud:m1-online-form:0.0.1-SNAPSHOT (E:\IDEA\a-tm\gitlab\m1-parent\m1-online-form\pom.xml) points at com.tiamaes.cloud.m1:m1-parent instead of com.tiamaes.cloud:tiamaes-cloud-project-parent, please verify your project structure" />
-      <item value="ultimate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2551" />
-        <entry key="ENGLISH" value="2796" />
+        <entry key="CHINESE" value="2552" />
+        <entry key="ENGLISH" value="2797" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
