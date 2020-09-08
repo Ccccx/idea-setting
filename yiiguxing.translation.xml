@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="respect Schema And Catalog Case If Needed" />
+      <item value="Standard Object Change Filter" />
+      <item value="Catalog And Schema" />
+      <item value="Compare Control" />
+      <item value="Composite Resource Accessor" />
+      <item value="Command Line Resource Accessor" />
+      <item value="// // It is safe to assume that the nested JAR is readable by the classloader // as a resource stream, because we have reached this point by scanning // through packages located from `classloader` by using `getResource`. // If loading this nested JAR as a resource fails, then certainly loading // classes from inside it with `classloader` would fail and we are safe // to exclude it form the PackageScan." />
+      <item value="// To avoid needing to unzip 'parentFile' in its entirety, as that // may take a very long time (see CORE-2115) or not even be possible // (see CORE-2595), we load the nested JAR from the classloader and // read it as a zip." />
+      <item value="// manifold classes should be skipped (no physical jar file present) // see http://manifold.systems/ for details about manifold" />
       <item value="seen Urls" />
       <item value="relative To Changelog File" />
       <item value="to External Form" />
@@ -42,20 +51,11 @@
       <item value="executor" />
       <item value="options must start with a '--'" />
       <item value="Please set liquibaseProLicenseKey on command line or in liquibase.properties to use Liquibase Pro features." />
-      <item value="No Liquibase Pro license key supplied. Please set liquibaseProLicenseKey on command line or in liquibase.properties to use Liquibase Pro features." />
-      <item value="Unexpected" />
-      <item value="Unexpected command paramete" />
-      <item value="get Absolute File" />
-      <item value="NOOP SESSION CONTEXT" />
-      <item value="NOOP" />
-      <item value="* Open a property file that is embedded as a Java resource and parse it." />
-      <item value="Path Matching Resource Pattern Resolver" />
-      <item value="* Search for both liquibase.properties (or whatever the name of the current * defaultsFile is) and the &quot;local&quot; variant liquibase.local.properties. The contents of the local * variant overwrite parameters with the same name in the regular properties file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2569" />
-        <entry key="ENGLISH" value="2814" />
+        <entry key="CHINESE" value="2578" />
+        <entry key="ENGLISH" value="2823" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
