@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependency Graph" />
+      <item value="comparison Snapshot" />
       <item value="respect Schema And Catalog Case If Needed" />
       <item value="Standard Object Change Filter" />
       <item value="Catalog And Schema" />
@@ -49,13 +51,11 @@
       <item value="验证" />
       <item value="Put things back" />
       <item value="executor" />
-      <item value="options must start with a '--'" />
-      <item value="Please set liquibaseProLicenseKey on command line or in liquibase.properties to use Liquibase Pro features." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2578" />
-        <entry key="ENGLISH" value="2823" />
+        <entry key="CHINESE" value="2580" />
+        <entry key="ENGLISH" value="2825" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
