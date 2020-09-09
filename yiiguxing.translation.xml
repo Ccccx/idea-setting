@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of" />
       <item value="overridden Id Root" />
       <item value="get Generated Change Set Ids Contain Description" />
       <item value="switch timestamp to a shorter string (last 4 digits in base 36 format). Still mostly unique, but shorter since we also now have mostly-unique descriptions of the changes" />
@@ -50,12 +51,11 @@
       <item value="Liquibase" />
       <item value="generator" />
       <item value="自定义" />
-      <item value="Validate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2584" />
-        <entry key="ENGLISH" value="2829" />
+        <entry key="CHINESE" value="2586" />
+        <entry key="ENGLISH" value="2831" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
