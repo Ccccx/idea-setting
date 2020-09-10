@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default Value Numeric" />
       <item value="produces" />
       <item value="fresh" />
       <item value="新鲜" />
@@ -50,12 +51,11 @@
       <item value="* Temporarily store this position and use it in the following * nextToken() method only if the delimiters haven't been changed in * that nextToken() invocation." />
       <item value="next Token" />
       <item value="* Specifies whether the parameter can accept multiple values by having multiple occurrences." />
-      <item value="通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2591" />
-        <entry key="ENGLISH" value="2836" />
+        <entry key="CHINESE" value="2592" />
+        <entry key="ENGLISH" value="2837" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
