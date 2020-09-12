@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sanitize Path" />
+      <item value="Fat" />
+      <item value="relative To" />
+      <item value="// TODO:When we update to Java 7+, we can can create a FileSystem from the JAR (zip) // file, and then use NIO's directory walking and filtering mechanisms to search through it." />
+      <item value="//We don't use an HashSet otherwise iteration order is not deterministic" />
       <item value="get Canonical File" />
       <item value="to External Form" />
       <item value="Vector" />
@@ -46,16 +51,11 @@
       <item value="* A ConfigurationValueProvider implementation that looks for overriding values in system properties. * Looks for system properties in the format &quot;NAMESPACE.PROPERTY_NAME&quot;." />
       <item value="wrong number of arguments" />
       <item value="Instantiation Exception" />
-      <item value="do Privileged" />
-      <item value="include System Classpath" />
-      <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath." />
-      <item value="* Returns a brief description of this potion. The exact details * of the representation are unspecified and subject to change," />
-      <item value=" Suppress default constructor for noninstantiability" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2600" />
-        <entry key="ENGLISH" value="2845" />
+        <entry key="CHINESE" value="2605" />
+        <entry key="ENGLISH" value="2850" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
