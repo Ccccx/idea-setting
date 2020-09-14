@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possibly consider using a shorter maxLifetime value." />
+      <item value="max Lifetime" />
       <item value="// java.util.JarFile has a slightly nicer interface than ZipInputStream here and // it works for zip files as well as JAR files" />
       <item value="get Extra" />
       <item value="sanitize Path" />
@@ -49,13 +51,11 @@
       <item value="commont" />
       <item value="set Precision" />
       <item value="colunm" />
-      <item value="constraints" />
-      <item value="* A ConfigurationValueProvider implementation that looks for overriding values in system properties. * Looks for system properties in the format &quot;NAMESPACE.PROPERTY_NAME&quot;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2607" />
-        <entry key="ENGLISH" value="2852" />
+        <entry key="CHINESE" value="2609" />
+        <entry key="ENGLISH" value="2854" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
