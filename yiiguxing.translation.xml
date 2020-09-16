@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster" />
       <item value="profile" />
       <item value="broadcast Realtime Vehicle Info" />
       <item value="Consider revisiting the entries above or defining a bean of type 'com.tiamaes.cloud.m1.upload.resource.FdfsStorageProperties' in your configuration." />
@@ -50,7 +51,6 @@
       <item value="relative To Changelog File" />
       <item value="default Value Computed" />
       <item value="suffix" />
-      <item value="deferrable" />
     </histories>
     <option name="languageScores">
       <map>
