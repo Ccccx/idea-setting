@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Suitable Thread Count" />
+      <item value="DOT" />
       <item value="序列" />
       <item value="唯一编号" />
       <item value="qualify" />
@@ -49,13 +51,11 @@
       <item value="Compare Control" />
       <item value="Composite Resource Accessor" />
       <item value="Command Line Resource Accessor" />
-      <item value="// // It is safe to assume that the nested JAR is readable by the classloader // as a resource stream, because we have reached this point by scanning // through packages located from `classloader` by using `getResource`. // If loading this nested JAR as a resource fails, then certainly loading // classes from inside it with `classloader` would fail and we are safe // to exclude it form the PackageScan." />
-      <item value="// To avoid needing to unzip 'parentFile' in its entirety, as that // may take a very long time (see CORE-2115) or not even be possible // (see CORE-2595), we load the nested JAR from the classloader and // read it as a zip." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2613" />
-        <entry key="ENGLISH" value="2861" />
+        <entry key="CHINESE" value="2615" />
+        <entry key="ENGLISH" value="2863" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
