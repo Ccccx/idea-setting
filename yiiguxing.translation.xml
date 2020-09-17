@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qualify" />
+      <item value="限定" />
+      <item value="全限定类名" />
       <item value="cluster" />
       <item value="profile" />
       <item value="broadcast Realtime Vehicle Info" />
@@ -48,14 +51,11 @@
       <item value="// To avoid needing to unzip 'parentFile' in its entirety, as that // may take a very long time (see CORE-2115) or not even be possible // (see CORE-2595), we load the nested JAR from the classloader and // read it as a zip." />
       <item value="// manifold classes should be skipped (no physical jar file present) // see http://manifold.systems/ for details about manifold" />
       <item value="seen Urls" />
-      <item value="relative To Changelog File" />
-      <item value="default Value Computed" />
-      <item value="suffix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2612" />
-        <entry key="ENGLISH" value="2857" />
+        <entry key="CHINESE" value="2613" />
+        <entry key="ENGLISH" value="2860" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
