@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
+      <item value="The driver has not received any packets from the server." />
+      <item value=" last packet" />
       <item value=" Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
       <item value="Load Time Weaver Aware" />
       <item value="Test" />
@@ -48,14 +51,11 @@
       <item value="pooled" />
       <item value="default Value Numeric" />
       <item value="produces" />
-      <item value="fresh" />
-      <item value="新鲜" />
-      <item value="declared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2630" />
-        <entry key="ENGLISH" value="2878" />
+        <entry key="CHINESE" value="2633" />
+        <entry key="ENGLISH" value="2881" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
