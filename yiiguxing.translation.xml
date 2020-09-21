@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Write Precision" />
       <item value="Communications" />
       <item value="encode" />
       <item value="Communications link failure" />
@@ -50,12 +51,11 @@
       <item value="get Naming Request Monitor" />
       <item value="deregister Instance" />
       <item value="Naming Service" />
-      <item value="pooled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2635" />
-        <entry key="ENGLISH" value="2883" />
+        <entry key="CHINESE" value="2636" />
+        <entry key="ENGLISH" value="2884" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
