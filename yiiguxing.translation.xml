@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caffeine Cache" />
+      <item value="lag" />
       <item value="Write Precision" />
       <item value="Communications" />
       <item value="encode" />
@@ -49,13 +51,11 @@
       <item value="to Class Loader" />
       <item value="nacos Client Request Histogram" />
       <item value="get Naming Request Monitor" />
-      <item value="deregister Instance" />
-      <item value="Naming Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2636" />
-        <entry key="ENGLISH" value="2884" />
+        <entry key="CHINESE" value="2637" />
+        <entry key="ENGLISH" value="2885" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
