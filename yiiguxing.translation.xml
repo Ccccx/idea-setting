@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whitelabel" />
+      <item value="Whitelabel Error Page" />
       <item value="Inherited" />
       <item value="记录" />
       <item value="all exceptions thrown during refresh will be logged and then swallowed" />
@@ -49,8 +51,6 @@
       <item value="relative To" />
       <item value="// TODO:When we update to Java 7+, we can can create a FileSystem from the JAR (zip) // file, and then use NIO's directory walking and filtering mechanisms to search through it." />
       <item value="//We don't use an HashSet otherwise iteration order is not deterministic" />
-      <item value="get Canonical File" />
-      <item value="to External Form" />
     </histories>
     <option name="languageScores">
       <map>
