@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="     * Returns the size threshold beyond which files are written directly to&#10;     * disk. The default value is 10240 bytes." />
+      <item value="The directory in which temporary files will be located." />
+      <item value="     * Sets the directory used to temporarily store files that are larger&#10;     * than the configured size threshold." />
       <item value="detected" />
       <item value="forced Logout Map" />
       <item value="Nullable" />
@@ -48,14 +51,11 @@
       <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="max Lifetime" />
       <item value="// java.util.JarFile has a slightly nicer interface than ZipInputStream here and // it works for zip files as well as JAR files" />
-      <item value="get Extra" />
-      <item value="sanitize Path" />
-      <item value="Fat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2643" />
-        <entry key="ENGLISH" value="2892" />
+        <entry key="CHINESE" value="2646" />
+        <entry key="ENGLISH" value="2895" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
