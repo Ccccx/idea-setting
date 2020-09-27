@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bouncy Castle Provider" />
       <item value="cipher" />
       <item value="encrypt By Public Key" />
       <item value="get Block Size" />
@@ -50,12 +51,11 @@
       <item value="lag" />
       <item value="Write Precision" />
       <item value="Communications" />
-      <item value="encode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2676" />
-        <entry key="ENGLISH" value="2925" />
+        <entry key="CHINESE" value="2677" />
+        <entry key="ENGLISH" value="2926" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
