@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of" />
       <item value="encoded key spec not recognized: Bad sequence size: 3" />
       <item value=" input too large for RSA cipher." />
       <item value="/ Continues a multiple-part encryption/decryption operation for byte buffer." />
@@ -50,12 +51,11 @@
       <item value="Test" />
       <item value="just" />
       <item value="Predicate" />
-      <item value="REQUIRES NEW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2667" />
-        <entry key="ENGLISH" value="2916" />
+        <entry key="CHINESE" value="2668" />
+        <entry key="ENGLISH" value="2917" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
