@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="业务编码" />
+      <item value="business" />
+      <item value="业务" />
       <item value="decrypt" />
       <item value="Security" />
       <item value="is Alphanumeric" />
@@ -48,14 +51,11 @@
       <item value="Nullable" />
       <item value="Whitelabel" />
       <item value="Whitelabel Error Page" />
-      <item value="Inherited" />
-      <item value="记录" />
-      <item value="all exceptions thrown during refresh will be logged and then swallowed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2681" />
-        <entry key="ENGLISH" value="2931" />
+        <entry key="ENGLISH" value="2934" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
