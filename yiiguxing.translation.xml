@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instant" />
       <item value="业务编码" />
       <item value="business" />
       <item value="业务" />
@@ -50,12 +51,11 @@
       <item value="forced Logout Map" />
       <item value="Nullable" />
       <item value="Whitelabel" />
-      <item value="Whitelabel Error Page" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2681" />
-        <entry key="ENGLISH" value="2934" />
+        <entry key="CHINESE" value="2682" />
+        <entry key="ENGLISH" value="2935" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
