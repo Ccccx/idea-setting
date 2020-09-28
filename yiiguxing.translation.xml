@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
       <item value="series type mismatch: already String but got Float dropped=8" />
       <item value="unexpected error writing points to database: partial write: series type mismatch" />
       <item value="is Numeric" />
@@ -50,11 +51,10 @@
       <item value="ACTIVE LOCAL DATA CONNECTION MODE" />
       <item value="is Positive Preliminary" />
       <item value=" reply is a local address, but target is not - assume NAT box changed the PASV reply" />
-      <item value="__passive Nat Workaround" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2694" />
+        <entry key="CHINESE" value="2695" />
         <entry key="ENGLISH" value="2946" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
