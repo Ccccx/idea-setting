@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrypt" />
       <item value="Security" />
       <item value="is Alphanumeric" />
       <item value="position" />
@@ -50,12 +51,11 @@
       <item value="Inherited" />
       <item value="记录" />
       <item value="all exceptions thrown during refresh will be logged and then swallowed" />
-      <item value="refresh After Write" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2680" />
-        <entry key="ENGLISH" value="2930" />
+        <entry key="CHINESE" value="2681" />
+        <entry key="ENGLISH" value="2931" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
