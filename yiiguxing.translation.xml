@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acknowledge" />
       <item value="Equipment" />
       <item value=" This is very likely to create a memory leak" />
       <item value="分割符" />
@@ -50,12 +51,11 @@
       <item value="is Alphanumeric" />
       <item value="position" />
       <item value="站位" />
-      <item value="Bouncy Castle Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2723" />
-        <entry key="ENGLISH" value="2972" />
+        <entry key="CHINESE" value="2725" />
+        <entry key="ENGLISH" value="2974" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
