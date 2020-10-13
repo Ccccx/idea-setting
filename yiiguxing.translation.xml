@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain Method Parameter" />
       <item value="is Assignable Value" />
       <item value="resolve Shortcut" />
       <item value="Injected" />
@@ -50,12 +51,11 @@
       <item value="unexpected error writing points to database: partial write: series type mismatch" />
       <item value="is Numeric" />
       <item value="unexpected error writing points to database: partial write: series type mismatch: already String but got Float dropped=8" />
-      <item value="invalid record access &quot;_value&quot;: cannot unify object with semantic.Nature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2740" />
-        <entry key="ENGLISH" value="2988" />
+        <entry key="CHINESE" value="2741" />
+        <entry key="ENGLISH" value="2989" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
