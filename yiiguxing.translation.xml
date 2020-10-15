@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post Process Before Initialization" />
+      <item value="has Instantiation Aware Bean Post Processors" />
+      <item value="populate Bean" />
+      <item value="post Process After Instantiation" />
+      <item value="is Externally Managed Init Method" />
       <item value="resolve Embedded Value" />
       <item value="Resolvable" />
       <item value="is Candidate Class" />
-      <item value="post Process Before Initialization" />
       <item value="HIGHEST PRECEDENCE" />
       <item value="LOWEST PRECEDENCE" />
       <item value="LOAD TIME WEAVER BEAN NAME" />
@@ -47,15 +51,11 @@
       <item value="Step size (i.e. reporting frequency) to use. (Default: 1m)" />
       <item value="Whether exporting of metrics to this backend is enabled. (Default: true)" />
       <item value="The duration in seconds for how long data will be kept in the created bucket." />
-      <item value="Whether to create the Influx bucket if it does not exist before attempting to publish metrics to it. (Default: true)" />
-      <item value="Whether to enable GZIP compression of metrics batches published to Influx. (Default: true)" />
-      <item value="management" />
-      <item value="Specifies the destination organization for writes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2751" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="2756" />
+        <entry key="ENGLISH" value="3004" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
