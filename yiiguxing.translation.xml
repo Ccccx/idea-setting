@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Allow post-processors to modify the merged bean definition." />
+      <item value="无效" />
+      <item value="过期" />
+      <item value="过去" />
+      <item value="exception" />
+      <item value="失效" />
       <item value="post Process Before Initialization" />
       <item value="has Instantiation Aware Bean Post Processors" />
       <item value="populate Bean" />
@@ -45,17 +51,11 @@
       <item value="compress" />
       <item value="micrometer" />
       <item value="Number of measurements per request to use for this backend. If more measurements are found, then multiple requests will be made. (Default: 10000)" />
-      <item value="Number of threads to use with the metrics publishing scheduler. (Default: 2)" />
-      <item value="Read timeout for requests to this backend. (Default: 10s)" />
-      <item value="Connection timeout for requests to this backend. (Default: 1s)" />
-      <item value="Step size (i.e. reporting frequency) to use. (Default: 1m)" />
-      <item value="Whether exporting of metrics to this backend is enabled. (Default: true)" />
-      <item value="The duration in seconds for how long data will be kept in the created bucket." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2756" />
-        <entry key="ENGLISH" value="3004" />
+        <entry key="CHINESE" value="2759" />
+        <entry key="ENGLISH" value="3007" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
