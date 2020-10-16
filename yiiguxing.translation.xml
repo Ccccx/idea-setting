@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post Process Before Instantiation" />
+      <item value="&#9; * Return whether this bean definition is 'synthetic', that is,&#10;&#9; * not defined by the application itself." />
       <item value="is Synthetic" />
       <item value=" Allow post-processors to modify the merged bean definition." />
       <item value="无效" />
@@ -49,13 +51,11 @@
       <item value="max Idle Connections" />
       <item value="keep Alive Duration" />
       <item value="get And Increment" />
-      <item value="compress" />
-      <item value="micrometer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2761" />
-        <entry key="ENGLISH" value="3009" />
+        <entry key="CHINESE" value="2763" />
+        <entry key="ENGLISH" value="3011" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
