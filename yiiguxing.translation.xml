@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply Bean Post Processors Before Initialization" />
+      <item value="post Process Before Initialization" />
+      <item value="&#9;// Give any InstantiationAwareBeanPostProcessors the opportunity to modify the&#10;&#9;&#9;// state of the bean before properties are set. This can be used, for example,&#10;&#9;&#9;// to support styles of field injection." />
+      <item value="populate Bean" />
+      <item value="ABORT" />
       <item value="post Process Before Instantiation" />
       <item value="&#9; * Return whether this bean definition is 'synthetic', that is,&#10;&#9; * not defined by the application itself." />
       <item value="is Synthetic" />
@@ -10,9 +15,7 @@
       <item value="过去" />
       <item value="exception" />
       <item value="失效" />
-      <item value="post Process Before Initialization" />
       <item value="has Instantiation Aware Bean Post Processors" />
-      <item value="populate Bean" />
       <item value="post Process After Instantiation" />
       <item value="is Externally Managed Init Method" />
       <item value="resolve Embedded Value" />
@@ -48,14 +51,11 @@
       <item value="reslove Bean" />
       <item value="reslove" />
       <item value=" Too many follow-up requests: 21" />
-      <item value="max Idle Connections" />
-      <item value="keep Alive Duration" />
-      <item value="get And Increment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2763" />
-        <entry key="ENGLISH" value="3011" />
+        <entry key="CHINESE" value="2769" />
+        <entry key="ENGLISH" value="3016" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
