@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Dealing with response abnormally.null" />
+      <item value="Channel Interceptor Chain" />
+      <item value="Decoded" />
+      <item value="same Origin Disabled" />
+      <item value="set Session Cookie Needed" />
+      <item value="cors" />
       <item value="configure Inbound" />
       <item value="set Handshake Handler" />
       <item value="set Leave Mutable" />
@@ -45,17 +51,11 @@
       <item value="is Externally Managed Init Method" />
       <item value="resolve Embedded Value" />
       <item value="Resolvable" />
-      <item value="is Candidate Class" />
-      <item value="HIGHEST PRECEDENCE" />
-      <item value="LOWEST PRECEDENCE" />
-      <item value="LOAD TIME WEAVER BEAN NAME" />
-      <item value="enable Simple Broker" />
-      <item value="Instantiation Aware Bean Post Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2796" />
-        <entry key="ENGLISH" value="3042" />
+        <entry key="CHINESE" value="2802" />
+        <entry key="ENGLISH" value="3048" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
