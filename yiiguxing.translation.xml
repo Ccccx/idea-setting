@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Leave Mutable" />
       <item value="User Destination Message Handler" />
       <item value="Translated" />
       <item value="resolve Destination" />
@@ -50,12 +51,11 @@
       <item value="Instantiation Aware Bean Post Processor" />
       <item value="obtain Method Parameter" />
       <item value="is Assignable Value" />
-      <item value="resolve Shortcut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2793" />
-        <entry key="ENGLISH" value="3039" />
+        <entry key="CHINESE" value="2794" />
+        <entry key="ENGLISH" value="3040" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
