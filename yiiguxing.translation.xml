@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before Each" />
       <item value="Method t2 should have no parameters" />
       <item value="The CSV classpath resources to use as the sources of arguments; must not be&#10;&#9; * empty." />
       <item value="OCTOBER" />
@@ -50,12 +51,11 @@
       <item value="parse Raw" />
       <item value=" private property will be accessed through getter()" />
       <item value="Spel Expression Parser" />
-      <item value="is Prototype Currently In Creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2778" />
-        <entry key="ENGLISH" value="3025" />
+        <entry key="CHINESE" value="2779" />
+        <entry key="ENGLISH" value="3026" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
