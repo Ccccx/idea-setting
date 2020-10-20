@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fat ja" />
+      <item value="feat ja" />
+      <item value="feat jar" />
       <item value="apply Post Send" />
       <item value="unregister All Subscriptions" />
       <item value="after Receive Completion" />
@@ -48,13 +51,10 @@
       <item value="&#9; * Return whether this bean definition is 'synthetic', that is,&#10;&#9; * not defined by the application itself." />
       <item value="is Synthetic" />
       <item value=" Allow post-processors to modify the merged bean definition." />
-      <item value="无效" />
-      <item value="过期" />
-      <item value="过去" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2809" />
+        <entry key="CHINESE" value="2810" />
         <entry key="ENGLISH" value="3055" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
