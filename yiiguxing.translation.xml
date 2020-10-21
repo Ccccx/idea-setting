@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Conversation Id" />
       <item value="get Session Mutex" />
       <item value="fill Properties" />
       <item value="DEFAULT NAMESPACE SUFFIX" />
@@ -50,12 +51,11 @@
       <item value="post Process Before Initialization" />
       <item value="apply Bean Post Processors Before Initialization" />
       <item value="&#9;// Give any InstantiationAwareBeanPostProcessors the opportunity to modify the&#10;&#9;&#9;// state of the bean before properties are set. This can be used, for example,&#10;&#9;&#9;// to support styles of field injection." />
-      <item value="populate Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2815" />
-        <entry key="ENGLISH" value="3059" />
+        <entry key="CHINESE" value="2816" />
+        <entry key="ENGLISH" value="3060" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
