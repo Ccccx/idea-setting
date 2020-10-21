@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill Properties" />
       <item value="DEFAULT NAMESPACE SUFFIX" />
       <item value="ActiveRecord" />
       <item value="compute If Absent" />
@@ -50,12 +51,11 @@
       <item value="&#9;// Give any InstantiationAwareBeanPostProcessors the opportunity to modify the&#10;&#9;&#9;// state of the bean before properties are set. This can be used, for example,&#10;&#9;&#9;// to support styles of field injection." />
       <item value="populate Bean" />
       <item value="ABORT" />
-      <item value="post Process Before Instantiation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2813" />
-        <entry key="ENGLISH" value="3057" />
+        <entry key="CHINESE" value="2814" />
+        <entry key="ENGLISH" value="3058" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
