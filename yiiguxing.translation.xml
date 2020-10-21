@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Introspector" />
+      <item value="decapitalize" />
+      <item value="apply Scoped Proxy Mode" />
+      <item value=" Strip prefix from path to analyze," />
+      <item value="&#9;&#9;// Strip prefix from path to analyze, to not treat it as part of the&#10;&#9;&#9;// first path element. This is necessary to correctly parse paths like&#10;&#9;&#9;// &quot;file:core/../core/io/Resource.class&quot;, where the &quot;..&quot; should just&#10;&#9;&#9;// strip the first &quot;core&quot; directory while keeping the &quot;file:&quot; prefix." />
       <item value="get Conversation Id" />
       <item value="get Session Mutex" />
       <item value="fill Properties" />
@@ -46,16 +51,11 @@
       <item value="end Exclusive" />
       <item value="pre Instantiate Singletons" />
       <item value="early Singleton Objects" />
-      <item value="register Disposable Bean If Necessary" />
-      <item value="allow Early Reference" />
-      <item value="post Process Before Initialization" />
-      <item value="apply Bean Post Processors Before Initialization" />
-      <item value="&#9;// Give any InstantiationAwareBeanPostProcessors the opportunity to modify the&#10;&#9;&#9;// state of the bean before properties are set. This can be used, for example,&#10;&#9;&#9;// to support styles of field injection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2816" />
-        <entry key="ENGLISH" value="3060" />
+        <entry key="CHINESE" value="2821" />
+        <entry key="ENGLISH" value="3064" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
@@ -69,7 +69,7 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="1" />
