@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" If true, the changeSet will run in a database transaction.  Defaults to true" />
+      <item value="run In Transaction" />
+      <item value="set Auto Commit" />
+      <item value="supports DDL In Transaction" />
+      <item value="Communications link failure" />
       <item value="get Change Exec Listener" />
       <item value="set Default Schema Name" />
       <item value="test Rollback On Update" />
@@ -46,16 +51,11 @@
       <item value="UNSUBSCRIBE" />
       <item value="get Target Destinations" />
       <item value="Initialization" />
-      <item value="broadcast" />
-      <item value="Before Each" />
-      <item value="Method t2 should have no parameters" />
-      <item value="The CSV classpath resources to use as the sources of arguments; must not be&#10;&#9; * empty." />
-      <item value="OCTOBER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2825" />
-        <entry key="ENGLISH" value="3068" />
+        <entry key="CHINESE" value="2830" />
+        <entry key="ENGLISH" value="3073" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
