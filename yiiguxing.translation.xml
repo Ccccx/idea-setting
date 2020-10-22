@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread starvation or clock leap detected (housekeeper delta=51s971ms201µs300ns)." />
+      <item value="master - Thread starvation or clock leap detected" />
+      <item value="get Underlying Connection" />
+      <item value="generate Statements Volatile" />
       <item value="change Exec Listener Class" />
       <item value="find Correct Database Implementation" />
       <item value=" If true, the changeSet will run in a database transaction.  Defaults to true" />
@@ -47,15 +51,11 @@
       <item value="resolve Destination" />
       <item value="simp Message Sending Operations" />
       <item value="Intercom" />
-      <item value="subscribe Single" />
-      <item value="execute Trade" />
-      <item value="设备信息" />
-      <item value="UNSUBSCRIBE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2832" />
-        <entry key="ENGLISH" value="3075" />
+        <entry key="CHINESE" value="2836" />
+        <entry key="ENGLISH" value="3079" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
