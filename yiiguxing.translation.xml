@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REPEATABLE READ" />
       <item value="run In Transaction" />
       <item value="      //if execute returns false, we can retrieve the affected rows count&#10;                    // (true used when resultset is returned)" />
       <item value="do In Statement" />
@@ -50,11 +51,10 @@
       <item value="set Handshake Handler" />
       <item value="set Leave Mutable" />
       <item value="User Destination Message Handler" />
-      <item value="Translated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2840" />
+        <entry key="CHINESE" value="2841" />
         <entry key="ENGLISH" value="3083" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
