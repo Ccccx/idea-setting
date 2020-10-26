@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bean Names For Type Including Ancestors" />
+      <item value="register Links Mapping" />
       <item value="工作计划" />
       <item value="Risk options" />
       <item value="Risk item" />
@@ -49,13 +51,11 @@
       <item value="接收" />
       <item value="DISCONNECT" />
       <item value="pre Send" />
-      <item value="enable Simple Broker" />
-      <item value=" Dealing with response abnormally.null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2848" />
-        <entry key="ENGLISH" value="3088" />
+        <entry key="CHINESE" value="2850" />
+        <entry key="ENGLISH" value="3090" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
