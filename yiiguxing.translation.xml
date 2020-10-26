@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Timer Detail" />
+      <item value="Time Detail" />
+      <item value="Timer" />
+      <item value="batch" />
+      <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
+      <item value="      // the mapper interface is the original class of the bean&#10;      // but, the actual class of the bean is MapperFactoryBean" />
+      <item value=" // if specified, use the given annotation and / or marker interface" />
+      <item value="process Property Place Holders" />
       <item value="Sql Session Interceptor" />
       <item value="My Batis Exception Translator" />
       <item value="Property 'mapperLocations' was not specified." />
@@ -43,19 +51,11 @@
       <item value="Introspector" />
       <item value="decapitalize" />
       <item value="apply Scoped Proxy Mode" />
-      <item value=" Strip prefix from path to analyze," />
-      <item value="&#9;&#9;// Strip prefix from path to analyze, to not treat it as part of the&#10;&#9;&#9;// first path element. This is necessary to correctly parse paths like&#10;&#9;&#9;// &quot;file:core/../core/io/Resource.class&quot;, where the &quot;..&quot; should just&#10;&#9;&#9;// strip the first &quot;core&quot; directory while keeping the &quot;file:&quot; prefix." />
-      <item value="get Conversation Id" />
-      <item value="get Session Mutex" />
-      <item value="fill Properties" />
-      <item value="DEFAULT NAMESPACE SUFFIX" />
-      <item value="ActiveRecord" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2858" />
-        <entry key="ENGLISH" value="3098" />
+        <entry key="CHINESE" value="2868" />
+        <entry key="ENGLISH" value="3106" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
