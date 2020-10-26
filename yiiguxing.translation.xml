@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Special Parameter" />
+      <item value="get Unique Param Index" />
+      <item value="Parameterized Type" />
+      <item value="declaring Class" />
+      <item value="incomplete Statements" />
       <item value="convert Args To Sql Command Param" />
       <item value="BRACKET" />
       <item value="format Key" />
@@ -46,16 +51,11 @@
       <item value="master - Thread starvation or clock leap detected" />
       <item value="get Underlying Connection" />
       <item value="generate Statements Volatile" />
-      <item value="change Exec Listener Class" />
-      <item value="find Correct Database Implementation" />
-      <item value=" If true, the changeSet will run in a database transaction.  Defaults to true" />
-      <item value="set Auto Commit" />
-      <item value="supports DDL In Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2876" />
-        <entry key="ENGLISH" value="3113" />
+        <entry key="CHINESE" value="2882" />
+        <entry key="ENGLISH" value="3119" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
