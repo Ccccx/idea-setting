@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable Property Values" />
+      <item value="resolve Dependency" />
+      <item value="unsatisfied Non Simple Properties" />
+      <item value="add To Config" />
+      <item value="process Common Definition Annotations" />
       <item value="get Local Property Handler" />
       <item value="Constant that indicates autowiring bean properties by name." />
       <item value="&#9; * Constant that indicates no external autowiring at all." />
@@ -46,16 +51,11 @@
       <item value="Risk item" />
       <item value="风险项" />
       <item value="存在问题" />
-      <item value="本周" />
-      <item value="Optimized Model Properties Provider" />
-      <item value="Unable to get unique property. Conflicting setter definitions for property &quot;dataSourceProperties&quot;: com.tiamaes.cloud.m1.liquibase.support.TableInfo#setDataSourceProperties(1 params) vs com.tiamaes.cloud.m1.liquibase.support.TableInfo#setDataSourceProperties(1 params)" />
-      <item value="原始" />
-      <item value="REPEATABLE READ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2892" />
-        <entry key="ENGLISH" value="3128" />
+        <entry key="CHINESE" value="2897" />
+        <entry key="ENGLISH" value="3133" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
