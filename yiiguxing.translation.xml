@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="explicit Factory Used" />
+      <item value="Set the SqlSessionTemplate for this DAO explicitly, as an alternative to specifying a SqlSessionFactory." />
+      <item value="      // PropertyResourceConfigurer does not expose any methods to explicitly perform&#10;      // property placeholder substitution. Instead, create a BeanFactory that just&#10;      // contains this mapper scanner and post process the factory." />
+      <item value="Enabling autowire by type for MapperFactoryBean with name" />
       <item value="is Special Parameter" />
       <item value="get Unique Param Index" />
       <item value="Parameterized Type" />
@@ -48,14 +51,11 @@
       <item value="      //if execute returns false, we can retrieve the affected rows count&#10;                    // (true used when resultset is returned)" />
       <item value="do In Statement" />
       <item value="fire Ran" />
-      <item value="Thread starvation or clock leap detected (housekeeper delta=51s971ms201µs300ns)." />
-      <item value="master - Thread starvation or clock leap detected" />
-      <item value="get Underlying Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2883" />
-        <entry key="ENGLISH" value="3120" />
+        <entry key="CHINESE" value="2888" />
+        <entry key="ENGLISH" value="3125" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
