@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Backpressure Event" />
+      <item value="写入已成功" />
+      <item value="写入已完成" />
+      <item value="  * Close threads for asynchronous batch writing." />
       <item value="操作" />
       <item value="line Protocol" />
       <item value="Write Precision" />
@@ -47,15 +51,11 @@
       <item value="load Bean Definitions For Configuration Class" />
       <item value="     * This will just scan the same base package as Spring Boot does. If you want more power, you can explicitly use&#10;     * {@link org.mybatis.spring.annotation.MapperScan} but this will get typed mappers working correctly, out-of-the-box,&#10;     * similar to using Spring Data JPA repositories." />
       <item value="Auto Configured Mapper Scanner Registrar" />
-      <item value="incomplete Result Maps" />
-      <item value=" fail-fast -&gt; check all statements are completed" />
-      <item value="bean Names For Type Including Ancestors" />
-      <item value="register Links Mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2902" />
-        <entry key="ENGLISH" value="3138" />
+        <entry key="CHINESE" value="2905" />
+        <entry key="ENGLISH" value="3141" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
