@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="line Protocol" />
+      <item value="Write Precision" />
+      <item value="     * Forces the client to flush all pending writes from the buffer toInfluxDB 2.0via HTTP.&#10;" />
       <item value="ensure Capacity Internal" />
       <item value="Mutable Property Values" />
       <item value="resolve Dependency" />
@@ -48,14 +51,11 @@
       <item value="bean Names For Type Including Ancestors" />
       <item value="register Links Mapping" />
       <item value="工作计划" />
-      <item value="Risk options" />
-      <item value="Risk item" />
-      <item value="风险项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2898" />
-        <entry key="ENGLISH" value="3134" />
+        <entry key="CHINESE" value="2901" />
+        <entry key="ENGLISH" value="3137" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
