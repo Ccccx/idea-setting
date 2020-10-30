@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.SelectById]" />
+      <item value="The WriteApi can't be gracefully dispose! - 30000ms elapsed." />
       <item value="// Documentation in subclasses because of synchro difference" />
       <item value="Backpressure Event" />
       <item value="写入已成功" />
@@ -49,13 +51,11 @@
       <item value="My Batis Exception Translator" />
       <item value="Property 'mapperLocations' was not specified." />
       <item value="resolve Mapper Locations" />
-      <item value="load Bean Definitions For Configuration Class" />
-      <item value="     * This will just scan the same base package as Spring Boot does. If you want more power, you can explicitly use&#10;     * {@link org.mybatis.spring.annotation.MapperScan} but this will get typed mappers working correctly, out-of-the-box,&#10;     * similar to using Spring Data JPA repositories." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2906" />
-        <entry key="ENGLISH" value="3142" />
+        <entry key="CHINESE" value="2908" />
+        <entry key="ENGLISH" value="3144" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
