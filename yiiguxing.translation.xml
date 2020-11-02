@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This rule raises an issue for each use of peek() to be sure that it is challenged and validated by the team to be meant for production debugging/logging purposes." />
+      <item value="According to its JavaDocs, java.util.Stream.peek() “exists mainly to support debugging” purposes. Although this does not mean that using it for other purposes is discouraged, relying on peek() without careful consideration can lead to error-prone code such as: If the stream pipeline does not include a terminal operation, no elements will be consumed and the peek() action will not be invoked at all. As long as a stream implementation can reach the final step, it can freely optimize processing by only producing some elements or even none at all (e.g. relying on other collection methods for counting elements). Accordingly, the peek() action will be invoked for fewer elements or not at all." />
       <item value="Local variables should not be declared and then immediately returned or thrown" />
       <item value="When the return value of a function call contain the operation status code, this value should be tested to make sure the operation completed successfully." />
       <item value="When java.io.File#delete fails, this boolean method simply returns false with no indication of the cause. On the other hand, when java.nio.file.Files#delete fails, this void method returns one of a series of exception types to better indicate the cause of the failure. And since more information is generally better in a debugging situation, java.nio.file.Files#delete is the preferred option." />
@@ -49,12 +51,10 @@
       <item value="incomplete Statements" />
       <item value="convert Args To Sql Command Param" />
       <item value="BRACKET" />
-      <item value="format Key" />
-      <item value="method To Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2923" />
+        <entry key="CHINESE" value="2925" />
         <entry key="ENGLISH" value="3149" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
