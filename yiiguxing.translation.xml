@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assertions" />
       <item value="Connections, streams, files, and other classes that implement the Closeable interface or its super-interface, AutoCloseable, needs to be closed after use. Further, that close call must be made in a finally block otherwise an exception could keep the call from being made. Preferably, when class implements AutoCloseable, resource should be created using &quot;try-with-resources&quot; pattern and will be closed automatically. Failure to properly close resources will result in a resource leak which could bring first the application and then perhaps the box the application is on to their knees." />
       <item value="This rule raises an issue for each use of peek() to be sure that it is challenged and validated by the team to be meant for production debugging/logging purposes." />
       <item value="According to its JavaDocs, java.util.Stream.peek() “exists mainly to support debugging” purposes. Although this does not mean that using it for other purposes is discouraged, relying on peek() without careful consideration can lead to error-prone code such as: If the stream pipeline does not include a terminal operation, no elements will be consumed and the peek() action will not be invoked at all. As long as a stream implementation can reach the final step, it can freely optimize processing by only producing some elements or even none at all (e.g. relying on other collection methods for counting elements). Accordingly, the peek() action will be invoked for fewer elements or not at all." />
@@ -50,11 +51,10 @@
       <item value="Parameterized Type" />
       <item value="declaring Class" />
       <item value="incomplete Statements" />
-      <item value="convert Args To Sql Command Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2926" />
+        <entry key="CHINESE" value="2927" />
         <entry key="ENGLISH" value="3149" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
