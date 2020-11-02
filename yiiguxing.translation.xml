@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Local variables should not be declared and then immediately returned or thrown" />
+      <item value="When the return value of a function call contain the operation status code, this value should be tested to make sure the operation completed successfully." />
+      <item value="When java.io.File#delete fails, this boolean method simply returns false with no indication of the cause. On the other hand, when java.nio.file.Files#delete fails, this void method returns one of a series of exception types to better indicate the cause of the failure. And since more information is generally better in a debugging situation, java.nio.file.Files#delete is the preferred option." />
+      <item value="Major" />
+      <item value=" Code smell " />
+      <item value="Compliant Solution" />
+      <item value="Noncompliant" />
+      <item value="&quot;java.nio.Files#delete&quot; should be preferred" />
+      <item value="分割符" />
+      <item value="分割" />
       <item value="set Disabled" />
       <item value="unexpected" />
       <item value="isCombination" />
@@ -41,21 +51,11 @@
       <item value="BRACKET" />
       <item value="format Key" />
       <item value="method To Property" />
-      <item value="last Sql" />
-      <item value="param Name Seq" />
-      <item value="sql Where Entity Wrapper" />
-      <item value="un Safe Param" />
-      <item value="Timer Detail" />
-      <item value="Time Detail" />
-      <item value="Timer" />
-      <item value="batch" />
-      <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
-      <item value="      // the mapper interface is the original class of the bean&#10;      // but, the actual class of the bean is MapperFactoryBean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2914" />
-        <entry key="ENGLISH" value="3148" />
+        <entry key="CHINESE" value="2923" />
+        <entry key="ENGLISH" value="3149" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
