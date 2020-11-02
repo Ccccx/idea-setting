@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Disabled" />
       <item value="unexpected" />
       <item value="isCombination" />
       <item value="measurement" />
@@ -50,12 +51,11 @@
       <item value="batch" />
       <item value="Specifies whether the parameter can accept multiple values by having multiple occurrences." />
       <item value="      // the mapper interface is the original class of the bean&#10;      // but, the actual class of the bean is MapperFactoryBean" />
-      <item value=" // if specified, use the given annotation and / or marker interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2913" />
-        <entry key="ENGLISH" value="3147" />
+        <entry key="CHINESE" value="2914" />
+        <entry key="ENGLISH" value="3148" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
