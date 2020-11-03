@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存储类型" />
+      <item value="STORE_TYPE" />
       <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods. This rule raises an issue each time a static field is updated from a non-static method." />
       <item value="Assertions" />
       <item value="Connections, streams, files, and other classes that implement the Closeable interface or its super-interface, AutoCloseable, needs to be closed after use. Further, that close call must be made in a finally block otherwise an exception could keep the call from being made. Preferably, when class implements AutoCloseable, resource should be created using &quot;try-with-resources&quot; pattern and will be closed automatically. Failure to properly close resources will result in a resource leak which could bring first the application and then perhaps the box the application is on to their knees." />
@@ -49,13 +51,11 @@
       <item value="Enabling autowire by type for MapperFactoryBean with name" />
       <item value="is Special Parameter" />
       <item value="get Unique Param Index" />
-      <item value="Parameterized Type" />
-      <item value="declaring Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2928" />
-        <entry key="ENGLISH" value="3149" />
+        <entry key="CHINESE" value="2929" />
+        <entry key="ENGLISH" value="3150" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
