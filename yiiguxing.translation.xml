@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batches" />
+      <item value="分批" />
+      <item value="sync" />
       <item value="Version Resource" />
       <item value="Ftp Version Resource" />
       <item value="相对路径" />
@@ -48,14 +51,11 @@
       <item value="get Local Property Handler" />
       <item value="Constant that indicates autowiring bean properties by name." />
       <item value="&#9; * Constant that indicates no external autowiring at all." />
-      <item value="AUTOWIRE NO" />
-      <item value="explicit Factory Used" />
-      <item value="Set the SqlSessionTemplate for this DAO explicitly, as an alternative to specifying a SqlSessionFactory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2931" />
-        <entry key="ENGLISH" value="3152" />
+        <entry key="CHINESE" value="2934" />
+        <entry key="ENGLISH" value="3154" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
