@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="相对路径" />
+      <item value="相对路基" />
       <item value="存储类型" />
       <item value="STORE_TYPE" />
       <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods. This rule raises an issue each time a static field is updated from a non-static method." />
@@ -49,8 +51,6 @@
       <item value="Set the SqlSessionTemplate for this DAO explicitly, as an alternative to specifying a SqlSessionFactory." />
       <item value="      // PropertyResourceConfigurer does not expose any methods to explicitly perform&#10;      // property placeholder substitution. Instead, create a BeanFactory that just&#10;      // contains this mapper scanner and post process the factory." />
       <item value="Enabling autowire by type for MapperFactoryBean with name" />
-      <item value="is Special Parameter" />
-      <item value="get Unique Param Index" />
     </histories>
     <option name="languageScores">
       <map>
