@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Version Resource" />
+      <item value="Ftp Version Resource" />
       <item value="相对路径" />
       <item value="相对路基" />
       <item value="存储类型" />
@@ -49,13 +51,11 @@
       <item value="AUTOWIRE NO" />
       <item value="explicit Factory Used" />
       <item value="Set the SqlSessionTemplate for this DAO explicitly, as an alternative to specifying a SqlSessionFactory." />
-      <item value="      // PropertyResourceConfigurer does not expose any methods to explicitly perform&#10;      // property placeholder substitution. Instead, create a BeanFactory that just&#10;      // contains this mapper scanner and post process the factory." />
-      <item value="Enabling autowire by type for MapperFactoryBean with name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2929" />
-        <entry key="ENGLISH" value="3150" />
+        <entry key="CHINESE" value="2931" />
+        <entry key="ENGLISH" value="3152" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="19" />
