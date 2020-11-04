@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Essential Controller" />
       <item value="Upgarde Client Configration" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="batches" />
@@ -50,12 +51,11 @@
       <item value="unsatisfied Non Simple Properties" />
       <item value="add To Config" />
       <item value="process Common Definition Annotations" />
-      <item value="get Local Property Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2936" />
-        <entry key="ENGLISH" value="3154" />
+        <entry key="CHINESE" value="2937" />
+        <entry key="ENGLISH" value="3155" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
