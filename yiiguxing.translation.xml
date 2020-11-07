@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reactive" />
       <item value="Util And Coms" />
       <item value="is Ephemeral" />
       <item value="Beat Info" />
@@ -50,11 +51,10 @@
       <item value="line Protocol" />
       <item value="Write Precision" />
       <item value="     * Forces the client to flush all pending writes from the buffer toInfluxDB 2.0via HTTP.&#10;" />
-      <item value="ensure Capacity Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2942" />
+        <entry key="CHINESE" value="2943" />
         <entry key="ENGLISH" value="3160" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
