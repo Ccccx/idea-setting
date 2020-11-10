@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Headbeat" />
       <item value="connect" />
       <item value="post" />
       <item value="Server Proxy" />
@@ -50,11 +51,10 @@
       <item value="is Ephemeral" />
       <item value="Beat Info" />
       <item value="Composite Property Source" />
-      <item value="CLIENT INVALID PARAM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2986" />
+        <entry key="CHINESE" value="2987" />
         <entry key="ENGLISH" value="3191" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
