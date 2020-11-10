@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discover" />
       <item value="check Version Exists" />
       <item value="     * Adds the ability to override the detected type&#10;" />
       <item value=" argument type mismatch" />
@@ -50,11 +51,10 @@
       <item value="&quot;java.nio.Files#delete&quot; should be preferred" />
       <item value="分割符" />
       <item value="分割" />
-      <item value="set Disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2957" />
+        <entry key="CHINESE" value="2958" />
         <entry key="ENGLISH" value="3171" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
