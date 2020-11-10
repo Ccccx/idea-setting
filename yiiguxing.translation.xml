@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="certificate" />
+      <item value="证书" />
+      <item value="register Service" />
+      <item value="restful" />
+      <item value="Rest Proxy" />
+      <item value="Naming Proxy" />
+      <item value="Discover Constant" />
       <item value="&#9;&#9;// nacos doesn't support watch now , publish an event every 30 seconds." />
       <item value="discover" />
       <item value="check Version Exists" />
@@ -44,18 +51,11 @@
       <item value="According to its JavaDocs, java.util.Stream.peek() “exists mainly to support debugging” purposes. Although this does not mean that using it for other purposes is discouraged, relying on peek() without careful consideration can lead to error-prone code such as: If the stream pipeline does not include a terminal operation, no elements will be consumed and the peek() action will not be invoked at all. As long as a stream implementation can reach the final step, it can freely optimize processing by only producing some elements or even none at all (e.g. relying on other collection methods for counting elements). Accordingly, the peek() action will be invoked for fewer elements or not at all." />
       <item value="Local variables should not be declared and then immediately returned or thrown" />
       <item value="When the return value of a function call contain the operation status code, this value should be tested to make sure the operation completed successfully." />
-      <item value="When java.io.File#delete fails, this boolean method simply returns false with no indication of the cause. On the other hand, when java.nio.file.Files#delete fails, this void method returns one of a series of exception types to better indicate the cause of the failure. And since more information is generally better in a debugging situation, java.nio.file.Files#delete is the preferred option." />
-      <item value="Major" />
-      <item value=" Code smell " />
-      <item value="Compliant Solution" />
-      <item value="Noncompliant" />
-      <item value="&quot;java.nio.Files#delete&quot; should be preferred" />
-      <item value="分割符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2959" />
-        <entry key="ENGLISH" value="3172" />
+        <entry key="CHINESE" value="2966" />
+        <entry key="ENGLISH" value="3177" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
