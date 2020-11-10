@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connect" />
+      <item value="post" />
+      <item value="Server Proxy" />
+      <item value="register Data" />
+      <item value="Instance" />
+      <item value="receive Response Data" />
+      <item value="ready Send Data" />
+      <item value="ready" />
+      <item value="准备" />
+      <item value="aware" />
+      <item value="advice" />
+      <item value="call;" />
+      <item value="通讯" />
       <item value="command" />
       <item value="接收" />
       <item value="decrypt By Private Key" />
@@ -38,24 +51,11 @@
       <item value="Beat Info" />
       <item value="Composite Property Source" />
       <item value="CLIENT INVALID PARAM" />
-      <item value="Essential Controller" />
-      <item value="Upgarde Client Configration" />
-      <item value="Unchecked generics array creation for varargs parameter" />
-      <item value="batches" />
-      <item value="分批" />
-      <item value="sync" />
-      <item value="Version Resource" />
-      <item value="Ftp Version Resource" />
-      <item value="相对路径" />
-      <item value="相对路基" />
-      <item value="存储类型" />
-      <item value="STORE_TYPE" />
-      <item value="Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. Ideally, static fields are only updated from synchronized static methods. This rule raises an issue each time a static field is updated from a non-static method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2973" />
-        <entry key="ENGLISH" value="3183" />
+        <entry key="CHINESE" value="2986" />
+        <entry key="ENGLISH" value="3191" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
