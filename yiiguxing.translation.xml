@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="download" />
       <item value="upgrade" />
       <item value="Headbeat" />
       <item value="connect" />
@@ -50,11 +51,10 @@
       <item value="reactive" />
       <item value="Util And Coms" />
       <item value="is Ephemeral" />
-      <item value="Beat Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2988" />
+        <entry key="CHINESE" value="2989" />
         <entry key="ENGLISH" value="3192" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
