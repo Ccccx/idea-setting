@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
+      <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes. " />
       <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes.&#10;" />
       <item value=" Set the request param conditions." />
       <item value="expire After" />
@@ -49,13 +51,11 @@
       <item value="type" />
       <item value="分类" />
       <item value="province" />
-      <item value="Artifacts" />
-      <item value="play With Artifacts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2996" />
-        <entry key="ENGLISH" value="3199" />
+        <entry key="CHINESE" value="2997" />
+        <entry key="ENGLISH" value="3200" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
