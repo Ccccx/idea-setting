@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="was Evicted" />
       <item value="EXPIRED" />
       <item value="Duration" />
       <item value="duration" />
@@ -50,12 +51,11 @@
       <item value="discover" />
       <item value="check Version Exists" />
       <item value="     * Adds the ability to override the detected type&#10;" />
-      <item value=" argument type mismatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3009" />
-        <entry key="ENGLISH" value="3212" />
+        <entry key="CHINESE" value="3010" />
+        <entry key="ENGLISH" value="3213" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
