@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expire After" />
+      <item value="record Stats" />
       <item value="通讯" />
       <item value="Enable Discover Service" />
       <item value="schedule With Fixed Delay" />
@@ -49,13 +51,11 @@
       <item value="play With Artifacts" />
       <item value="exchange Filter Function" />
       <item value="Load Balancer Web Client Builder Bean Post Processor" />
-      <item value="On Any Load Balancer Implementation Present Condition" />
-      <item value="reactive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2992" />
-        <entry key="ENGLISH" value="3195" />
+        <entry key="CHINESE" value="2994" />
+        <entry key="ENGLISH" value="3197" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
