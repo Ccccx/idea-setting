@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXPIRED" />
+      <item value="Duration" />
+      <item value="duration" />
+      <item value="expire After Write" />
+      <item value="REPLACED" />
+      <item value="COLLECTED" />
+      <item value="SIZE" />
+      <item value="EXPLICIT" />
       <item value="原始" />
       <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes. " />
       <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes.&#10;" />
@@ -43,19 +51,11 @@
       <item value="check Version Exists" />
       <item value="     * Adds the ability to override the detected type&#10;" />
       <item value=" argument type mismatch" />
-      <item value="GAUSS" />
-      <item value="set Entity Table Field Annotation Enable" />
-      <item value="subtype" />
-      <item value="model" />
-      <item value="型号" />
-      <item value="type" />
-      <item value="分类" />
-      <item value="province" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2997" />
-        <entry key="ENGLISH" value="3200" />
+        <entry key="CHINESE" value="3009" />
+        <entry key="ENGLISH" value="3212" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
