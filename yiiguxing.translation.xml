@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estimated Size" />
+      <item value="get Native Cache" />
+      <item value="evict" />
+      <item value="invalidate" />
       <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="receive" />
       <item value="get Proxy Original Bean" />
@@ -47,15 +51,11 @@
       <item value="advice" />
       <item value="call;" />
       <item value="command" />
-      <item value="接收" />
-      <item value="decrypt By Private Key" />
-      <item value="Servcer" />
-      <item value="vip Srv Ref Inter Millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3022" />
-        <entry key="ENGLISH" value="3224" />
+        <entry key="CHINESE" value="3026" />
+        <entry key="ENGLISH" value="3228" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
