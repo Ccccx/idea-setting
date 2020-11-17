@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Proxy Original Bean" />
+      <item value="原始" />
       <item value="条件" />
       <item value="check Upgrade Condition" />
       <item value="set Unique Code" />
@@ -19,7 +21,6 @@
       <item value="COLLECTED" />
       <item value="SIZE" />
       <item value="EXPLICIT" />
-      <item value="原始" />
       <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes. " />
       <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes.&#10;" />
       <item value=" Set the request param conditions." />
@@ -50,12 +51,11 @@
       <item value="vip Srv Ref Inter Millis" />
       <item value="CLIENT ADDRESS" />
       <item value="certificate" />
-      <item value="证书" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3019" />
-        <entry key="ENGLISH" value="3221" />
+        <entry key="CHINESE" value="3020" />
+        <entry key="ENGLISH" value="3222" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
