@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="major" />
+      <item value="crit" />
       <item value="listener" />
       <item value="监听器" />
       <item value="allow Null Values" />
@@ -49,12 +51,10 @@
       <item value="receive Response Data" />
       <item value="ready Send Data" />
       <item value="ready" />
-      <item value="准备" />
-      <item value="aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3029" />
+        <entry key="CHINESE" value="3031" />
         <entry key="ENGLISH" value="3230" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
