@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unchecked overriding: return type requires unchecked conversion. Found 'com.tiamaes.cloud.m1.up.model.dto.req.FtpVersionResource', required 'T' " />
       <item value="Of" />
       <item value="type Of T" />
       <item value="direct Urls" />
@@ -50,11 +51,10 @@
       <item value="COLLECTED" />
       <item value="SIZE" />
       <item value="EXPLICIT" />
-      <item value="&#9;&#9; * Provide additional configuration needed for request mapping purposes. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3050" />
+        <entry key="CHINESE" value="3051" />
         <entry key="ENGLISH" value="3238" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
