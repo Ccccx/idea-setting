@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amend" />
+      <item value="SonarLint: Remove the parentheses around the &quot;v&quot; parameter" />
       <item value="Unchecked overriding: return type requires unchecked conversion. Found 'com.tiamaes.cloud.m1.up.model.dto.req.FtpVersionResource', required 'T' " />
       <item value="Of" />
       <item value="type Of T" />
@@ -49,12 +51,10 @@
       <item value="expire After Write" />
       <item value="REPLACED" />
       <item value="COLLECTED" />
-      <item value="SIZE" />
-      <item value="EXPLICIT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3051" />
+        <entry key="CHINESE" value="3053" />
         <entry key="ENGLISH" value="3238" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
