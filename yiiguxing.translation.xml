@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index Coordinates" />
       <item value="Similarity" />
       <item value="市" />
       <item value="省" />
@@ -50,12 +51,11 @@
       <item value="invalidate" />
       <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="receive" />
-      <item value="get Proxy Original Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3068" />
-        <entry key="ENGLISH" value="3248" />
+        <entry key="CHINESE" value="3069" />
+        <entry key="ENGLISH" value="3249" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
