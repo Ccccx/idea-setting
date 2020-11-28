@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rebase curretn onto selected" />
       <item value="Rest High Level Client Configuration" />
       <item value="has Seq No Primary Term Property" />
       <item value="cardinality" />
@@ -50,11 +51,10 @@
       <item value="Critical" />
       <item value="major code smell" />
       <item value="major" />
-      <item value="crit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3081" />
+        <entry key="CHINESE" value="3082" />
         <entry key="ENGLISH" value="3258" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
