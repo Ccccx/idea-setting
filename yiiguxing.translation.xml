@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="children" />
       <item value="Uncategorized Elasticsearch Exception" />
       <item value="Request cannot be executed; I/O reactor status: STOPPED" />
       <item value="Certificate for &lt;192.168.250.80&gt; doesn't match any of the subject alternative names:" />
@@ -50,12 +51,11 @@
       <item value="broker" />
       <item value="okay; the class isn't deprecated" />
       <item value="Noncompliant; don't override a deprecated method or explicitly mark it as @Deprecated" />
-      <item value="Once deprecated, classes, and interfaces, and their members should be avoided, rather than used, inherited or extended. Deprecation is a warning that the class or interface has been superseded, and will eventually be removed. The deprecation period allows you to make a smooth transition away from the aging, soon-to-be-retired technology." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3087" />
-        <entry key="ENGLISH" value="3262" />
+        <entry key="CHINESE" value="3088" />
+        <entry key="ENGLISH" value="3263" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
