@@ -1,8 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#13;&#10;" />
   <JavaCodeStyleSettings>
-    <option name="USE_FQ_CLASS_NAMES" value="true" />
-    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
