@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cardinality" />
       <item value="统计" />
       <item value="children" />
       <item value="Uncategorized Elasticsearch Exception" />
@@ -11,7 +12,6 @@
       <item value="rebase curretn onto selected" />
       <item value="Rest High Level Client Configuration" />
       <item value="has Seq No Primary Term Property" />
-      <item value="cardinality" />
       <item value="Parsed String Terms" />
       <item value="Represents a set of {@link Aggregation}s" />
       <item value="NO CONSTRUCTOR" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3089" />
+        <entry key="CHINESE" value="3090" />
         <entry key="ENGLISH" value="3264" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
