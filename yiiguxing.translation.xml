@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'TypeToken()' is declared in unstable class 'com.google.common.reflect.TypeToken' marked with @Beta " />
+      <item value="Unused assignments should be removed" />
+      <item value="'com.google.common.reflect.TypeToken' is marked unstable with @Beta " />
+      <item value="'TypeToken()' is declared in unstable class 'com.google.common.reflect.TypeToken'" />
       <item value="cardinality" />
       <item value="统计" />
       <item value="children" />
@@ -47,14 +51,10 @@
       <item value="Re-subscribes to this Flux sequence if it signals any error, indefinitely." />
       <item value="on Error Continue" />
       <item value="Dropped" />
-      <item value="Operator called default onErrorDropped" />
-      <item value="条件" />
-      <item value="broker" />
-      <item value="okay; the class isn't deprecated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3090" />
+        <entry key="CHINESE" value="3094" />
         <entry key="ENGLISH" value="3264" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
