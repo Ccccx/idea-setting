@@ -12,5 +12,7 @@
     <ignoreAction name="Grails/Make property nullable" />
     <ignoreAction name="Java/Declaration/Make method default" />
     <ignoreAction name="Language injection/Edit injected fragment" />
+    <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
