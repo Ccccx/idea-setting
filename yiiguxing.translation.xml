@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="非法操作" />
       <item value="镇" />
       <item value="AsyncT" />
       <item value="create Async Web Request" />
@@ -50,7 +51,6 @@
       <item value="Configration" />
       <item value="   /*      * BitSets are packed into arrays of &quot;words.&quot;  Currently a word is      * a long, which consists of 64 bits, requiring 6 address bits.      * The choice of word size is determined purely by performance concerns.      */" />
       <item value="   /*&#10;     * BitSets are packed into arrays of &quot;words.&quot;  Currently a word is&#10;     * a long, which consists of 64 bits, requiring 6 address bits.&#10;     * The choice of word size is determined purely by performance concerns.&#10;     */" />
-      <item value="PoolBase - master - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2937761 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value." />
     </histories>
     <option name="languageScores">
       <map>
