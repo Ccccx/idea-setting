@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generic Declaration" />
       <item value="Weak Hash Map" />
       <item value="You might want to check your annotation setup at the converter implementation." />
       <item value="Registering converter from class org.springframework.data.elasticsearch.core.geo.GeoPoint to interface java.util.Map as writing converter although it doesn't convert to a store-supported type! You might want to check your annotation setup at the converter implementation." />
@@ -50,12 +51,11 @@
       <item value="direct Urls" />
       <item value="on Error Resume" />
       <item value="Let compatible operators upstream recover from errors by dropping the incriminating element from the sequence and continuing with subsequent elements. The recovered error and associated value are notified via the provided BiConsumer. Alternatively, throwing from that biconsumer will propagate the thrown exception downstream in place of the original error, which is added as a suppressed exception to the new one." />
-      <item value="Create a Flux that emits long values starting with 0 and incrementing at specified time intervals on the global timer. The first element is emitted after an initial delay equal to the period. If demand is not produced in time, an onError will be signalled with an overflow IllegalStateException detailing the tick that couldn't be emitted. In normal conditions, the Flux will never complete. Runs on the Schedulers.parallel() Scheduler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3097" />
-        <entry key="ENGLISH" value="3267" />
+        <entry key="CHINESE" value="3098" />
+        <entry key="ENGLISH" value="3268" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
