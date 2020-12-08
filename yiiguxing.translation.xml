@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish Request Handled Event" />
       <item value="rule Map" />
       <item value="ACTIVE PROFILES PROPERTY NAME" />
       <item value="DEFAULT PROFILES PROPERTY NAME" />
@@ -50,12 +51,11 @@
       <item value="Certificate for &lt;192.168.250.80&gt; doesn't match any of the subject alternative names:" />
       <item value=" General SSLEngine problem" />
       <item value="onto" />
-      <item value="rebase curretn onto selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3130" />
-        <entry key="ENGLISH" value="3296" />
+        <entry key="CHINESE" value="3131" />
+        <entry key="ENGLISH" value="3297" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
