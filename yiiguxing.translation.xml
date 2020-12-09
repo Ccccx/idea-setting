@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Exotic Type&#10;" />
+      <item value="Exotic &#10;Type&#10;" />
+      <item value="ExoticType&#10;" />
+      <item value="Exoti cType&#10;" />
+      <item value="ExoticType " />
+      <item value="ExoticType &#10;" />
+      <item value="Bar" />
       <item value="Assertions" />
       <item value="exchange" />
       <item value="Parameter Name Discoverer" />
@@ -44,13 +54,6 @@
       <item value="Generic Declaration" />
       <item value="Weak Hash Map" />
       <item value="You might want to check your annotation setup at the converter implementation." />
-      <item value="Registering converter from class org.springframework.data.elasticsearch.core.geo.GeoPoint to interface java.util.Map as writing converter although it doesn't convert to a store-supported type! You might want to check your annotation setup at the converter implementation." />
-      <item value="'TypeToken()' is declared in unstable class 'com.google.common.reflect.TypeToken' marked with @Beta " />
-      <item value="Unused assignments should be removed" />
-      <item value="'com.google.common.reflect.TypeToken' is marked unstable with @Beta " />
-      <item value="'TypeToken()' is declared in unstable class 'com.google.common.reflect.TypeToken'" />
-      <item value="cardinality" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,5 +78,8 @@
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607504075289" />
   </component>
 </application>
