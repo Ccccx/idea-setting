@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load&#10;" />
+      <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load" />
       <item value="Exotic Type&#10;" />
       <item value="Exotic &#10;Type&#10;" />
       <item value="ExoticType&#10;" />
@@ -52,8 +54,6 @@
       <item value="ensure Capacity Internal" />
       <item value="canonicalize" />
       <item value="Generic Declaration" />
-      <item value="Weak Hash Map" />
-      <item value="You might want to check your annotation setup at the converter implementation." />
     </histories>
     <option name="languageScores">
       <map>
