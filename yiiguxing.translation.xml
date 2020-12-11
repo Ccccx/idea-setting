@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Get AI Code Completions for your IDE&#10;" />
       <item value="语句" />
       <item value="mapped Statement" />
       <item value="compute If Absent" />
@@ -53,7 +54,6 @@
       <item value="detect All Handler Mappings" />
       <item value="beans Of Type Including Ancestors" />
       <item value="Request Mapping Info Handler Method Mapping Naming Strategy" />
-      <item value="get Mapping Path Patterns" />
     </histories>
     <option name="languageScores">
       <map>
