@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="A configuration property name composed of elements separated by dots. User created names may contain the characters &quot;{@code a-z}&quot; &quot;{@code 0-9}&quot;) and &quot;{@code -}&quot;, they must be lower-case and must start with an alpha-numeric character. The &quot;{@code -}&quot; is used purely for formatting, i.e. &quot;{@code foo-bar}&quot; and &quot;{@code foobar}&quot; are considered equivalent. &lt;p&gt; The &quot;{@code [}&quot; and &quot;{@code ]}&quot; characters may be used to indicate an associative index(i.e. a {@link Map} key or a {@link Collection} index. Indexes names are not restricted and are considered case-sensitive. &lt;p&gt; Here are some typical examples: &lt;ul&gt; &lt;li&gt;{@code spring.main.banner-mode}&lt;li&gt; &lt;li&gt;{@code server.hosts[0].name}&lt;li&gt; &lt;li&gt;{@code log[org.springboot].level}&lt;li&gt; &lt;ul&gt;" />
+      <item value="Configuration Property Name" />
+      <item value="Generic Application Listener" />
+      <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
+      <item value="deduce" />
+      <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
       <item value="set User Destination Prefix" />
       <item value="Dec" />
       <item value="UNDECIMBER" />
@@ -48,17 +54,11 @@
       <item value="is Candidate Class" />
       <item value="determine Target Class" />
       <item value="publish Request Handled Event" />
-      <item value="rule Map" />
-      <item value="ACTIVE PROFILES PROPERTY NAME" />
-      <item value="DEFAULT PROFILES PROPERTY NAME" />
-      <item value="RESERVED DEFAULT PROFILE NAME" />
-      <item value="GenericApplicationContext does not support multiple refresh attempts: just call 'refresh' once" />
-      <item value="Strict Fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3149" />
-        <entry key="ENGLISH" value="3315" />
+        <entry key="CHINESE" value="3155" />
+        <entry key="ENGLISH" value="3321" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
