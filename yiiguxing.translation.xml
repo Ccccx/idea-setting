@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="TREE STATIC" />
       <item value="条件" />
       <item value="统计" />
       <item value="分析" />
@@ -53,12 +54,11 @@
       <item value="array" />
       <item value="test&#10;" />
       <item value="中国&#10;" />
-      <item value="中国" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3172" />
-        <entry key="ENGLISH" value="3338" />
+        <entry key="CHINESE" value="3173" />
+        <entry key="ENGLISH" value="3339" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
