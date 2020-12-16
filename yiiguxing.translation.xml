@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="validate Incomplete Statements" />
+      <item value="convert Args To Sql Command Param" />
       <item value="Mapped Statement" />
       <item value="get Unsafe Operator" />
       <item value="get Operator" />
@@ -52,13 +54,11 @@
       <item value="class" />
       <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load&#10;" />
       <item value="Pre-built JDK and maven library shared indexes reduce the indexing time and CPU load" />
-      <item value="Exotic Type&#10;" />
-      <item value="Exotic &#10;Type&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3164" />
-        <entry key="ENGLISH" value="3330" />
+        <entry key="CHINESE" value="3166" />
+        <entry key="ENGLISH" value="3332" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
