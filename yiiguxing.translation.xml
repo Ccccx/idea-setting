@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="get Unsafe Operator" />
+      <item value="get Operator" />
+      <item value="get Operator By Unsafe" />
+      <item value="Unsafe" />
+      <item value="By Unsafe" />
+      <item value="By Unsafe(" />
+      <item value="operator" />
       <item value="升级方式&#10;" />
       <item value="强制升级" />
       <item value="强制" />
@@ -47,18 +54,11 @@
       <item value="Exotic Type&#10;" />
       <item value="Exotic &#10;Type&#10;" />
       <item value="ExoticType&#10;" />
-      <item value="Exoti cType&#10;" />
-      <item value="ExoticType " />
-      <item value="ExoticType &#10;" />
-      <item value="Bar" />
-      <item value="Assertions" />
-      <item value="exchange" />
-      <item value="Parameter Name Discoverer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3155" />
-        <entry key="ENGLISH" value="3321" />
+        <entry key="CHINESE" value="3163" />
+        <entry key="ENGLISH" value="3329" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
