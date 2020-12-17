@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUB_TYPE = 'TM8760'' at line 6" />
       <item value="Encountered unexpected token" />
       <item value="复杂的" />
       <item value="term" />
@@ -53,12 +54,11 @@
       <item value="Simple {@link org.springframework.aop.IntroductionAdvisor} implementation that by default applies to any class." />
       <item value="No type specified for field [company]" />
       <item value="mapper parsing exception" />
-      <item value="Elasticsearch Status Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3175" />
-        <entry key="ENGLISH" value="3341" />
+        <entry key="CHINESE" value="3176" />
+        <entry key="ENGLISH" value="3342" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
