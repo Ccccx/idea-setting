@@ -4,12 +4,12 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="composite" />
       <item value="Attempting again with no TLS verification." />
       <item value="Unauthorized" />
       <item value="Unauthorized for registry.tiamaes.com:5000publicopenjdk" />
       <item value="upgrade" />
       <item value="reversed" />
-      <item value="composite" />
       <item value="Composite Values Source Builder" />
       <item value="Uncategorized Elasticsearch Exception" />
       <item value="total File Count" />
