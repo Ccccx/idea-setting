@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="get Canonical Name" />
       <item value="object from which the represented field's value is to be extracted" />
       <item value="is Condition Passing" />
       <item value="process Cache Evicts" />
@@ -53,12 +54,11 @@
       <item value="fatch Size" />
       <item value="set Additional Parameter" />
       <item value="parameterize" />
-      <item value="instantiate Statement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3212" />
-        <entry key="ENGLISH" value="3378" />
+        <entry key="CHINESE" value="3213" />
+        <entry key="ENGLISH" value="3379" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
