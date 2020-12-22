@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Aggregator" />
+      <item value="sub Aggregations" />
       <item value="期望&#10;" />
       <item value="process Member Classes" />
       <item value="candidates" />
@@ -52,13 +54,11 @@
       <item value="Configuration Property Name" />
       <item value="Generic Application Listener" />
       <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
-      <item value="deduce" />
-      <item value="gh_425: SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3189" />
-        <entry key="ENGLISH" value="3355" />
+        <entry key="CHINESE" value="3191" />
+        <entry key="ENGLISH" value="3357" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
