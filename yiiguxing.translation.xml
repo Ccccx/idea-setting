@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Condition Passing" />
+      <item value="process Cache Evicts" />
+      <item value="aop Alliance Invoker" />
+      <item value="ret Val" />
+      <item value="get Interceptors And Dynamic Interception Advice" />
+      <item value="wrap If Necessary" />
+      <item value="is Candidate Class" />
+      <item value="get Cache Operation Source" />
+      <item value="Bean Factory Cache Operation Source Advisor" />
+      <item value="Auto Proxy Registrar" />
+      <item value="Advice Mode Import Selector" />
       <item value="evict" />
       <item value="Local Async Loading Cache" />
       <item value="async Cache" />
@@ -43,22 +54,11 @@
       <item value="parameterize" />
       <item value="instantiate Statement" />
       <item value="declaring Class" />
-      <item value="validate Incomplete Statements" />
-      <item value="convert Args To Sql Command Param" />
-      <item value="Mapped Statement" />
-      <item value="get Unsafe Operator" />
-      <item value="get Operator" />
-      <item value="get Operator By Unsafe" />
-      <item value="Unsafe" />
-      <item value="By Unsafe" />
-      <item value="By Unsafe(" />
-      <item value="operator" />
-      <item value="升级方式&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3199" />
-        <entry key="ENGLISH" value="3365" />
+        <entry key="CHINESE" value="3211" />
+        <entry key="ENGLISH" value="3377" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
