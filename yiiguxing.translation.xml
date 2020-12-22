@@ -4,8 +4,11 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="invalidate" />
+      <item value="evict" />
+      <item value="Local Async Loading Cache" />
       <item value="async Cache" />
+      <item value="Clear the cache through removing all mappings. &lt;p&gt;Actual clearing may be performed in an asynchronous or deferred fashion, with subsequent lookups possibly still seeing the entries. This may for example be the case with transactional cache decorators. Use {@link invalidate()} for guaranteed immediate removal of entries." />
+      <item value="invalidate" />
       <item value="record Stats" />
       <item value="invalidate All" />
       <item value="Aggregator" />
@@ -51,14 +54,11 @@
       <item value="By Unsafe(" />
       <item value="operator" />
       <item value="升级方式&#10;" />
-      <item value="强制升级" />
-      <item value="强制" />
-      <item value="LOCAL STORAGE TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3195" />
-        <entry key="ENGLISH" value="3361" />
+        <entry key="CHINESE" value="3199" />
+        <entry key="ENGLISH" value="3365" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
