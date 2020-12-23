@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Noncompliant" />
+      <item value="This rule raises an issue when reflection is used to change the visibility of a class, method or field, and when it is used to directly update a field value. Altering or bypassing the accessibility of classes, methods, or fields violates the encapsulation principle and could lead to run-time errors." />
+      <item value="Reflection should not be used to increase accessibility of classes, methods, or fields" />
       <item value="deserialize" />
       <item value="to Class Confident" />
       <item value="is Synthetic" />
@@ -51,9 +54,6 @@
       <item value="条件" />
       <item value="tree" />
       <item value="TREE STATIC" />
-      <item value="统计" />
-      <item value="分析" />
-      <item value="Composite Aggregation Builder" />
     </histories>
     <option name="languageScores">
       <map>
