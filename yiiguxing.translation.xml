@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="NEUTRAL" />
+      <item value="connection TTL" />
+      <item value="on Mismatch" />
       <item value="logstash" />
       <item value="1" />
       <item value="Configures component scanning directives for use with @{@link Configuration} classes. Provides support parallel with Spring XML's {@code &lt;context:component-scan&gt;} element. &lt;p&gt;Either {@link basePackageClasses} or {@link basePackages} (or its alias {@link value}) may be specified to define specific packages to scan. If specific packages are not defined, scanning will occur from the package of the class that declares this annotation. &lt;p&gt;Note that the {@code &lt;context:component-scan&gt;} element has an {@code annotation-config} attribute; however, this annotation does not. This is because in almost all cases when using {@code @ComponentScan}, default annotation config processing (e.g. processing {@code @Autowired} and friends) is assumed. Furthermore, when using {@link AnnotationConfigApplicationContext}, annotation config processors are always registered, meaning that any attempt to disable them at the {@code @ComponentScan} level would be ignored. &lt;p&gt;See {@link Configuration @Configuration}'s Javadoc for usage examples." />
@@ -51,14 +54,11 @@
       <item value="total File Count" />
       <item value="does not match the certificate subject provided by the peer (CN=es01)" />
       <item value="unfinish" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUB_TYPE = 'TM8760'' at line 6" />
-      <item value="Encountered unexpected token" />
-      <item value="复杂的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3218" />
-        <entry key="ENGLISH" value="3384" />
+        <entry key="CHINESE" value="3221" />
+        <entry key="ENGLISH" value="3387" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
