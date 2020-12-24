@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="is Assignable From" />
+      <item value="initialize Early Logging Level" />
       <item value="used" />
       <item value="always Write Exceptions" />
       <item value="additional Fields" />
@@ -52,13 +54,11 @@
       <item value="process Cache Evicts" />
       <item value="aop Alliance Invoker" />
       <item value="ret Val" />
-      <item value="get Interceptors And Dynamic Interception Advice" />
-      <item value="wrap If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3253" />
-        <entry key="ENGLISH" value="3419" />
+        <entry key="CHINESE" value="3255" />
+        <entry key="ENGLISH" value="3421" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
