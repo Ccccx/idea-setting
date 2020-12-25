@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="NEUTRAL" />
       <item value="DENY" />
       <item value="ACCEPT" />
       <item value="expected &lt;block end&gt;, but found" />
@@ -42,7 +43,6 @@
       <item value="Expected one of&#10;" />
       <item value="MDC Filter" />
       <item value="agent release version" />
-      <item value="NEUTRAL" />
       <item value="reconnection Delay" />
       <item value="keep Alive Duration" />
       <item value="connection TTL" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3260" />
-        <entry key="ENGLISH" value="3426" />
+        <entry key="CHINESE" value="3261" />
+        <entry key="ENGLISH" value="3427" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
