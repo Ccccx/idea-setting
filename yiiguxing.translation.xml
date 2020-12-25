@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="expected &lt;block end&gt;, but found" />
       <item value="while parsing a block mapping" />
       <item value="拦截" />
       <item value="拦截&#10;" />
@@ -53,12 +54,11 @@
       <item value="Reflection should not be used to increase accessibility of classes, methods, or fields" />
       <item value="deserialize" />
       <item value="to Class Confident" />
-      <item value="is Synthetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3259" />
-        <entry key="ENGLISH" value="3425" />
+        <entry key="CHINESE" value="3260" />
+        <entry key="ENGLISH" value="3426" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
