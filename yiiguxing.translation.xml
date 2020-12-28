@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Resume" />
+      <item value="publish" />
+      <item value="disposable" />
       <item value="offer" />
       <item value="wait To Condition" />
       <item value=" The WriteApi can't be gracefully dispose! - 30000ms elapsed." />
@@ -51,14 +54,11 @@
       <item value="Convert to specific class which already determines whether values needs lookup during serialization" />
       <item value="prepare Additional Fields" />
       <item value="create Serializer" />
-      <item value="compact" />
-      <item value="competing" />
-      <item value="Expected one of&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3266" />
-        <entry key="ENGLISH" value="3432" />
+        <entry key="CHINESE" value="3269" />
+        <entry key="ENGLISH" value="3435" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
