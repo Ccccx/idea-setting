@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="HIGHEST PRECEDENCE" />
       <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
       <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
       <item value="It only has properties in it now that we don't want in the parent so remove it (and it will be added back later)" />
@@ -34,7 +35,6 @@
       <item value="拦截" />
       <item value="拦截&#10;" />
       <item value="get Resources From Pattern Location" />
-      <item value="HIGHEST PRECEDENCE" />
       <item value="resolve Nested Placeholders" />
       <item value="is Assignable From" />
       <item value="initialize Early Logging Level" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3274" />
-        <entry key="ENGLISH" value="3440" />
+        <entry key="CHINESE" value="3275" />
+        <entry key="ENGLISH" value="3441" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
