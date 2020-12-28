@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Predicate" />
       <item value="Resume" />
       <item value="publish" />
       <item value="disposable" />
@@ -53,7 +54,6 @@
       <item value="get Str Substitutor" />
       <item value="Convert to specific class which already determines whether values needs lookup during serialization" />
       <item value="prepare Additional Fields" />
-      <item value="create Serializer" />
     </histories>
     <option name="languageScores">
       <map>
