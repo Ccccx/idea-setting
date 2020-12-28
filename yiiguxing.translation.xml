@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="}" />
+      <item value="input Args" />
       <item value="HIGHEST PRECEDENCE" />
       <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
       <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
@@ -52,8 +54,6 @@
       <item value="Json Unwrapped" />
       <item value="If the LogEvent implements the Messagee interface Jackson will not treat is as a LogEvent." />
       <item value="create Memento" />
-      <item value="convert Mutable To Log 4 j Event" />
-      <item value="value Needs Lookup" />
     </histories>
     <option name="languageScores">
       <map>
