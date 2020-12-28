@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Bootstrap listener to start up and shut down Spring's root {@link WebApplicationContext}. Simply delegates to {@link ContextLoader} as well as to {@link ContextCleanupListener}. &lt;p&gt;As of Spring 3.1, {@code ContextLoaderListener} supports injecting the root web application context via the {@link ContextLoaderListener(WebApplicationContext)} constructor, allowing for programmatic configuration in Servlet 3.0+ environments. See {@link org.springframework.web.WebApplicationInitializer} for usage examples." />
+      <item value="Store context in local instance variable, to guarantee that it is available on ServletContext shutdown." />
       <item value="}" />
       <item value="input Args" />
       <item value="HIGHEST PRECEDENCE" />
@@ -52,13 +54,11 @@
       <item value="get Thread Priority" />
       <item value="Json Any Getter" />
       <item value="Json Unwrapped" />
-      <item value="If the LogEvent implements the Messagee interface Jackson will not treat is as a LogEvent." />
-      <item value="create Memento" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3275" />
-        <entry key="ENGLISH" value="3441" />
+        <entry key="CHINESE" value="3277" />
+        <entry key="ENGLISH" value="3443" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
