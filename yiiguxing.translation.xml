@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
+      <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
+      <item value="It only has properties in it now that we don't want in the parent so remove it (and it will be added back later)" />
+      <item value="config Location" />
+      <item value="don't listen to events in a bootstrap context" />
       <item value="Predicate" />
       <item value="Resume" />
       <item value="publish" />
@@ -49,16 +54,11 @@
       <item value="create Memento" />
       <item value="convert Mutable To Log 4 j Event" />
       <item value="value Needs Lookup" />
-      <item value="Resolvable Key Value Pair" />
-      <item value="str Substitutor" />
-      <item value="get Str Substitutor" />
-      <item value="Convert to specific class which already determines whether values needs lookup during serialization" />
-      <item value="prepare Additional Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3269" />
-        <entry key="ENGLISH" value="3435" />
+        <entry key="CHINESE" value="3274" />
+        <entry key="ENGLISH" value="3440" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
