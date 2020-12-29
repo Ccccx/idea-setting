@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="on Startup" />
+      <item value="Returns whether or not the JSP servlet should be registered with the web server. @return {@code true} if the servlet should be registered, otherwise {@code false}" />
       <item value="No adapter for handler [com.tp.servlet.ActionServlet@3fd2322d]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler" />
       <item value="Bootstrap listener to start up and shut down Spring's root {@link WebApplicationContext}. Simply delegates to {@link ContextLoader} as well as to {@link ContextCleanupListener}. &lt;p&gt;As of Spring 3.1, {@code ContextLoaderListener} supports injecting the root web application context via the {@link ContextLoaderListener(WebApplicationContext)} constructor, allowing for programmatic configuration in Servlet 3.0+ environments. See {@link org.springframework.web.WebApplicationInitializer} for usage examples." />
       <item value="Store context in local instance variable, to guarantee that it is available on ServletContext shutdown." />
@@ -52,13 +54,11 @@
       <item value="no Console No Ansi" />
       <item value="Custom Json Pattern Layout" />
       <item value="to Immutable" />
-      <item value="get Thread Priority" />
-      <item value="Json Any Getter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3278" />
-        <entry key="ENGLISH" value="3444" />
+        <entry key="CHINESE" value="3280" />
+        <entry key="ENGLISH" value="3446" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
