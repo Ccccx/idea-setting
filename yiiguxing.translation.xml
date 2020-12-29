@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="INITIALIZED" />
+      <item value="Remove service connectors so that protocol binding doesn't happen when the service is started." />
+      <item value="add Instance Id To Engine Name" />
+      <item value="monitor" />
+      <item value="Tomcat Embedded Context" />
+      <item value="disable M Bean Registry" />
       <item value="on Startup" />
       <item value="Returns whether or not the JSP servlet should be registered with the web server. @return {@code true} if the servlet should be registered, otherwise {@code false}" />
       <item value="No adapter for handler [com.tp.servlet.ActionServlet@3fd2322d]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler" />
@@ -48,17 +54,11 @@
       <item value="used" />
       <item value="always Write Exceptions" />
       <item value="additional Fields" />
-      <item value="elapsed ms" />
-      <item value="with Regex Replacement" />
-      <item value="also know as Mapped Diagnostic Context or MDC" />
-      <item value="no Console No Ansi" />
-      <item value="Custom Json Pattern Layout" />
-      <item value="to Immutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3280" />
-        <entry key="ENGLISH" value="3446" />
+        <entry key="CHINESE" value="3286" />
+        <entry key="ENGLISH" value="3452" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
