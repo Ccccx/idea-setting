@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Interface used to configure a Servlet 3.0+ {@link ServletContext context} programmatically. Unlike {@link WebApplicationInitializer}, classes that implement this interface (and do not implement {@link WebApplicationInitializer}) will &lt;b&gt;not&lt;b&gt; be detected by {@link SpringServletContainerInitializer} and hence will not be automatically bootstrapped by the Servlet container. &lt;p&gt; This interface is designed to act in a similar way to {@link ServletContainerInitializer}, but have a lifecycle that's managed by Spring and not the Servlet container. &lt;p&gt; For configuration examples see {@link WebApplicationInitializer}." />
+      <item value="Step 3. Look for ServletContainerInitializer implementations" />
       <item value="A type incompatibility occurred while executing org.springframework.boot:spring-boot-maven-plugin:2.3.2.RELEASE:repackage: org.springframework.boot.loader.tools.LayoutsWar cannot be cast to org.springframework.boot.loader.tools.RepackagingLayout" />
       <item value="Ask this Context to process this request. Requests that are already in error must have been routed here to check for application defined error pages so DO NOT forward them to the the application for processing." />
       <item value="encode" />
@@ -52,13 +54,11 @@
       <item value="expected &lt;block end&gt;, but found" />
       <item value="while parsing a block mapping" />
       <item value="拦截" />
-      <item value="拦截&#10;" />
-      <item value="get Resources From Pattern Location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3292" />
-        <entry key="ENGLISH" value="3458" />
+        <entry key="CHINESE" value="3294" />
+        <entry key="ENGLISH" value="3460" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
