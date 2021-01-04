@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Graal native images don't load any configuration except the VM default" />
+      <item value="silences" />
       <item value="      True if this StandardWrapper is for the JspServlet&#10;" />
       <item value="         Standard container startup" />
       <item value="     Strict servlet compliance requires all extension mapped servlets&#10;             to be checked against welcome file" />
@@ -52,13 +54,11 @@
       <item value="Bootstrap listener to start up and shut down Spring's root {@link WebApplicationContext}. Simply delegates to {@link ContextLoader} as well as to {@link ContextCleanupListener}. &lt;p&gt;As of Spring 3.1, {@code ContextLoaderListener} supports injecting the root web application context via the {@link ContextLoaderListener(WebApplicationContext)} constructor, allowing for programmatic configuration in Servlet 3.0+ environments. See {@link org.springframework.web.WebApplicationInitializer} for usage examples." />
       <item value="Store context in local instance variable, to guarantee that it is available on ServletContext shutdown." />
       <item value="}" />
-      <item value="input Args" />
-      <item value="HIGHEST PRECEDENCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3312" />
-        <entry key="ENGLISH" value="3478" />
+        <entry key="CHINESE" value="3314" />
+        <entry key="ENGLISH" value="3480" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
