@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="      True if this StandardWrapper is for the JspServlet&#10;" />
+      <item value="         Standard container startup" />
+      <item value="     Strict servlet compliance requires all extension mapped servlets&#10;             to be checked against welcome file" />
+      <item value="do With Thread Context Class Loader" />
+      <item value="&#9;&#9; deferred until later (see deferredLoadOnStartup)" />
+      <item value=" deferred until later (see deferredLoadOnStartup)" />
       <item value="Compile" />
       <item value="      Check if the requested JSP page exists, to avoid&#10;                     creating unnecessary directories and files." />
       <item value="test" />
@@ -48,17 +54,11 @@
       <item value="}" />
       <item value="input Args" />
       <item value="HIGHEST PRECEDENCE" />
-      <item value="If we are doing a context refresh, really we only want to refresh the Environment, and there are some toxic listeners (like the LoggingApplicationListener) that affect global static state, so we need a way to switch those off." />
-      <item value="SpringApplication cannot deduce the MainApplicationClass here if it is booted from SpringBootServletInitializer due to the absense of the &quot;main&quot; method in stackTraces. But luckily this method's second parameter &quot;application&quot; here carries the real MainApplicationClass which has been explicitly set by SpringBootServletInitializer itself already." />
-      <item value="It only has properties in it now that we don't want in the parent so remove it (and it will be added back later)" />
-      <item value="config Location" />
-      <item value="don't listen to events in a bootstrap context" />
-      <item value="Predicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3308" />
-        <entry key="ENGLISH" value="3474" />
+        <entry key="CHINESE" value="3312" />
+        <entry key="ENGLISH" value="3478" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
@@ -98,5 +98,6 @@
     <option name="keepFormat" value="true" />
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
