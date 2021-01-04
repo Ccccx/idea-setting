@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Compile" />
+      <item value="      Check if the requested JSP page exists, to avoid&#10;                     creating unnecessary directories and files." />
       <item value="test" />
       <item value="测试" />
       <item value="测试&#10;" />
@@ -52,13 +54,11 @@
       <item value="config Location" />
       <item value="don't listen to events in a bootstrap context" />
       <item value="Predicate" />
-      <item value="Resume" />
-      <item value="publish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3306" />
-        <entry key="ENGLISH" value="3472" />
+        <entry key="CHINESE" value="3308" />
+        <entry key="ENGLISH" value="3474" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
