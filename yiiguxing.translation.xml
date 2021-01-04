@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="init Internal" />
+      <item value="INITIALIZING" />
+      <item value="         Avoid NPE for case where Context is defined in server.xml with only a&#10;" />
+      <item value="Memory Leak Tracking Listener" />
+      <item value="prevent it from looking ( if it finds one - it'll have dup error )" />
+      <item value=" prevent it from looking ( if it finds one - it'll have dup error )" />
+      <item value="get Webapp Config File From Directory" />
+      <item value="silent" />
       <item value="Graal native images don't load any configuration except the VM default" />
       <item value="silences" />
       <item value="      True if this StandardWrapper is for the JspServlet&#10;" />
@@ -46,19 +54,11 @@
       <item value="Remove service connectors so that protocol binding doesn't happen when the service is started." />
       <item value="add Instance Id To Engine Name" />
       <item value="monitor" />
-      <item value="Tomcat Embedded Context" />
-      <item value="disable M Bean Registry" />
-      <item value="on Startup" />
-      <item value="Returns whether or not the JSP servlet should be registered with the web server. @return {@code true} if the servlet should be registered, otherwise {@code false}" />
-      <item value="No adapter for handler [com.tp.servlet.ActionServlet@3fd2322d]: The DispatcherServlet configuration needs to include a HandlerAdapter that supports this handler" />
-      <item value="Bootstrap listener to start up and shut down Spring's root {@link WebApplicationContext}. Simply delegates to {@link ContextLoader} as well as to {@link ContextCleanupListener}. &lt;p&gt;As of Spring 3.1, {@code ContextLoaderListener} supports injecting the root web application context via the {@link ContextLoaderListener(WebApplicationContext)} constructor, allowing for programmatic configuration in Servlet 3.0+ environments. See {@link org.springframework.web.WebApplicationInitializer} for usage examples." />
-      <item value="Store context in local instance variable, to guarantee that it is available on ServletContext shutdown." />
-      <item value="}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3314" />
-        <entry key="ENGLISH" value="3480" />
+        <entry key="CHINESE" value="3322" />
+        <entry key="ENGLISH" value="3488" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
