@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="periodic" />
       <item value="     Some logging implementations use weak references for loggers so there is&#10;     the possibility that logging configuration could be lost if GC runs just&#10;     after Loggers are configured but before they are used. The purpose of&#10;     this Map is to retain strong references to explicitly configured loggers&#10;     so that configuration is not lost." />
       <item value="init Internal" />
       <item value="INITIALIZING" />
@@ -53,7 +54,6 @@
       <item value="key Bytes" />
       <item value="INITIALIZED" />
       <item value="Remove service connectors so that protocol binding doesn't happen when the service is started." />
-      <item value="add Instance Id To Engine Name" />
     </histories>
     <option name="languageScores">
       <map>
