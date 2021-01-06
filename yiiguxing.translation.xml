@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="operator" />
       <item value="get Host From Name Service" />
       <item value="&#9; TODO: maybe shutdown the thread pool if it isn't being used?&#10;" />
       <item value="find First Non Loopback Address" />
@@ -53,7 +54,6 @@
       <item value="Call ServletContainerInitializers" />
       <item value="Create context attributes that will be required" />
       <item value="We put the resources into the servlet context" />
-      <item value="add Servlet Mapping Decoded" />
     </histories>
     <option name="languageScores">
       <map>
