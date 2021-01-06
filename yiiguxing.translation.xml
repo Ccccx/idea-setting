@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="find First Non Loopback Address" />
       <item value="protection Domain" />
       <item value="was Created Dynamic Servlet" />
       <item value="wrapper" />
@@ -53,12 +54,11 @@
       <item value="add Servlet Mapping Decoded" />
       <item value="Parse the path parameters. This will: - strip out the path parameters - convert the decodedURI to bytes" />
       <item value="Parse and set Catalina and configuration specific request parameters" />
-      <item value="Forward control to the specified location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3336" />
-        <entry key="ENGLISH" value="3502" />
+        <entry key="CHINESE" value="3337" />
+        <entry key="ENGLISH" value="3503" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
