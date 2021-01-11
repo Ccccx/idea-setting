@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="520" />
+    <option name="newTranslationDialogWidth" value="518" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="已同步" />
       <item value=" Direct self-reference leading to cycle" />
       <item value="most Specific Cause" />
       <item value="Json Deserialize" />
@@ -53,7 +54,6 @@
       <item value="     Strict servlet compliance requires all extension mapped servlets&#10;             to be checked against welcome file" />
       <item value="do With Thread Context Class Loader" />
       <item value="&#9;&#9; deferred until later (see deferredLoadOnStartup)" />
-      <item value="Compile" />
     </histories>
     <option name="languageScores">
       <map>
