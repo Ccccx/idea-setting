@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value=" Direct self-reference leading to cycle" />
       <item value="most Specific Cause" />
       <item value="Json Deserialize" />
       <item value="author" />
@@ -53,12 +54,11 @@
       <item value="do With Thread Context Class Loader" />
       <item value="&#9;&#9; deferred until later (see deferredLoadOnStartup)" />
       <item value="Compile" />
-      <item value="      Check if the requested JSP page exists, to avoid&#10;                     creating unnecessary directories and files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3346" />
-        <entry key="ENGLISH" value="3512" />
+        <entry key="CHINESE" value="3347" />
+        <entry key="ENGLISH" value="3513" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
