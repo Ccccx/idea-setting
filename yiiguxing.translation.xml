@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Stack Overflow Error" />
       <item value="git hub" />
       <item value="github" />
       <item value="GIT" />
@@ -53,12 +54,11 @@
       <item value="Customizer" />
       <item value="periodic" />
       <item value="     Some logging implementations use weak references for loggers so there is&#10;     the possibility that logging configuration could be lost if GC runs just&#10;     after Loggers are configured but before they are used. The purpose of&#10;     this Map is to retain strong references to explicitly configured loggers&#10;     so that configuration is not lost." />
-      <item value="init Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3354" />
-        <entry key="ENGLISH" value="3520" />
+        <entry key="CHINESE" value="3355" />
+        <entry key="ENGLISH" value="3521" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
