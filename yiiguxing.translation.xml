@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="516" />
+    <option name="newTranslationDialogWidth" value="512" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="git hub" />
+      <item value="github" />
+      <item value="GIT" />
+      <item value="GI" />
       <item value="marker" />
       <item value="the specified exclusive max-value" />
       <item value="with Track Scores" />
@@ -50,10 +54,6 @@
       <item value="periodic" />
       <item value="     Some logging implementations use weak references for loggers so there is&#10;     the possibility that logging configuration could be lost if GC runs just&#10;     after Loggers are configured but before they are used. The purpose of&#10;     this Map is to retain strong references to explicitly configured loggers&#10;     so that configuration is not lost." />
       <item value="init Internal" />
-      <item value="INITIALIZING" />
-      <item value="         Avoid NPE for case where Context is defined in server.xml with only a&#10;" />
-      <item value="Memory Leak Tracking Listener" />
-      <item value="prevent it from looking ( if it finds one - it'll have dup error )" />
     </histories>
     <option name="languageScores">
       <map>
