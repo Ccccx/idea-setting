@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Declare repository providing the artifact, " />
+      <item value="Declare repository providing the artifact, see the documentation at" />
       <item value="implementation" />
       <item value="restore" />
       <item value="Stack Overflow Error" />
@@ -52,13 +54,11 @@
       <item value="on Startup" />
       <item value=" deferred until later (see deferredLoadOnStartup)" />
       <item value="set Fail Ctx If Servlet Start Fails" />
-      <item value="initializers" />
-      <item value="Customizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3356" />
-        <entry key="ENGLISH" value="3522" />
+        <entry key="CHINESE" value="3358" />
+        <entry key="ENGLISH" value="3524" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
