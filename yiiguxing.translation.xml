@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="平台" />
+      <item value="平台&#10;" />
       <item value="track Scores" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.&#10;" />
       <item value="Declare repository providing the artifact, " />
@@ -52,8 +54,6 @@
       <item value="Start the server to trigger initialization listeners" />
       <item value="tart the server to trigger initialization listeners" />
       <item value="set Mapper Context Root Redirect Enabled" />
-      <item value="Disable Reference Clearing Context Customizer" />
-      <item value="on Startup" />
     </histories>
     <option name="languageScores">
       <map>
