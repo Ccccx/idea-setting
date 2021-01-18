@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="508" />
+    <option name="newTranslationDialogWidth" value="504" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="miner" />
+      <item value="MINER" />
       <item value="ansible" />
       <item value="powned" />
       <item value="平台" />
@@ -52,8 +54,6 @@
       <item value="protection Domain" />
       <item value="was Created Dynamic Servlet" />
       <item value="wrapper" />
-      <item value="&#9; Remove service connectors so that protocol binding doesn't&#10;&#9;&#9;&#9;&#9;&#9;&#9; happen when the service is started." />
-      <item value="Start the server to trigger initialization listeners" />
     </histories>
     <option name="languageScores">
       <map>
