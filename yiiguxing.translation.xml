@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="510" />
+    <option name="newTranslationDialogWidth" value="508" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="ansible" />
+      <item value="powned" />
       <item value="平台" />
       <item value="平台&#10;" />
       <item value="track Scores" />
@@ -52,8 +54,6 @@
       <item value="wrapper" />
       <item value="&#9; Remove service connectors so that protocol binding doesn't&#10;&#9;&#9;&#9;&#9;&#9;&#9; happen when the service is started." />
       <item value="Start the server to trigger initialization listeners" />
-      <item value="tart the server to trigger initialization listeners" />
-      <item value="set Mapper Context Root Redirect Enabled" />
     </histories>
     <option name="languageScores">
       <map>
