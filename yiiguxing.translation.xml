@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="[failover-change]" />
+      <item value="failover" />
+      <item value="publish Config" />
+      <item value="collect Nacos Property Sources" />
+      <item value="Nacos Property Source Repository" />
       <item value="miner" />
       <item value="MINER" />
       <item value="ansible" />
@@ -49,16 +54,11 @@
       <item value="智能调度产品" />
       <item value="operator" />
       <item value="get Host From Name Service" />
-      <item value="&#9; TODO: maybe shutdown the thread pool if it isn't being used?&#10;" />
-      <item value="find First Non Loopback Address" />
-      <item value="protection Domain" />
-      <item value="was Created Dynamic Servlet" />
-      <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3360" />
-        <entry key="ENGLISH" value="3526" />
+        <entry key="CHINESE" value="3365" />
+        <entry key="ENGLISH" value="3531" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
