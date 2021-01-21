@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="504" />
+    <option name="newTranslationDialogWidth" value="502" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="适配器" />
+      <item value="适配" />
       <item value="claims" />
       <item value="expired" />
       <item value="parse Claims Jws" />
@@ -52,8 +54,6 @@
       <item value="cash" />
       <item value="收银" />
       <item value="装饰" />
-      <item value="like Param" />
-      <item value="than" />
     </histories>
     <option name="languageScores">
       <map>
