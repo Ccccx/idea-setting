@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Cached Introspection Results" />
       <item value="register Bean Definition For Imported Configuration Class" />
       <item value="process Configuration Class" />
       <item value="all Exclusions" />
@@ -53,12 +54,11 @@
       <item value="GI" />
       <item value="marker" />
       <item value="the specified exclusive max-value" />
-      <item value="with Track Scores" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3390" />
-        <entry key="ENGLISH" value="3556" />
+        <entry key="CHINESE" value="3391" />
+        <entry key="ENGLISH" value="3557" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
