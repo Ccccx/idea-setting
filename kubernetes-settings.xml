@@ -1,0 +1,5 @@
+<application>
+  <component name="KubernetesApiSettings">
+    <option name="kubeconfigPath" value="C:\Users\cx521\.kube\config" />
+  </component>
+</application>
