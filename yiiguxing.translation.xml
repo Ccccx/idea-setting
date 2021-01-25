@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Factory method to obtain a {@link SourceClass} from a {@link ConfigurationClass}." />
+      <item value="to" />
       <item value="lite" />
       <item value="Cached Introspection Results" />
       <item value="register Bean Definition For Imported Configuration Class" />
@@ -52,13 +54,11 @@
       <item value="git hub" />
       <item value="github" />
       <item value="GIT" />
-      <item value="GI" />
-      <item value="marker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3392" />
-        <entry key="ENGLISH" value="3558" />
+        <entry key="CHINESE" value="3394" />
+        <entry key="ENGLISH" value="3560" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
