@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="_embedded" />
+      <item value="Jpa Configuration" />
       <item value="Extension Match" />
       <item value="unique constraint " />
       <item value="internal Map Wildcard Wrapper" />
@@ -52,13 +54,11 @@
       <item value="miner" />
       <item value="MINER" />
       <item value="ansible" />
-      <item value="powned" />
-      <item value="平台" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3405" />
-        <entry key="ENGLISH" value="3571" />
+        <entry key="CHINESE" value="3407" />
+        <entry key="ENGLISH" value="3573" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611212217894" />
+    <option name="lastTrimTime" value="1611645113952" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
