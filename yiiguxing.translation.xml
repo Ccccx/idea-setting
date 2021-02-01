@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Individually Schema Migrator Impl" />
+      <item value="interpret Script Source Setting" />
+      <item value="Schema Management Tool Coordinator" />
+      <item value="named Query Repository" />
+      <item value="&#9;&#9; will use user override value or default to false if not supplied to follow JPA spec.&#10;" />
+      <item value="&#9;&#9; keep the merged config values for phase-2&#10;" />
+      <item value="apply Integration Provider" />
+      <item value="&#9;&#9; Build the boot-strap service registry, which mainly handles class loader interactions&#10;" />
+      <item value="build Bootstrap Service Registry" />
       <item value="is Initializing Database" />
       <item value="Base Path Aware Controller" />
       <item value="expose Effective Lookup Path Key" />
@@ -45,20 +54,11 @@
       <item value="process Member Classes" />
       <item value="do Process Configuration Class" />
       <item value=" Process default methods on interfaces" />
-      <item value="get In Priority Order" />
-      <item value="processed Configurations" />
-      <item value="Condition Evaluation Report" />
-      <item value="fire Auto Configuration Import Events" />
-      <item value="set Unique Factory Method Name" />
-      <item value="already Parsed Classes" />
-      <item value="适配器" />
-      <item value="适配" />
-      <item value="claims" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3419" />
-        <entry key="ENGLISH" value="3585" />
+        <entry key="CHINESE" value="3428" />
+        <entry key="ENGLISH" value="3594" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
