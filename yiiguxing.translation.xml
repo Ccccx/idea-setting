@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="apply Scoped Proxy Mode" />
       <item value="columns" />
       <item value="colums" />
       <item value="字段" />
@@ -53,12 +54,11 @@
       <item value=" No choice but to go through all mappings..." />
       <item value="Controller" />
       <item value="Application-Level Profile Semantics" />
-      <item value="Semantics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3449" />
-        <entry key="ENGLISH" value="3615" />
+        <entry key="CHINESE" value="3450" />
+        <entry key="ENGLISH" value="3616" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
