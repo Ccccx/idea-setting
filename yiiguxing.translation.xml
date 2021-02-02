@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogWidth" value="496" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="parse" />
+      <item value="par" />
+      <item value="resolve" />
+      <item value="res" />
+      <item value="分析" />
+      <item value="分析&#10;" />
+      <item value="解析" />
       <item value="filter Out All Except" />
       <item value="serialize All Except" />
       <item value="Unrecognized Property Exception" />
@@ -47,13 +54,6 @@
       <item value="get Introspected Class" />
       <item value="Factory method to obtain a {@link SourceClass} from a {@link ConfigurationClass}." />
       <item value="to" />
-      <item value="lite" />
-      <item value="Cached Introspection Results" />
-      <item value="register Bean Definition For Imported Configuration Class" />
-      <item value="process Configuration Class" />
-      <item value="all Exclusions" />
-      <item value="put If Absent" />
-      <item value="&#9; Candidate class not an ImportSelector or ImportBeanDefinitionRegistrar -&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9; process it as an @Configuration class" />
     </histories>
     <option name="languageScores">
       <map>
