@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="DyRest" type="AUTO_DETECTED" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="log4j,properties" type="PLAIN_TEXT" />
       <mapping pattern="CodeGeneratorDemo" type="PLAIN_TEXT" />
