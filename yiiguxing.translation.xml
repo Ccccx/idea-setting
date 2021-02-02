@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="ALLOW UNQUOTED FIELD NAMES" />
+      <item value="INDENT OUTPUT" />
       <item value="A granted authority textual representation is required" />
       <item value="presented Password" />
       <item value="Modifier" />
@@ -52,13 +54,11 @@
       <item value="unique constraint " />
       <item value="internal Map Wildcard Wrapper" />
       <item value="Exact Match" />
-      <item value=" Prefix Match" />
-      <item value="internal Map Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3442" />
-        <entry key="ENGLISH" value="3608" />
+        <entry key="CHINESE" value="3444" />
+        <entry key="ENGLISH" value="3610" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
