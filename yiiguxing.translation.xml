@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="subclass" />
+      <item value="intercept" />
+      <item value="is Declared By" />
       <item value="parse" />
       <item value="par" />
       <item value="resolve" />
@@ -51,14 +54,11 @@
       <item value="get Http Servlet Mapping" />
       <item value="&#9;&#9;  Load on startup priority of the dispatcher servlet.&#10;" />
       <item value="MAXIMUM ITERATION SIZE" />
-      <item value="get Introspected Class" />
-      <item value="Factory method to obtain a {@link SourceClass} from a {@link ConfigurationClass}." />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3435" />
-        <entry key="ENGLISH" value="3601" />
+        <entry key="CHINESE" value="3438" />
+        <entry key="ENGLISH" value="3604" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
