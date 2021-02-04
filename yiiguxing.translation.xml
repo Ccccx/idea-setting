@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Exception Web Socket Handler Decorator" />
       <item value="same Origin Disabled" />
       <item value="configure Inbound" />
       <item value="Stomp Header Accessor" />
@@ -53,12 +54,11 @@
       <item value="perform Tables Migration" />
       <item value="Individually Schema Migrator Impl" />
       <item value="interpret Script Source Setting" />
-      <item value="Schema Management Tool Coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3462" />
-        <entry key="ENGLISH" value="3628" />
+        <entry key="CHINESE" value="3463" />
+        <entry key="ENGLISH" value="3629" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
