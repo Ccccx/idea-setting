@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="490" />
+    <option name="newTranslationDialogWidth" value="488" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="note" />
       <item value="object Container Factory" />
       <item value="缺失信息&#10;" />
       <item value="缺失" />
@@ -53,7 +54,6 @@
       <item value="uri Variables" />
       <item value=" default impl. delegates to StrictMath&#10;                                    Note that hardware sqrt instructions&#10;                                    frequently can be directly used by JITs&#10;                                    and should be much faster than doing&#10;                                    Math.sqrt in software." />
       <item value="Performance Inteceptor" />
-      <item value="templated" />
     </histories>
     <option name="languageScores">
       <map>
