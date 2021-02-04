@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="object Container Factory" />
       <item value="缺失信息&#10;" />
       <item value="缺失" />
       <item value="Exception Web Socket Handler Decorator" />
@@ -53,12 +54,11 @@
       <item value=" default impl. delegates to StrictMath&#10;                                    Note that hardware sqrt instructions&#10;                                    frequently can be directly used by JITs&#10;                                    and should be much faster than doing&#10;                                    Math.sqrt in software." />
       <item value="Performance Inteceptor" />
       <item value="templated" />
-      <item value="perform Tables Migration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3463" />
-        <entry key="ENGLISH" value="3629" />
+        <entry key="CHINESE" value="3464" />
+        <entry key="ENGLISH" value="3630" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
