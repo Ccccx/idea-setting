@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="get Type For Factory Bean From Attributes" />
+      <item value="predicted Type" />
+      <item value="class To Match" />
+      <item value="is Factory Dereference" />
       <item value="Async Annotation Bean Post Processor" />
       <item value="is Compatible" />
       <item value="get Originating Bean Definition" />
@@ -50,15 +54,11 @@
       <item value="is Declared By" />
       <item value="parse" />
       <item value="par" />
-      <item value="resolve" />
-      <item value="res" />
-      <item value="分析" />
-      <item value="分析&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3471" />
-        <entry key="ENGLISH" value="3637" />
+        <entry key="CHINESE" value="3475" />
+        <entry key="ENGLISH" value="3641" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
