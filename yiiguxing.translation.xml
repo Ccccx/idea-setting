@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="is Compatible" />
+      <item value="get Originating Bean Definition" />
+      <item value=" Unresolvable class definition for class" />
+      <item value="&#9; Register annotation config processors, if necessary." />
       <item value="handler Chain" />
       <item value="Failed to introspect" />
       <item value="note" />
@@ -50,15 +54,11 @@
       <item value="分析" />
       <item value="分析&#10;" />
       <item value="解析" />
-      <item value="filter Out All Except" />
-      <item value="serialize All Except" />
-      <item value="Unrecognized Property Exception" />
-      <item value="uri Variables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3466" />
-        <entry key="ENGLISH" value="3632" />
+        <entry key="CHINESE" value="3470" />
+        <entry key="ENGLISH" value="3636" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
