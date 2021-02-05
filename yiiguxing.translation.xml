@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Unresolvable class definition for class [com.tiamaes.cloud.m1.authority.user.persistence.M1UserInfoMapper]" />
+      <item value="converted Value" />
       <item value="evaluate" />
       <item value="get Type For Factory Bean From Attributes" />
       <item value="predicted Type" />
@@ -52,13 +54,11 @@
       <item value="Agent" />
       <item value="subclass" />
       <item value="intercept" />
-      <item value="is Declared By" />
-      <item value="parse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3476" />
-        <entry key="ENGLISH" value="3642" />
+        <entry key="CHINESE" value="3477" />
+        <entry key="ENGLISH" value="3643" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
