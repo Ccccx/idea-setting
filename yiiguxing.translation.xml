@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="474" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="原始对象" />
+      <item value="validation" />
+      <item value="valid" />
+      <item value="有效的" />
+      <item value="验证" />
+      <item value="valat" />
+      <item value="val" />
+      <item value="valation" />
       <item value="Subject " />
       <item value="扩展" />
       <item value="模板" />
@@ -46,14 +54,6 @@
       <item value="permit All" />
       <item value="Unexpected response code" />
       <item value="Processing transport" />
-      <item value="set Ignore Unresolvable Nested Placeholders" />
-      <item value="init Sql Parser Info Cache" />
-      <item value="Interceptor Ignore" />
-      <item value="apply Scoped Proxy Mode" />
-      <item value="columns" />
-      <item value="colums" />
-      <item value="字段" />
-      <item value="元数据" />
     </histories>
     <option name="languageScores">
       <map>
