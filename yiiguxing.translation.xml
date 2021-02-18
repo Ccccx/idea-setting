@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="unmodifiable Map" />
       <item value="qualifier Class Name" />
       <item value="原始对象" />
       <item value="validation" />
@@ -53,12 +54,11 @@
       <item value="priority" />
       <item value="alert" />
       <item value="permit All" />
-      <item value="Unexpected response code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3483" />
-        <entry key="ENGLISH" value="3649" />
+        <entry key="CHINESE" value="3484" />
+        <entry key="ENGLISH" value="3650" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
