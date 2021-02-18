@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="474" />
+    <option name="newTranslationDialogWidth" value="472" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="raw" />
+      <item value="原始数据" />
       <item value="unmodifiable Map" />
       <item value="qualifier Class Name" />
       <item value="原始对象" />
@@ -52,8 +54,6 @@
       <item value="set Interval" />
       <item value="destination" />
       <item value="priority" />
-      <item value="alert" />
-      <item value="permit All" />
     </histories>
     <option name="languageScores">
       <map>
