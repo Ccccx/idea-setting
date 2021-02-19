@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="      A Configuration object for customize default settings. If {@link configLocation}&#10;      is specified, this property is not used.&#10;      TODO 使用 MybatisConfiguration" />
       <item value="materialize" />
       <item value="conflict Message Producer" />
       <item value="Strict Map" />
@@ -53,12 +54,11 @@
       <item value="get Originating Bean Definition" />
       <item value=" Unresolvable class definition for class" />
       <item value="&#9; Register annotation config processors, if necessary." />
-      <item value="handler Chain" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3497" />
-        <entry key="ENGLISH" value="3663" />
+        <entry key="ENGLISH" value="3664" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
