@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="replay To" />
       <item value="condition" />
       <item value=" Not used in 1.5.X, kept for legacy support." />
       <item value="No Class Def Found Error" />
@@ -53,12 +54,11 @@
       <item value="Unresolvable class definition for class [com.tiamaes.cloud.m1.authority.user.persistence.M1UserInfoMapper]" />
       <item value="converted Value" />
       <item value="evaluate" />
-      <item value="get Type For Factory Bean From Attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3502" />
-        <entry key="ENGLISH" value="3669" />
+        <entry key="CHINESE" value="3503" />
+        <entry key="ENGLISH" value="3670" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
