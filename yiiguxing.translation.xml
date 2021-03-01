@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Bean Post Processor" />
+      <item value="is Binding Data Object" />
+      <item value="is Unbindable Bean" />
+      <item value="contains Descendant Of" />
+      <item value="get Aggregate Binder" />
       <item value="replacement Target" />
       <item value="initialize Bean" />
       <item value="apply Bean Post Processors After Initialization" />
@@ -49,16 +54,11 @@
       <item value="原始数据" />
       <item value="unmodifiable Map" />
       <item value="qualifier Class Name" />
-      <item value="原始对象" />
-      <item value="validation" />
-      <item value="valid" />
-      <item value="有效的" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3519" />
-        <entry key="ENGLISH" value="3686" />
+        <entry key="CHINESE" value="3523" />
+        <entry key="ENGLISH" value="3690" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
