@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="replacement Target" />
+      <item value="initialize Bean" />
+      <item value="apply Bean Post Processors After Initialization" />
+      <item value="apply Bean Post Processors Before Instantiation" />
       <item value="post Process Before Initialization" />
       <item value="Configuration Properties Value Object Bean Definition" />
       <item value="&#9; We can't use constructor injection of the application context because&#10;&#9;&#9; it causes eager factory bean initialization" />
@@ -50,15 +54,11 @@
       <item value="valid" />
       <item value="有效的" />
       <item value="验证" />
-      <item value="valat" />
-      <item value="val" />
-      <item value="valation" />
-      <item value="Subject " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3515" />
-        <entry key="ENGLISH" value="3682" />
+        <entry key="CHINESE" value="3519" />
+        <entry key="ENGLISH" value="3686" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
