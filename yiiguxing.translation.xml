@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="464" />
+    <option name="newTranslationDialogHeight" value="303" />
+    <option name="newTranslationDialogWidth" value="765" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="When String::replaceAll is used, the first argument should be a real regular expression. If it’s not the case, String::replace does exactly the same thing as String::replaceAll without the performance drawback of the regex." />
       <item value="use" />
       <item value="is Worth Trying" />
       <item value="&#9;&#9;&#9;&#9;&#9; We can skip creating a MethodInvocation: just invoke the target directly.&#10;&#9;&#9;&#9;&#9;&#9; Note that the final invoker must be an InvokerInterceptor, so we know&#10;&#9;&#9;&#9;&#9;&#9; it does nothing but a reflective operation on the target, and no hot&#10;&#9;&#9;&#9;&#9;&#9; swapping or fancy proxying." />
@@ -53,7 +55,6 @@
       <item value="Reactive Load Balancer Client Filter" />
       <item value="branch Sno" />
       <item value="union" />
-      <item value="register Disposable Bean If Necessary" />
     </histories>
     <option name="languageScores">
       <map>
