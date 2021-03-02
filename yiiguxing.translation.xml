@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="303" />
-    <option name="newTranslationDialogWidth" value="765" />
+    <option name="newTranslationDialogWidth" value="763" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Loops should not contain more than a single &quot;break&quot; or &quot;continue&quot; statement" />
+      <item value="In the interest of code clarity, static members of a base class should never be accessed using a derived type's name. Doing so is confusing and could create the illusion that two different static members exist." />
+      <item value="The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details.&#10;Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose type is a Java Collection interface." />
       <item value="Registry Unauthorized Exception" />
       <item value="Attempting again with no TLS verification." />
       <item value="Build image failed, perhaps you should make sure your credentials for 'registry.tiamaes.com:5000icms-parenticms-message-service' are set up correctly." />
@@ -52,9 +55,6 @@
       <item value="parse Pending Result Maps" />
       <item value="allow Existing Types" />
       <item value="get Generic Interfaces" />
-      <item value="traverse" />
-      <item value="Server Web Exchange" />
-      <item value="reconstruct URI" />
     </histories>
     <option name="languageScores">
       <map>
