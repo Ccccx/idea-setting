@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="303" />
-    <option name="newTranslationDialogWidth" value="761" />
+    <option name="newTranslationDialogWidth" value="759" />
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="adapter" />
       <item value="适配器" />
       <item value="适配" />
       <item value="Loops should not contain more than a single &quot;break&quot; or &quot;continue&quot; statement" />
@@ -54,7 +55,6 @@
       <item value="materialize" />
       <item value="conflict Message Producer" />
       <item value="Strict Map" />
-      <item value="parse Pending Result Maps" />
     </histories>
     <option name="languageScores">
       <map>
