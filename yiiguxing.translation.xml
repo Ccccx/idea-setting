@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="&#9;&#9; Add the AopInfrastructureBean marker to indicate that the scoped proxy&#10;&#9;&#9; itself is not subject to auto-proxying! Only its target bean is." />
+      <item value="Introduction Interceptor" />
       <item value="preserve Target Class" />
       <item value="set Decorated Definition" />
       <item value="Delegating Introduction Interceptor" />
@@ -53,13 +55,11 @@
       <item value=" No Trust Decider for Conduit" />
       <item value="replay To" />
       <item value="condition" />
-      <item value=" Not used in 1.5.X, kept for legacy support." />
-      <item value="No Class Def Found Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3539" />
-        <entry key="ENGLISH" value="3706" />
+        <entry key="CHINESE" value="3541" />
+        <entry key="ENGLISH" value="3708" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
