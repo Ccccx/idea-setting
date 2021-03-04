@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="preserve Target Class" />
+      <item value="set Decorated Definition" />
+      <item value="Delegating Introduction Interceptor" />
+      <item value="set Unique Factory Method Name" />
       <item value="process Member Classes" />
       <item value="&#9;&#9; Recursively process the configuration class and its superclass hierarchy.&#10;" />
       <item value="&#10;&#9;&#9; Make sure bean class is actually resolved at this point, and&#10;&#9;&#9; clone the bean definition in case of a dynamically resolved Class&#10;&#9;&#9; which cannot be stored in the shared merged bean definition." />
@@ -51,15 +55,11 @@
       <item value="condition" />
       <item value=" Not used in 1.5.X, kept for legacy support." />
       <item value="No Class Def Found Error" />
-      <item value="is Supper Mapper Children" />
-      <item value="private Lookup In" />
-      <item value="inject" />
-      <item value="assert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3535" />
-        <entry key="ENGLISH" value="3702" />
+        <entry key="CHINESE" value="3539" />
+        <entry key="ENGLISH" value="3706" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
