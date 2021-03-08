@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1058" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="If not&#10;&#9;  specified, the property must &lt;strong&gt;not&lt;strong&gt; be equal to {@code false}." />
       <item value="extras" />
       <item value="ios set badge" />
       <item value="&#9;&#9; Invoke BeanDefinitionRegistryPostProcessors first, if any." />
@@ -54,12 +55,11 @@
       <item value="Dynamic Captcha Wrapper" />
       <item value="动态" />
       <item value="Class Define Constant" />
-      <item value="Suspicious call to 'Map.get'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3548" />
-        <entry key="ENGLISH" value="3715" />
+        <entry key="CHINESE" value="3549" />
+        <entry key="ENGLISH" value="3716" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="20" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614566623560" />
+    <option name="lastTrimTime" value="1615181801484" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
